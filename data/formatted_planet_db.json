@@ -1,0 +1,5640 @@
+{
+    "regions": {
+        "Outer Rim": {
+            "sectors": {
+                "Arkanis": {
+                    "grids": {
+                        "R16": {
+                            "planets": [
+                                "A-Foroon",
+                                "Andooweel",
+                                "Austan",
+                                "B-Foroon",
+                                "C-Foroon",
+                                "Cranan",
+                                "Gedi",
+                                "Geonosis",
+                                "Kemal Station",
+                                "Melnea's World",
+                                "New Ator",
+                                "Obana",
+                                "Ooo-temiuk",
+                                "Pii",
+                                "Piroket",
+                                "Tatooine",
+                                "Utaruun",
+                                "Vactooine",
+                                "Vuzsa"
+                            ]
+                        },
+                        "R17": {
+                            "planets": [
+                                "Arkanis",
+                                "Cirus",
+                                "Gorno",
+                                "Heffrin",
+                                "Huldamun",
+                                "Issor",
+                                "Khubeaie",
+                                "Mika",
+                                "Najiba",
+                                "Sirpar",
+                                "Tarnoonga",
+                                "Vasch",
+                                "Vor Deo"
+                            ]
+                        }
+                    }
+                },
+                "Sprizen": {
+                    "grids": {
+                        "N5": {
+                            "planets": [
+                                "Abafar",
+                                "Salin"
+                            ]
+                        }
+                    }
+                },
+                "Zuma": {
+                    "grids": {
+                        "H16": {
+                            "planets": [
+                                "Abbaji",
+                                "Firrerre",
+                                "Houche"
+                            ]
+                        }
+                    }
+                },
+                "Corporate Sector": {
+                    "grids": {
+                        "S3": {
+                            "planets": [
+                                "Abo Dreth",
+                                "Atchorb",
+                                "Bonadan",
+                                "Brosi",
+                                "D'ian",
+                                "Deltooine",
+                                "Fether",
+                                "Fibuli",
+                                "Hiit",
+                                "Kamar",
+                                "Kir",
+                                "Lythos",
+                                "Ocsin",
+                                "Perin",
+                                "R'alla",
+                                "Salient",
+                                "Tothis",
+                                "Ulicia"
+                            ]
+                        },
+                        "S4": {
+                            "planets": [
+                                "Ammuud",
+                                "Ban-Satir",
+                                "Biewa",
+                                "Cantonica",
+                                "Duroon",
+                                "Erysthes",
+                                "Ession",
+                                "Etti",
+                                "Gaurick",
+                                "Issagra",
+                                "Jerrist",
+                                "Joodrudda",
+                                "Kalla",
+                                "Maryo",
+                                "Matra",
+                                "Media",
+                                "Orron",
+                                "Oslumpex",
+                                "Pondut Station",
+                                "Rampa",
+                                "Saclas",
+                                "Saffalore",
+                                "Tirsa",
+                                "Urdur"
+                            ]
+                        },
+                        "R4": {
+                            "planets": [
+                                "Craci",
+                                "Drog"
+                            ]
+                        },
+                        "R3": {
+                            "planets": [
+                                "Davirien",
+                                "Kail",
+                                "Knolstee",
+                                "Lo'Uran",
+                                "Mall'ordian",
+                                "Ninn",
+                                "Reltooine"
+                            ]
+                        }
+                    }
+                },
+                "Koradin": {
+                    "grids": {
+                        "J18": {
+                            "planets": [
+                                "Abridon",
+                                "Keskin"
+                            ]
+                        },
+                        "I18": {
+                            "planets": [
+                                "Coveway",
+                                "Lipsec",
+                                "Sump",
+                                "Virgillia"
+                            ]
+                        }
+                    }
+                },
+                "Tunka": {
+                    "grids": {
+                        "I19": {
+                            "planets": [
+                                "Absit",
+                                "Thakwaa"
+                            ]
+                        }
+                    }
+                },
+                "Minos": {
+                    "grids": {
+                        "M20": {
+                            "planets": [
+                                "Adarlon",
+                                "Eliad",
+                                "Karideph",
+                                "Pergitor"
+                            ]
+                        }
+                    }
+                },
+                "Bheriz": {
+                    "grids": {
+                        "U11": {
+                            "planets": [
+                                "Aduba"
+                            ]
+                        },
+                        "U10": {
+                            "planets": [
+                                "Bheriz"
+                            ]
+                        },
+                        "T11": {
+                            "planets": [
+                                "Droxu"
+                            ]
+                        }
+                    }
+                },
+                "Kessel": {
+                    "grids": {
+                        "T10": {
+                            "planets": [
+                                "Aeneid",
+                                "Drualkiin",
+                                "Formos",
+                                "Honoghr",
+                                "Kessel",
+                                "Little Kessel",
+                                "Prishella",
+                                "Rnda",
+                                "The Maw",
+                                "Zerm"
+                            ]
+                        }
+                    }
+                },
+                "Periphery": {
+                    "grids": {
+                        "S8": {
+                            "planets": [
+                                "Af'El",
+                                "Lant",
+                                "Sriluur",
+                                "Vaathkree",
+                                "Yoribuunt"
+                            ]
+                        }
+                    }
+                },
+                "Lahara": {
+                    "grids": {
+                        "M5": {
+                            "planets": [
+                                "Agamar",
+                                "Gandolo"
+                            ]
+                        }
+                    }
+                },
+                "Ash Worlds": {
+                    "grids": {
+                        "T7": {
+                            "planets": [
+                                "Agon",
+                                "Chiron",
+                                "Cophrigin",
+                                "Iego",
+                                "Nyny",
+                                "OHS1782-03",
+                                "OHS2132-04",
+                                "OHS3842-03",
+                                "OHS4140-02"
+                            ]
+                        },
+                        "S7": {
+                            "planets": [
+                                "Altratonne",
+                                "Wyndigal"
+                            ]
+                        },
+                        "T6": {
+                            "planets": [
+                                "New Alderaan"
+                            ]
+                        }
+                    }
+                },
+                "Myto": {
+                    "grids": {
+                        "K3": {
+                            "planets": [
+                                "Ahakista",
+                                "Criton's Point",
+                                "Dubrillion"
+                            ]
+                        },
+                        "K4": {
+                            "planets": [
+                                "Angor",
+                                "Gabredor"
+                            ]
+                        }
+                    }
+                },
+                "Calaron": {
+                    "grids": {
+                        "T9": {
+                            "planets": [
+                                "Akrit'tar",
+                                "Delacrix",
+                                "Gestrex",
+                                "Kegan",
+                                "Kubindi",
+                                "Norval"
+                            ]
+                        },
+                        "U10": {
+                            "planets": [
+                                "Eadu"
+                            ]
+                        },
+                        "T10": {
+                            "planets": [
+                                "Fwillsving"
+                            ]
+                        },
+                        "U9": {
+                            "planets": [
+                                "Lowick"
+                            ]
+                        }
+                    }
+                },
+                "Oplovis": {
+                    "grids": {
+                        "M5": {
+                            "planets": [
+                                "Akuria"
+                            ]
+                        },
+                        "L5": {
+                            "planets": [
+                                "Ketaris"
+                            ]
+                        }
+                    }
+                },
+                "Cronese Mandate": {
+                    "grids": {
+                        "S6": {
+                            "planets": [
+                                "Algor",
+                                "Argai",
+                                "Chandaar",
+                                "Corlass",
+                                "Derellium",
+                                "Duinarbulon",
+                                "Eibon",
+                                "Nuswatta",
+                                "Pasmin"
+                            ]
+                        }
+                    }
+                },
+                "Anoat": {
+                    "grids": {
+                        "K18": {
+                            "planets": [
+                                "Allyuen",
+                                "Anoat",
+                                "Bavva",
+                                "Bendeluum",
+                                "Bespin",
+                                "Burnin Konn",
+                                "Council",
+                                "Darlyn Boda",
+                                "Delphon",
+                                "Ertegas",
+                                "Hoth",
+                                "Ione",
+                                "Isis",
+                                "Ison",
+                                "Kirtarkin",
+                                "Mataou",
+                                "Mev",
+                                "Mexeluine",
+                                "Mijos",
+                                "Nothoiin",
+                                "Polmanar",
+                                "Saila Na",
+                                "The Ring",
+                                "Tinoon",
+                                "Tokmia",
+                                "Zephry",
+                                "Zhanox"
+                            ]
+                        }
+                    }
+                },
+                "Mortex": {
+                    "grids": {
+                        "S5": {
+                            "planets": [
+                                "Almania"
+                            ]
+                        },
+                        "R4": {
+                            "planets": [
+                                "Iliabath"
+                            ]
+                        },
+                        "R5": {
+                            "planets": [
+                                "Ranroon"
+                            ]
+                        }
+                    }
+                },
+                "Zoraster": {
+                    "grids": {
+                        "U13": {
+                            "planets": [
+                                "Altor"
+                            ]
+                        }
+                    }
+                },
+                "Sujimis": {
+                    "grids": {
+                        "P19": {
+                            "planets": [
+                                "Alzoc",
+                                "Karazak",
+                                "Orto Plutonia",
+                                "Pantora"
+                            ]
+                        },
+                        "O19": {
+                            "planets": [
+                                "Meryx Minor"
+                            ]
+                        }
+                    }
+                },
+                "Allied Tion": {
+                    "grids": {
+                        "S6": {
+                            "planets": [
+                                "Amarin",
+                                "Barseg",
+                                "Cadinth",
+                                "Jaminere",
+                                "Lianna",
+                                "Voss"
+                            ]
+                        }
+                    }
+                },
+                "Yarith": {
+                    "grids": {
+                        "K18": {
+                            "planets": [
+                                "Anantapar",
+                                "Indellian",
+                                "Isde Naha",
+                                "Orn Kios",
+                                "Shuxl",
+                                "Togominda"
+                            ]
+                        },
+                        "J18": {
+                            "planets": [
+                                "Lutrillia",
+                                "Shuldene"
+                            ]
+                        }
+                    }
+                },
+                "Cor'ric": {
+                    "grids": {
+                        "P18": {
+                            "planets": [
+                                "Andalasa",
+                                "Reuss"
+                            ]
+                        }
+                    }
+                },
+                "Svivreni": {
+                    "grids": {
+                        "Q19": {
+                            "planets": [
+                                "Andelm IV"
+                            ]
+                        },
+                        "O19": {
+                            "planets": [
+                                "Svivren"
+                            ]
+                        }
+                    }
+                },
+                "Albarrio": {
+                    "grids": {
+                        "K5": {
+                            "planets": [
+                                "Anemcoro",
+                                "Aris",
+                                "Haverling",
+                                "Malestrom Nebula",
+                                "Morishim",
+                                "Mygeeto"
+                            ]
+                        },
+                        "K4": {
+                            "planets": [
+                                "Marmoth"
+                            ]
+                        }
+                    }
+                },
+                "Moddell": {
+                    "grids": {
+                        "H16": {
+                            "planets": [
+                                "Annaj",
+                                "Ast Kikorie",
+                                "Din Pulsar",
+                                "Endor",
+                                "Endor Gate",
+                                "Kuna's Eye",
+                                "Kuna's Fist",
+                                "Kuna's Horn",
+                                "Kuna's Tail",
+                                "Kuna's Tooth",
+                                "Maya Kovel",
+                                "Murk",
+                                "Ovise",
+                                "Qina",
+                                "Sanyassa",
+                                "Thonner",
+                                "Trindello",
+                                "UR-1060",
+                                "UR-2650",
+                                "UR-3741",
+                                "UR-8827",
+                                "UR-9353",
+                                "Vasha",
+                                "Vex",
+                                "Zorbia"
+                            ]
+                        }
+                    }
+                },
+                "Braxant": {
+                    "grids": {
+                        "K3": {
+                            "planets": [
+                                "Anorelga",
+                                "Bastion",
+                                "Bnar"
+                            ]
+                        },
+                        "J3": {
+                            "planets": [
+                                "Rimcee Station"
+                            ]
+                        }
+                    }
+                },
+                "Antemeridian": {
+                    "grids": {
+                        "R7": {
+                            "planets": [
+                                "Antemeridias"
+                            ]
+                        }
+                    }
+                },
+                "Centrality": {
+                    "grids": {
+                        "U8": {
+                            "planets": [
+                                "Antipose",
+                                "Dilonexa",
+                                "Douglas",
+                                "Falko",
+                                "Hosrel",
+                                "Paulking",
+                                "Renatasia",
+                                "ThonBoka",
+                                "Trammis",
+                                "Tund",
+                                "Uaua"
+                            ]
+                        },
+                        "T8": {
+                            "planets": [
+                                "Arleen",
+                                "Cadma",
+                                "Dela",
+                                "Erilnar",
+                                "Lekua",
+                                "Oseon",
+                                "Rafa",
+                                "Ringneldia",
+                                "Scillal",
+                                "Zebitrope"
+                            ]
+                        }
+                    }
+                },
+                "Raioballo": {
+                    "grids": {
+                        "L4": {
+                            "planets": [
+                                "Anx Minor",
+                                "Dantooine",
+                                "Gravlex Med",
+                                "Kesmere",
+                                "Kesmere Minor",
+                                "Lah'mu",
+                                "Shusugaunt",
+                                "Sinsang",
+                                "Tertiary Kesmere"
+                            ]
+                        }
+                    }
+                },
+                "Savareen": {
+                    "grids": {
+                        "Q16": {
+                            "planets": [
+                                "Apatros",
+                                "Christophsis",
+                                "Nelvaan",
+                                "Rodia",
+                                "Savareen",
+                                "Tythe"
+                            ]
+                        },
+                        "R17": {
+                            "planets": [
+                                "Orvax"
+                            ]
+                        }
+                    }
+                },
+                "Galov": {
+                    "grids": {
+                        "T13": {
+                            "planets": [
+                                "Arami"
+                            ]
+                        },
+                        "T14": {
+                            "planets": [
+                                "Gamorr"
+                            ]
+                        }
+                    }
+                },
+                "Bon'nyuw-Luq": {
+                    "grids": {
+                        "N17": {
+                            "planets": [
+                                "Arbra"
+                            ]
+                        },
+                        "N18": {
+                            "planets": [
+                                "Sharlissia"
+                            ]
+                        }
+                    }
+                },
+                "Thanium": {
+                    "grids": {
+                        "R6": {
+                            "planets": [
+                                "Arcan",
+                                "Draukyze",
+                                "Felucia",
+                                "Galidraan",
+                                "Mossak",
+                                "Thanium"
+                            ]
+                        }
+                    }
+                },
+                "Gordian Reach": {
+                    "grids": {
+                        "Q6": {
+                            "planets": [
+                                "Arda",
+                                "Arkuda",
+                                "Barison",
+                                "Capella",
+                                "Feldwes",
+                                "Gulvitch",
+                                "Kalishik",
+                                "Karsten's World",
+                                "Korphir",
+                                "Little Capella",
+                                "Pygorix",
+                                "Spintir",
+                                "Tenara",
+                                "The Cometwash",
+                                "Usta",
+                                "Vallusk Cluster"
+                            ]
+                        },
+                        "Q5": {
+                            "planets": [
+                                "Atorra",
+                                "B'trilla",
+                                "Chenowei",
+                                "Elamposnia",
+                                "Feena",
+                                "Mannova",
+                                "Troos",
+                                "Wetyin's Colony"
+                            ]
+                        },
+                        "P5": {
+                            "planets": [
+                                "Betshish",
+                                "Feswe Corridor",
+                                "Feswe Minor",
+                                "Feswe Prime",
+                                "Glade",
+                                "Kli'aar",
+                                "Krylon",
+                                "Kushibah",
+                                "Ladarra",
+                                "Marrovia",
+                                "Mogoshyn",
+                                "Vaal"
+                            ]
+                        },
+                        "P6": {
+                            "planets": [
+                                "Bronsoon",
+                                "Denarii Station",
+                                "Durgen's Star",
+                                "Far Indosa",
+                                "Jovan",
+                                "Near Indosa",
+                                "Povanaria",
+                                "Presbalin",
+                                "Selitan",
+                                "Tertiary Feswe",
+                                "Torque",
+                                "Trinovat",
+                                "Xochtl",
+                                "Yavin"
+                            ]
+                        }
+                    }
+                },
+                "Kanz": {
+                    "grids": {
+                        "N4": {
+                            "planets": [
+                                "Argazda",
+                                "Bimmiel",
+                                "Ereesus",
+                                "Jerne",
+                                "Kol Huro",
+                                "Lorrd"
+                            ]
+                        }
+                    }
+                },
+                "Gree": {
+                    "grids": {
+                        "K3": {
+                            "planets": [
+                                "Asation"
+                            ]
+                        },
+                        "L2": {
+                            "planets": [
+                                "Gree"
+                            ]
+                        }
+                    }
+                },
+                "Sith Worlds": {
+                    "grids": {
+                        "R5": {
+                            "planets": [
+                                "Ashas Ree",
+                                "Bosthirda",
+                                "Dromund Kaas",
+                                "Jaguada",
+                                "Kalsunor",
+                                "Khar Delba",
+                                "Korriban",
+                                "Nicht Ka",
+                                "Rhelg"
+                            ]
+                        },
+                        "R4": {
+                            "planets": [
+                                "Athiss",
+                                "Begeren",
+                                "Bhargebba",
+                                "Ch'hodos",
+                                "Korriz",
+                                "Krayiss",
+                                "Nfolgai",
+                                "Svolten",
+                                "Ziost"
+                            ]
+                        }
+                    }
+                },
+                "Subterrel": {
+                    "grids": {
+                        "M20": {
+                            "planets": [
+                                "Askaj"
+                            ]
+                        },
+                        "L20": {
+                            "planets": [
+                                "Besberra",
+                                "Orax",
+                                "Subterrel"
+                            ]
+                        },
+                        "K20": {
+                            "planets": [
+                                "Fwatna",
+                                "Polis Massa"
+                            ]
+                        }
+                    }
+                },
+                "Unidentified Sector Outer Rim": {
+                    "grids": {
+                        "K5": {
+                            "planets": [
+                                "Scipio"
+                            ]
+                        }
+                    }
+                },
+                "Atravis": {
+                    "grids": {
+                        "L19": {
+                            "planets": [
+                                "Atravis",
+                                "Dorlo",
+                                "Mustafar",
+                                "Shumavar",
+                                "Tosste"
+                            ]
+                        },
+                        "L20": {
+                            "planets": [
+                                "Rutan"
+                            ]
+                        }
+                    }
+                },
+                "Seswenna": {
+                    "grids": {
+                        "M18": {
+                            "planets": [
+                                "Averam",
+                                "Eriadu"
+                            ]
+                        }
+                    }
+                },
+                "D'Astan": {
+                    "grids": {
+                        "O5": {
+                            "planets": [
+                                "Axxila",
+                                "Nez Peron"
+                            ]
+                        },
+                        "O6": {
+                            "planets": [
+                                "Celanon",
+                                "Ord Cestus"
+                            ]
+                        },
+                        "P5": {
+                            "planets": [
+                                "Serenno"
+                            ]
+                        }
+                    }
+                },
+                "Javin": {
+                    "grids": {
+                        "K18": {
+                            "planets": [
+                                "Aztubek",
+                                "Bettel",
+                                "Gerrenthum",
+                                "High Chunah",
+                                "Javin",
+                                "Kumru",
+                                "Ozu",
+                                "Varonat"
+                            ]
+                        }
+                    }
+                },
+                "Astal": {
+                    "grids": {
+                        "P18": {
+                            "planets": [
+                                "Bahalian"
+                            ]
+                        }
+                    }
+                },
+                "Bajic": {
+                    "grids": {
+                        "P18": {
+                            "planets": [
+                                "Bajic",
+                                "Vergesso"
+                            ]
+                        }
+                    }
+                },
+                "Meerian": {
+                    "grids": {
+                        "O6": {
+                            "planets": [
+                                "Bandomeer",
+                                "Vanquo"
+                            ]
+                        },
+                        "O7": {
+                            "planets": [
+                                "Gargon"
+                            ]
+                        }
+                    }
+                },
+                "Albanin": {
+                    "grids": {
+                        "U12": {
+                            "planets": [
+                                "Barab",
+                                "Clantaano"
+                            ]
+                        },
+                        "U13": {
+                            "planets": [
+                                "Daluuj"
+                            ]
+                        },
+                        "T13": {
+                            "planets": [
+                                "Dubrava"
+                            ]
+                        }
+                    }
+                },
+                "Seitia": {
+                    "grids": {
+                        "K19": {
+                            "planets": [
+                                "Barkhesh"
+                            ]
+                        },
+                        "K20": {
+                            "planets": [
+                                "Manpha"
+                            ]
+                        }
+                    }
+                },
+                "Dominus": {
+                    "grids": {
+                        "U7": {
+                            "planets": [
+                                "Baros",
+                                "Dornea",
+                                "Garel",
+                                "Lothal"
+                            ]
+                        }
+                    }
+                },
+                "Shadola": {
+                    "grids": {
+                        "U8": {
+                            "planets": [
+                                "Baummu",
+                                "Maldra",
+                                "Skeebo"
+                            ]
+                        },
+                        "T8": {
+                            "planets": [
+                                "Gand"
+                            ]
+                        }
+                    }
+                },
+                "Belderone": {
+                    "grids": {
+                        "R6": {
+                            "planets": [
+                                "Belderone",
+                                "Kodai",
+                                "Rhen Var"
+                            ]
+                        }
+                    }
+                },
+                "Dalonbian": {
+                    "grids": {
+                        "L1": {
+                            "planets": [
+                                "Belkadan"
+                            ]
+                        },
+                        "M3": {
+                            "planets": [
+                                "Birgis",
+                                "Seline"
+                            ]
+                        },
+                        "L2": {
+                            "planets": [
+                                "Helska"
+                            ]
+                        },
+                        "L3": {
+                            "planets": [
+                                "Sernpidal"
+                            ]
+                        }
+                    }
+                },
+                "Bozhnee": {
+                    "grids": {
+                        "L18": {
+                            "planets": [
+                                "Belsavis",
+                                "Garnib",
+                                "Ossel"
+                            ]
+                        }
+                    }
+                },
+                "Kriz": {
+                    "grids": {
+                        "K19": {
+                            "planets": [
+                                "Berrol's Donn",
+                                "Sil'Lume"
+                            ]
+                        },
+                        "J19": {
+                            "planets": [
+                                "Quintas"
+                            ]
+                        },
+                        "J18": {
+                            "planets": [
+                                "Taul"
+                            ]
+                        }
+                    }
+                },
+                "Obtrexta": {
+                    "grids": {
+                        "K3": {
+                            "planets": [
+                                "Bescane",
+                                "Varvrona"
+                            ]
+                        },
+                        "J3": {
+                            "planets": [
+                                "Dolis"
+                            ]
+                        },
+                        "K4": {
+                            "planets": [
+                                "Jaemus",
+                                "Muunilinst"
+                            ]
+                        }
+                    }
+                },
+                "Corva": {
+                    "grids": {
+                        "P4": {
+                            "planets": [
+                                "Betha"
+                            ]
+                        },
+                        "P3": {
+                            "planets": [
+                                "Eol Sha",
+                                "Oricon",
+                                "Soullex",
+                                "Ventooine"
+                            ]
+                        }
+                    }
+                },
+                "Velcar": {
+                    "grids": {
+                        "J4": {
+                            "planets": [
+                                "Bextar"
+                            ]
+                        },
+                        "K4": {
+                            "planets": [
+                                "Capza",
+                                "Entralla"
+                            ]
+                        },
+                        "J5": {
+                            "planets": [
+                                "Churruma",
+                                "Endex",
+                                "Ryloon"
+                            ]
+                        }
+                    }
+                },
+                "Cassander": {
+                    "grids": {
+                        "K5": {
+                            "planets": [
+                                "Biitu",
+                                "Cassander",
+                                "Forsen",
+                                "Garqi",
+                                "Minashee",
+                                "Monhudle",
+                                "New Bakstre",
+                                "Ord Canfre"
+                            ]
+                        },
+                        "L5": {
+                            "planets": [
+                                "Isiring",
+                                "Kalki Nebula"
+                            ]
+                        }
+                    }
+                },
+                "Clacis": {
+                    "grids": {
+                        "K4": {
+                            "planets": [
+                                "Bisellia",
+                                "Cezith",
+                                "Endoraan",
+                                "Fodro",
+                                "Gwori",
+                                "Kwevron",
+                                "Ord Sedra",
+                                "Venestria"
+                            ]
+                        },
+                        "J4": {
+                            "planets": [
+                                "Dactruria"
+                            ]
+                        }
+                    }
+                },
+                "Mayagil": {
+                    "grids": {
+                        "M18": {
+                            "planets": [
+                                "Bith",
+                                "Triton",
+                                "Xagobah"
+                            ]
+                        },
+                        "N18": {
+                            "planets": [
+                                "Kabal"
+                            ]
+                        }
+                    }
+                },
+                "Suolriep": {
+                    "grids": {
+                        "S8": {
+                            "planets": [
+                                "Boonta",
+                                "Komnor",
+                                "Saleucami"
+                            ]
+                        }
+                    }
+                },
+                "Oricho": {
+                    "grids": {
+                        "M6": {
+                            "planets": [
+                                "Borgo Prime",
+                                "Polus"
+                            ]
+                        }
+                    }
+                },
+                "Prefsbelt": {
+                    "grids": {
+                        "K5": {
+                            "planets": [
+                                "Borosk",
+                                "Carlac",
+                                "Ompersan",
+                                "Prefsbelt",
+                                "Yaga Minor"
+                            ]
+                        },
+                        "J5": {
+                            "planets": [
+                                "Comra"
+                            ]
+                        }
+                    }
+                },
+                "Brema": {
+                    "grids": {
+                        "M18": {
+                            "planets": [
+                                "Bortras"
+                            ]
+                        },
+                        "M17": {
+                            "planets": [
+                                "Cmaoli Di",
+                                "Ord Ibanna",
+                                "Sullust"
+                            ]
+                        }
+                    }
+                },
+                "Bosph": {
+                    "grids": {
+                        "Q3": {
+                            "planets": [
+                                "Bosph"
+                            ]
+                        }
+                    }
+                },
+                "Belsmuth": {
+                    "grids": {
+                        "O6": {
+                            "planets": [
+                                "Botajef",
+                                "Harloen",
+                                "Raydonia"
+                            ]
+                        }
+                    }
+                },
+                "Sluis": {
+                    "grids": {
+                        "M19": {
+                            "planets": [
+                                "Bpfassh",
+                                "Dagobah",
+                                "Denab",
+                                "Praesitlyn",
+                                "Sluis Van"
+                            ]
+                        }
+                    }
+                },
+                "Tion Hegemony": {
+                    "grids": {
+                        "T6": {
+                            "planets": [
+                                "Brigia",
+                                "Caluula",
+                                "Dellalt",
+                                "Eredenn"
+                            ]
+                        },
+                        "S6": {
+                            "planets": [
+                                "Desevro",
+                                "Kaon",
+                                "Rudrig"
+                            ]
+                        },
+                        "S5": {
+                            "planets": [
+                                "Endregaad",
+                                "Kanaver",
+                                "Livien",
+                                "Raxus",
+                                "Tion"
+                            ]
+                        }
+                    }
+                },
+                "Perinn": {
+                    "grids": {
+                        "J4": {
+                            "planets": [
+                                "Brodo Asogi",
+                                "Cantras Gola",
+                                "Valc"
+                            ]
+                        }
+                    }
+                },
+                "Calamari": {
+                    "grids": {
+                        "U6": {
+                            "planets": [
+                                "Buchich",
+                                "Damendine",
+                                "Hinakuu",
+                                "Krinemonen",
+                                "Mantan",
+                                "Mon Calamari",
+                                "New Heurkea",
+                                "Pammant",
+                                "Pinperu",
+                                "Ruisto"
+                            ]
+                        },
+                        "T6": {
+                            "planets": [
+                                "Eridicon",
+                                "Minntooine"
+                            ]
+                        },
+                        "U7": {
+                            "planets": [
+                                "Kamdon",
+                                "Poseidenna",
+                                "Sanctuary",
+                                "Taral V"
+                            ]
+                        }
+                    }
+                },
+                "Meridian": {
+                    "grids": {
+                        "R7": {
+                            "planets": [
+                                "Budpock",
+                                "Cybloc",
+                                "Nim Drovis",
+                                "Sorjus"
+                            ]
+                        },
+                        "R6": {
+                            "planets": [
+                                "Nam Chorios"
+                            ]
+                        }
+                    }
+                },
+                "Pacanth Reach": {
+                    "grids": {
+                        "H16": {
+                            "planets": [
+                                "Bunduki",
+                                "Panatha"
+                            ]
+                        }
+                    }
+                },
+                "Cademimu": {
+                    "grids": {
+                        "M6": {
+                            "planets": [
+                                "Cademimu"
+                            ]
+                        },
+                        "L6": {
+                            "planets": [
+                                "Lenico IV",
+                                "Phaeda"
+                            ]
+                        }
+                    }
+                },
+                "Aparo": {
+                    "grids": {
+                        "R3": {
+                            "planets": [
+                                "Cadomai"
+                            ]
+                        },
+                        "R4": {
+                            "planets": [
+                                "Lur"
+                            ]
+                        }
+                    }
+                },
+                "Morshdine": {
+                    "grids": {
+                        "O5": {
+                            "planets": [
+                                "Camden",
+                                "Edusa",
+                                "Vandyne"
+                            ]
+                        },
+                        "O4": {
+                            "planets": [
+                                "Tangrene"
+                            ]
+                        }
+                    }
+                },
+                "Saijo": {
+                    "grids": {
+                        "J20": {
+                            "planets": [
+                                "Cantros"
+                            ]
+                        },
+                        "K20": {
+                            "planets": [
+                                "Faldos",
+                                "Saijo"
+                            ]
+                        }
+                    }
+                },
+                "Nembus": {
+                    "grids": {
+                        "P4": {
+                            "planets": [
+                                "Carosi",
+                                "Kirtania",
+                                "Praadost"
+                            ]
+                        }
+                    }
+                },
+                "Quelii": {
+                    "grids": {
+                        "N6": {
+                            "planets": [
+                                "Cathar",
+                                "Halmad"
+                            ]
+                        },
+                        "O6": {
+                            "planets": [
+                                "Dathomir",
+                                "Drackmar",
+                                "Quelii"
+                            ]
+                        },
+                        "N5": {
+                            "planets": [
+                                "Vinsoth"
+                            ]
+                        }
+                    }
+                },
+                "Jospro": {
+                    "grids": {
+                        "R7": {
+                            "planets": [
+                                "Chad",
+                                "Jomark",
+                                "Trogan"
+                            ]
+                        },
+                        "S7": {
+                            "planets": [
+                                "Kile",
+                                "Sy Myrth"
+                            ]
+                        }
+                    }
+                },
+                "Colundra": {
+                    "grids": {
+                        "T5": {
+                            "planets": [
+                                "Cholganna"
+                            ]
+                        },
+                        "S4": {
+                            "planets": [
+                                "Troiken"
+                            ]
+                        }
+                    }
+                },
+                "Dantus": {
+                    "grids": {
+                        "J6": {
+                            "planets": [
+                                "Cirrus",
+                                "Troska"
+                            ]
+                        }
+                    }
+                },
+                "Ciutric": {
+                    "grids": {
+                        "N5": {
+                            "planets": [
+                                "Ciutric",
+                                "Corvis Minor"
+                            ]
+                        }
+                    }
+                },
+                "Vorzyd": {
+                    "grids": {
+                        "R6": {
+                            "planets": [
+                                "Columex",
+                                "Vorzyd"
+                            ]
+                        }
+                    }
+                },
+                "Esstran": {
+                    "grids": {
+                        "R5": {
+                            "planets": [
+                                "Corbos"
+                            ]
+                        },
+                        "Q5": {
+                            "planets": [
+                                "Jagomir",
+                                "Odacer-Faustin",
+                                "Ord Radama",
+                                "Thule"
+                            ]
+                        }
+                    }
+                },
+                "Rseik": {
+                    "grids": {
+                        "N20": {
+                            "planets": [
+                                "Corva Yag",
+                                "Cotellier",
+                                "Ma'ar Shaddam",
+                                "Taroon",
+                                "Vestar"
+                            ]
+                        }
+                    }
+                },
+                "Grumani": {
+                    "grids": {
+                        "N17": {
+                            "planets": [
+                                "Crait",
+                                "Phaegon_III",
+                                "Sanrafsix",
+                                "Verdanth"
+                            ]
+                        },
+                        "M17": {
+                            "planets": [
+                                "Darkknell"
+                            ]
+                        }
+                    }
+                },
+                "Sanbra": {
+                    "grids": {
+                        "O17": {
+                            "planets": [
+                                "D'Qar",
+                                "Rugosa",
+                                "Sanbra"
+                            ]
+                        }
+                    }
+                },
+                "Cadavine": {
+                    "grids": {
+                        "P17": {
+                            "planets": [
+                                "Daan/Melida",
+                                "Trigalis",
+                                "Zhar"
+                            ]
+                        }
+                    }
+                },
+                "Cadma": {
+                    "grids": {
+                        "T8": {
+                            "planets": [
+                                "Dagelin Minor"
+                            ]
+                        }
+                    }
+                },
+                "Dalchon": {
+                    "grids": {
+                        "R17": {
+                            "planets": [
+                                "Dalchon",
+                                "Shimia"
+                            ]
+                        }
+                    }
+                },
+                "Carrion": {
+                    "grids": {
+                        "J4": {
+                            "planets": [
+                                "Delephr",
+                                "Gelda",
+                                "Vexta"
+                            ]
+                        }
+                    }
+                },
+                "Kallea": {
+                    "grids": {
+                        "K21": {
+                            "planets": [
+                                "Delrakkin"
+                            ]
+                        },
+                        "J21": {
+                            "planets": [
+                                "Imynusoph"
+                            ]
+                        },
+                        "K20": {
+                            "planets": [
+                                "Terminus"
+                            ]
+                        }
+                    }
+                },
+                "Tharin": {
+                    "grids": {
+                        "S8": {
+                            "planets": [
+                                "Dennogra",
+                                "Oovo"
+                            ]
+                        },
+                        "T8": {
+                            "planets": [
+                                "Junkfort Station",
+                                "Nimat",
+                                "Tammar"
+                            ]
+                        },
+                        "S7": {
+                            "planets": [
+                                "Taskeed"
+                            ]
+                        }
+                    }
+                },
+                "Ojoster": {
+                    "grids": {
+                        "N7": {
+                            "planets": [
+                                "Denova",
+                                "Taris",
+                                "Wayland"
+                            ]
+                        }
+                    }
+                },
+                "Atrivis": {
+                    "grids": {
+                        "L5": {
+                            "planets": [
+                                "Devon",
+                                "Fedje",
+                                "Fest",
+                                "Generis",
+                                "Gibbela",
+                                "Hethar",
+                                "Horuz",
+                                "Iridium",
+                                "Mantooine",
+                                "Markbee's Star",
+                                "Moltok",
+                                "Nam'ta",
+                                "Spefik",
+                                "Vuchelle"
+                            ]
+                        }
+                    }
+                },
+                "Baxel": {
+                    "grids": {
+                        "U12": {
+                            "planets": [
+                                "Dilbana",
+                                "Lirra",
+                                "Rampa Minor",
+                                "Rinn",
+                                "Teth"
+                            ]
+                        },
+                        "U11": {
+                            "planets": [
+                                "Glottal",
+                                "Nadiem"
+                            ]
+                        }
+                    }
+                },
+                "Videnda": {
+                    "grids": {
+                        "L18": {
+                            "planets": [
+                                "Dolla"
+                            ]
+                        },
+                        "M18": {
+                            "planets": [
+                                "Dorvalla"
+                            ]
+                        }
+                    }
+                },
+                "Kwymar": {
+                    "grids": {
+                        "Q4": {
+                            "planets": [
+                                "Doniphon",
+                                "Jelucan",
+                                "Listehol",
+                                "Seelos",
+                                "Tantive",
+                                "Telos"
+                            ]
+                        }
+                    }
+                },
+                "Wyl": {
+                    "grids": {
+                        "R4": {
+                            "planets": [
+                                "Dra",
+                                "Lafra"
+                            ]
+                        }
+                    }
+                },
+                "Tamarin": {
+                    "grids": {
+                        "N18": {
+                            "planets": [
+                                "Dravian Station"
+                            ]
+                        },
+                        "N19": {
+                            "planets": [
+                                "Kirdo",
+                                "Sevarcos"
+                            ]
+                        }
+                    }
+                },
+                "Dail": {
+                    "grids": {
+                        "Q18": {
+                            "planets": [
+                                "Drexel"
+                            ]
+                        }
+                    }
+                },
+                "Sertar": {
+                    "grids": {
+                        "R5": {
+                            "planets": [
+                                "Elom",
+                                "Syngia",
+                                "Yutusk"
+                            ]
+                        },
+                        "S5": {
+                            "planets": [
+                                "Sembla"
+                            ]
+                        }
+                    }
+                },
+                "Elrood": {
+                    "grids": {
+                        "M20": {
+                            "planets": [
+                                "Elrood"
+                            ]
+                        }
+                    }
+                },
+                "Quence": {
+                    "grids": {
+                        "O18": {
+                            "planets": [
+                                "Elshandruu Pica"
+                            ]
+                        },
+                        "O19": {
+                            "planets": [
+                                "Suarbi"
+                            ]
+                        }
+                    }
+                },
+                "Nilgaard": {
+                    "grids": {
+                        "S5": {
+                            "planets": [
+                                "Emmer",
+                                "Makem Te",
+                                "Quermia",
+                                "Toola"
+                            ]
+                        }
+                    }
+                },
+                "Veragi": {
+                    "grids": {
+                        "K3": {
+                            "planets": [
+                                "Equanus"
+                            ]
+                        },
+                        "L3": {
+                            "planets": [
+                                "Plesstil",
+                                "Plooma",
+                                "Trassitan",
+                                "Veragi"
+                            ]
+                        },
+                        "L2": {
+                            "planets": [
+                                "Revyia"
+                            ]
+                        }
+                    }
+                },
+                "Noonian": {
+                    "grids": {
+                        "M6": {
+                            "planets": [
+                                "Er'Kit"
+                            ]
+                        },
+                        "N6": {
+                            "planets": [
+                                "Ord Sigatt"
+                            ]
+                        },
+                        "N7": {
+                            "planets": [
+                                "Pallaxides"
+                            ]
+                        }
+                    }
+                },
+                "Svetta": {
+                    "grids": {
+                        "T16": {
+                            "planets": [
+                                "Excarga"
+                            ]
+                        },
+                        "S16": {
+                            "planets": [
+                                "Kowak"
+                            ]
+                        }
+                    }
+                },
+                "I-Sector": {
+                    "grids": {
+                        "Q4": {
+                            "planets": [
+                                "Ferro",
+                                "Mirial",
+                                "Sikurd",
+                                "Thila"
+                            ]
+                        }
+                    }
+                },
+                "Pakuuni": {
+                    "grids": {
+                        "T5": {
+                            "planets": [
+                                "Florn"
+                            ]
+                        },
+                        "T6": {
+                            "planets": [
+                                "Gbu",
+                                "Munto Codru",
+                                "Pakuuni",
+                                "Refnar",
+                                "Reginard",
+                                "Shaylin",
+                                "Telaris",
+                                "Turkana"
+                            ]
+                        }
+                    }
+                },
+                "Weneen": {
+                    "grids": {
+                        "N6": {
+                            "planets": [
+                                "G'wenee"
+                            ]
+                        }
+                    }
+                },
+                "Nuiri": {
+                    "grids": {
+                        "Q7": {
+                            "planets": [
+                                "Gala",
+                                "Stygeon Prime"
+                            ]
+                        },
+                        "Q6": {
+                            "planets": [
+                                "Lucazec",
+                                "Quell",
+                                "Vjun"
+                            ]
+                        }
+                    }
+                },
+                "Trilon": {
+                    "grids": {
+                        "H15": {
+                            "planets": [
+                                "Gannaria",
+                                "Zaddja"
+                            ]
+                        },
+                        "H16": {
+                            "planets": [
+                                "Rattatak"
+                            ]
+                        }
+                    }
+                },
+                "Gaulus": {
+                    "grids": {
+                        "S17": {
+                            "planets": [
+                                "Gaulus",
+                                "Wrea"
+                            ]
+                        },
+                        "R17": {
+                            "planets": [
+                                "Ryloth"
+                            ]
+                        },
+                        "S18": {
+                            "planets": [
+                                "Smuggler's Run"
+                            ]
+                        }
+                    }
+                },
+                "Tynquay": {
+                    "grids": {
+                        "R4": {
+                            "planets": [
+                                "Gigor",
+                                "Thosa"
+                            ]
+                        }
+                    }
+                },
+                "Phelleem": {
+                    "grids": {
+                        "S7": {
+                            "planets": [
+                                "Handooine",
+                                "Jabiim"
+                            ]
+                        }
+                    }
+                },
+                "Thesme": {
+                    "grids": {
+                        "O6": {
+                            "planets": [
+                                "Hijado"
+                            ]
+                        },
+                        "O5": {
+                            "planets": [
+                                "Junction",
+                                "Thesme"
+                            ]
+                        }
+                    }
+                },
+                "Abrion": {
+                    "grids": {
+                        "S15": {
+                            "planets": [
+                                "Hishyim",
+                                "Molavar",
+                                "Rishi",
+                                "Roon",
+                                "Scarif",
+                                "Ukio",
+                                "Varristad"
+                            ]
+                        }
+                    }
+                },
+                "Kalamith": {
+                    "grids": {
+                        "O5": {
+                            "planets": [
+                                "Hynah",
+                                "Sorrus"
+                            ]
+                        },
+                        "P5": {
+                            "planets": [
+                                "Pho Ph'eah",
+                                "Simpla",
+                                "Tandun",
+                                "Toprawa"
+                            ]
+                        }
+                    }
+                },
+                "Ferra": {
+                    "grids": {
+                        "S16": {
+                            "planets": [
+                                "Hypori"
+                            ]
+                        }
+                    }
+                },
+                "Mieru'kar": {
+                    "grids": {
+                        "N4": {
+                            "planets": [
+                                "Ibanjji"
+                            ]
+                        },
+                        "O3": {
+                            "planets": [
+                                "Maltha Obex"
+                            ]
+                        }
+                    }
+                },
+                "Herios": {
+                    "grids": {
+                        "T16": {
+                            "planets": [
+                                "Illarreen"
+                            ]
+                        },
+                        "T15": {
+                            "planets": [
+                                "Pzob"
+                            ]
+                        }
+                    }
+                },
+                "Rolion": {
+                    "grids": {
+                        "Q7": {
+                            "planets": [
+                                "Indu San"
+                            ]
+                        },
+                        "Q6": {
+                            "planets": [
+                                "Maridun"
+                            ]
+                        }
+                    }
+                },
+                "Iotra": {
+                    "grids": {
+                        "S8": {
+                            "planets": [
+                                "Iotra"
+                            ]
+                        }
+                    }
+                },
+                "Fath": {
+                    "grids": {
+                        "K6": {
+                            "planets": [
+                                "JanFathal",
+                                "Ord Cantrell",
+                                "Wistril"
+                            ]
+                        }
+                    }
+                },
+                "Indrexu": {
+                    "grids": {
+                        "S5": {
+                            "planets": [
+                                "Janodral Mizar"
+                            ]
+                        }
+                    }
+                },
+                "Jubilar": {
+                    "grids": {
+                        "T7": {
+                            "planets": [
+                                "Jubilar",
+                                "Toong'l"
+                            ]
+                        }
+                    }
+                },
+                "Kathol": {
+                    "grids": {
+                        "M21": {
+                            "planets": [
+                                "Kal'Shebbol"
+                            ]
+                        }
+                    }
+                },
+                "Mandalore": {
+                    "grids": {
+                        "O7": {
+                            "planets": [
+                                "Kalevala",
+                                "Mandalore & Concordia",
+                                "Ordo",
+                                "Zanbar"
+                            ]
+                        }
+                    }
+                },
+                "Rayter": {
+                    "grids": {
+                        "J19": {
+                            "planets": [
+                                "Karra",
+                                "Najarka"
+                            ]
+                        }
+                    }
+                },
+                "Steniplis": {
+                    "grids": {
+                        "L18": {
+                            "planets": [
+                                "Kelrodo-Ai"
+                            ]
+                        }
+                    }
+                },
+                "Wazta": {
+                    "grids": {
+                        "I18": {
+                            "planets": [
+                                "Koda Station"
+                            ]
+                        },
+                        "I17": {
+                            "planets": [
+                                "Lotho Minor",
+                                "Ryoone",
+                                "Vassek"
+                            ]
+                        }
+                    }
+                },
+                "Grohl": {
+                    "grids": {
+                        "R16": {
+                            "planets": [
+                                "Koiogra"
+                            ]
+                        }
+                    }
+                },
+                "Yminis": {
+                    "grids": {
+                        "S14": {
+                            "planets": [
+                                "Kolanda Station"
+                            ]
+                        }
+                    }
+                },
+                "Bri'ahl": {
+                    "grids": {
+                        "I17": {
+                            "planets": [
+                                "Lanteeb"
+                            ]
+                        }
+                    }
+                },
+                "Karthakk": {
+                    "grids": {
+                        "Q16": {
+                            "planets": [
+                                "Llanic"
+                            ]
+                        },
+                        "Q17": {
+                            "planets": [
+                                "Lok"
+                            ]
+                        }
+                    }
+                },
+                "Quiberon": {
+                    "grids": {
+                        "S15": {
+                            "planets": [
+                                "Lyran"
+                            ]
+                        },
+                        "T15": {
+                            "planets": [
+                                "R-Duba",
+                                "Rothana"
+                            ]
+                        }
+                    }
+                },
+                "Thrasybule": {
+                    "grids": {
+                        "P6": {
+                            "planets": [
+                                "Malrev IV"
+                            ]
+                        }
+                    }
+                },
+                "Keldrath": {
+                    "grids": {
+                        "T6": {
+                            "planets": [
+                                "Mullan"
+                            ]
+                        }
+                    }
+                },
+                "Auril": {
+                    "grids": {
+                        "S6": {
+                            "planets": [
+                                "Murkhana"
+                            ]
+                        },
+                        "R6": {
+                            "planets": [
+                                "Ossus"
+                            ]
+                        }
+                    }
+                },
+                "Chorlian": {
+                    "grids": {
+                        "S4": {
+                            "planets": [
+                                "Nathema",
+                                "Vaynai",
+                                "Zygerria"
+                            ]
+                        },
+                        "": {
+                            "planets": [
+                                "Rekkiad"
+                            ]
+                        }
+                    }
+                },
+                "Merel": {
+                    "grids": {
+                        "Q19": {
+                            "planets": [
+                                "Nedij"
+                            ]
+                        }
+                    }
+                },
+                "Xappyh": {
+                    "grids": {
+                        "Q3": {
+                            "planets": [
+                                "Neelgaimon",
+                                "Ruuria"
+                            ]
+                        },
+                        "Q4": {
+                            "planets": [
+                                "Peragus II"
+                            ]
+                        },
+                        "R4": {
+                            "planets": [
+                                "Tiss'sharl"
+                            ]
+                        }
+                    }
+                },
+                "Halthor": {
+                    "grids": {
+                        "M6": {
+                            "planets": [
+                                "Noonar"
+                            ]
+                        }
+                    }
+                },
+                "Garis": {
+                    "grids": {
+                        "N18": {
+                            "planets": [
+                                "Omwat"
+                            ]
+                        },
+                        "N17": {
+                            "planets": [
+                                "Syned"
+                            ]
+                        }
+                    }
+                },
+                "Relgim": {
+                    "grids": {
+                        "L5": {
+                            "planets": [
+                                "Ord Biniir",
+                                "Vykos"
+                            ]
+                        },
+                        "L4": {
+                            "planets": [
+                                "Ord Trasi"
+                            ]
+                        }
+                    }
+                },
+                "Khuiumin": {
+                    "grids": {
+                        "O18": {
+                            "planets": [
+                                "Ord Grovner"
+                            ]
+                        }
+                    }
+                },
+                "Dynali": {
+                    "grids": {
+                        "J4": {
+                            "planets": [
+                                "Ord Thoden",
+                                "Taspir III"
+                            ]
+                        }
+                    }
+                },
+                "Demetras": {
+                    "grids": {
+                        "P6": {
+                            "planets": [
+                                "Phindar"
+                            ]
+                        }
+                    }
+                },
+                "Danjar": {
+                    "grids": {
+                        "M19": {
+                            "planets": [
+                                "Queyta"
+                            ]
+                        }
+                    }
+                },
+                "Instrop": {
+                    "grids": {
+                        "T17": {
+                            "planets": [
+                                "Rannon",
+                                "Shinbone"
+                            ]
+                        }
+                    }
+                },
+                "Toblain": {
+                    "grids": {
+                        "O18": {
+                            "planets": [
+                                "Shadda-Bi Boran"
+                            ]
+                        }
+                    }
+                },
+                "Tragan Cluster": {
+                    "grids": {
+                        "N5": {
+                            "planets": [
+                                "Shaum Hii"
+                            ]
+                        }
+                    }
+                },
+                "Tammuz": {
+                    "grids": {
+                        "T15": {
+                            "planets": [
+                                "Shiffrin"
+                            ]
+                        },
+                        "U14": {
+                            "planets": [
+                                "Shola"
+                            ]
+                        },
+                        "T14": {
+                            "planets": [
+                                "Tammuz-an"
+                            ]
+                        }
+                    }
+                },
+                "Hunnovers": {
+                    "grids": {
+                        "R17": {
+                            "planets": [
+                                "Siskeen"
+                            ]
+                        }
+                    }
+                },
+                "Airam": {
+                    "grids": {
+                        "M20": {
+                            "planets": [
+                                "Skor"
+                            ]
+                        },
+                        "L20": {
+                            "planets": [
+                                "Swellen"
+                            ]
+                        }
+                    }
+                },
+                "Tarabba": {
+                    "grids": {
+                        "N19": {
+                            "planets": [
+                                "Skustell Cluster",
+                                "Utapau"
+                            ]
+                        },
+                        "M19": {
+                            "planets": [
+                                "Tarabba"
+                            ]
+                        }
+                    }
+                },
+                "Varada": {
+                    "grids": {
+                        "H19": {
+                            "planets": [
+                                "Skye"
+                            ]
+                        }
+                    }
+                },
+                "Skine": {
+                    "grids": {
+                        "P19": {
+                            "planets": [
+                                "Skynara"
+                            ]
+                        }
+                    }
+                },
+                "Kiblini": {
+                    "grids": {
+                        "Q17": {
+                            "planets": [
+                                "Socorro"
+                            ]
+                        }
+                    }
+                },
+                "Parmic": {
+                    "grids": {
+                        "P18": {
+                            "planets": [
+                                "Spice Terminus"
+                            ]
+                        }
+                    }
+                },
+                "Juris": {
+                    "grids": {
+                        "P17": {
+                            "planets": [
+                                "Stend"
+                            ]
+                        }
+                    }
+                },
+                "Spadja": {
+                    "grids": {
+                        "R5": {
+                            "planets": [
+                                "Stenos"
+                            ]
+                        },
+                        "R6": {
+                            "planets": [
+                                "Tandankin"
+                            ]
+                        }
+                    }
+                },
+                "Al-Nasrl": {
+                    "grids": {
+                        "T13": {
+                            "planets": [
+                                "Syvris",
+                                "Unagin"
+                            ]
+                        }
+                    }
+                },
+                "Meram": {
+                    "grids": {
+                        "P4": {
+                            "planets": [
+                                "Thalassia"
+                            ]
+                        }
+                    }
+                },
+                "Bakura": {
+                    "grids": {
+                        "G16": {
+                            "planets": [
+                                "Timora"
+                            ]
+                        }
+                    }
+                },
+                "Stensen": {
+                    "grids": {
+                        "I16": {
+                            "planets": [
+                                "Trenwyth"
+                            ]
+                        }
+                    }
+                },
+                "Parmel": {
+                    "grids": {
+                        "O18": {
+                            "planets": [
+                                "Vohai"
+                            ]
+                        }
+                    }
+                },
+                "Spinward": {
+                    "grids": {
+                        "N2": {
+                            "planets": [
+                                "Xo"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Core": {
+            "sectors": {
+                "Unidentified Sector Core": {
+                    "grids": {
+                        "L10": {
+                            "planets": [
+                                "Yulant"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Mid Rim": {
+            "sectors": {
+                "Perkell": {
+                    "grids": {
+                        "Q7": {
+                            "planets": [
+                                "Aargonar",
+                                "Gromas",
+                                "Trancret"
+                            ]
+                        }
+                    }
+                },
+                "Maldrood": {
+                    "grids": {
+                        "R7": {
+                            "planets": [
+                                "Abhean",
+                                "Centares",
+                                "New Holstice",
+                                "The Wheel"
+                            ]
+                        }
+                    }
+                },
+                "Yushan": {
+                    "grids": {
+                        "K17": {
+                            "planets": [
+                                "Abraxas",
+                                "Dalisor",
+                                "Jiroch",
+                                "Kaal",
+                                "Rrulinn"
+                            ]
+                        }
+                    }
+                },
+                "Senex": {
+                    "grids": {
+                        "L17": {
+                            "planets": [
+                                "Adoris",
+                                "Aquella",
+                                "Asmeru",
+                                "Asmeru Anomaly",
+                                "Caltinia",
+                                "Crovna",
+                                "Cyimarra",
+                                "Knores",
+                                "Mussubir",
+                                "Nantama",
+                                "Nars",
+                                "Neelanon",
+                                "Nepoy",
+                                "Paramatan",
+                                "Presteen",
+                                "Rulaar",
+                                "Senex",
+                                "Skartis",
+                                "Veron"
+                            ]
+                        },
+                        "L18": {
+                            "planets": [
+                                "Angratha",
+                                "Antiquity",
+                                "Anturus",
+                                "Atron",
+                                "Bator Bai",
+                                "Boro-borosa",
+                                "Denebia",
+                                "Doreen",
+                                "Fengrine",
+                                "Hestria",
+                                "Hovan",
+                                "Hutlar",
+                                "Jalarren",
+                                "Kalgo",
+                                "Kamur",
+                                "Karfeddion",
+                                "Kedorzha",
+                                "Osmani",
+                                "Port Evokk",
+                                "Serat",
+                                "Shoon",
+                                "Simoom",
+                                "Suliana",
+                                "Tekurr'k",
+                                "Tranthellix",
+                                "Usnia",
+                                "Varadan",
+                                "Voorsbain",
+                                "Yetoom"
+                            ]
+                        }
+                    }
+                },
+                "Fel Hu": {
+                    "grids": {
+                        "P13": {
+                            "planets": [
+                                "Aikhibba",
+                                "Hoylin"
+                            ]
+                        },
+                        "Q13": {
+                            "planets": [
+                                "Beris"
+                            ]
+                        }
+                    }
+                },
+                "Var Hagen": {
+                    "grids": {
+                        "M16": {
+                            "planets": [
+                                "Alakatha",
+                                "Lanthe",
+                                "Opiteihr",
+                                "Vogel",
+                                "Vondarc"
+                            ]
+                        }
+                    }
+                },
+                "Vilonis": {
+                    "grids": {
+                        "O16": {
+                            "planets": [
+                                "Alassa Major",
+                                "Kalinda"
+                            ]
+                        }
+                    }
+                },
+                "Bright Jewel": {
+                    "grids": {
+                        "L7": {
+                            "planets": [
+                                "Aleen",
+                                "Anobis",
+                                "Balnab",
+                                "Jarnollen",
+                                "Ord Mantell",
+                                "Patitite Pattuna",
+                                "Qiilura"
+                            ]
+                        }
+                    }
+                },
+                "Corweillian": {
+                    "grids": {
+                        "P15": {
+                            "planets": [
+                                "Algara",
+                                "Kabray"
+                            ]
+                        }
+                    }
+                },
+                "Dufilvian": {
+                    "grids": {
+                        "Q15": {
+                            "planets": [
+                                "Algarian",
+                                "Blenjeel",
+                                "Womrik"
+                            ]
+                        },
+                        "R15": {
+                            "planets": [
+                                "Ord Pardron"
+                            ]
+                        },
+                        "Q16": {
+                            "planets": [
+                                "Talay"
+                            ]
+                        }
+                    }
+                },
+                "Alui": {
+                    "grids": {
+                        "O17": {
+                            "planets": [
+                                "Alui",
+                                "Enarc"
+                            ]
+                        }
+                    }
+                },
+                "Lambda": {
+                    "grids": {
+                        "Q15": {
+                            "planets": [
+                                "Ando"
+                            ]
+                        },
+                        "P15": {
+                            "planets": [
+                                "Andosha"
+                            ]
+                        },
+                        "P16": {
+                            "planets": [
+                                "Argus",
+                                "Rintonne",
+                                "Zolan"
+                            ]
+                        },
+                        "Q16": {
+                            "planets": [
+                                "Mon Gazza"
+                            ]
+                        }
+                    }
+                },
+                "Druess": {
+                    "grids": {
+                        "O15": {
+                            "planets": [
+                                "Ank Kit'aar"
+                            ]
+                        },
+                        "O16": {
+                            "planets": [
+                                "Sedesia"
+                            ]
+                        }
+                    }
+                },
+                "Freestanding Subsectors": {
+                    "grids": {
+                        "I7": {
+                            "planets": [
+                                "Ankus",
+                                "Burska",
+                                "Murgo",
+                                "The Red Twins"
+                            ]
+                        },
+                        "H15": {
+                            "planets": [
+                                "Codia"
+                            ]
+                        },
+                        "I8": {
+                            "planets": [
+                                "Geroon",
+                                "Utegetu Nebula"
+                            ]
+                        },
+                        "H10": {
+                            "planets": [
+                                "Jedha"
+                            ]
+                        }
+                    }
+                },
+                "Churnis": {
+                    "grids": {
+                        "I6": {
+                            "planets": [
+                                "Ansion",
+                                "Namadii"
+                            ]
+                        },
+                        "I7": {
+                            "planets": [
+                                "Gilatter"
+                            ]
+                        },
+                        "J7": {
+                            "planets": [
+                                "Kalaan",
+                                "Rustibar"
+                            ]
+                        }
+                    }
+                },
+                "Juvex": {
+                    "grids": {
+                        "L17": {
+                            "planets": [
+                                "Anstares",
+                                "Carsanza",
+                                "Deminol",
+                                "Dioll",
+                                "Kardura",
+                                "Kassido",
+                                "Malador",
+                                "Manforgon",
+                                "Ossiathora",
+                                "Thermon",
+                                "Valorsi",
+                                "Yhifar",
+                                "Zaria"
+                            ]
+                        },
+                        "K18": {
+                            "planets": [
+                                "Arporatal-Lanin",
+                                "Farstone",
+                                "Little Talhovi",
+                                "Talhovi",
+                                "Thull's Vault",
+                                "Umthyg"
+                            ]
+                        },
+                        "L18": {
+                            "planets": [
+                                "Dramassia",
+                                "Juvex",
+                                "K'ath",
+                                "Kimm Aurek",
+                                "Kimm Besh",
+                                "Kimm Cresh",
+                                "Loovria",
+                                "Pieldi",
+                                "Pirralor",
+                                "Q'mara",
+                                "Resti Kel",
+                                "Tinallis",
+                                "Tyluun",
+                                "Velga",
+                                "Vulcar",
+                                "Zyluria"
+                            ]
+                        }
+                    }
+                },
+                "Esuain": {
+                    "grids": {
+                        "P7": {
+                            "planets": [
+                                "Anteevy",
+                                "Kromus"
+                            ]
+                        }
+                    }
+                },
+                "Bryx": {
+                    "grids": {
+                        "R7": {
+                            "planets": [
+                                "Anzat"
+                            ]
+                        },
+                        "R8": {
+                            "planets": [
+                                "Bryx",
+                                "Wobani"
+                            ]
+                        }
+                    }
+                },
+                "Endocray": {
+                    "grids": {
+                        "S14": {
+                            "planets": [
+                                "Argovia"
+                            ]
+                        }
+                    }
+                },
+                "Lantillian": {
+                    "grids": {
+                        "P9": {
+                            "planets": [
+                                "Avenelle",
+                                "Uyter"
+                            ]
+                        },
+                        "P8": {
+                            "planets": [
+                                "Lantillies",
+                                "Phaseera"
+                            ]
+                        }
+                    }
+                },
+                "Truum": {
+                    "grids": {
+                        "P8": {
+                            "planets": [
+                                "Azure"
+                            ]
+                        },
+                        "O8": {
+                            "planets": [
+                                "Contruum"
+                            ]
+                        }
+                    }
+                },
+                "Taldot": {
+                    "grids": {
+                        "Q9": {
+                            "planets": [
+                                "Balamak"
+                            ]
+                        },
+                        "R9": {
+                            "planets": [
+                                "Charros"
+                            ]
+                        },
+                        "P8": {
+                            "planets": [
+                                "Rearqu Cluster"
+                            ]
+                        },
+                        "P9": {
+                            "planets": [
+                                "Togoria"
+                            ]
+                        }
+                    }
+                },
+                "Sombure": {
+                    "grids": {
+                        "K16": {
+                            "planets": [
+                                "Balis-Baurgh",
+                                "Barcaria",
+                                "Ichtor"
+                            ]
+                        },
+                        "K17": {
+                            "planets": [
+                                "Chibias",
+                                "D'rinba"
+                            ]
+                        }
+                    }
+                },
+                "Corthenia": {
+                    "grids": {
+                        "K7": {
+                            "planets": [
+                                "Baltizaar"
+                            ]
+                        }
+                    }
+                },
+                "Hevvrol": {
+                    "grids": {
+                        "O15": {
+                            "planets": [
+                                "Bannistar Station",
+                                "Triffis"
+                            ]
+                        },
+                        "P15": {
+                            "planets": [
+                                "Indobok",
+                                "Kalarba"
+                            ]
+                        }
+                    }
+                },
+                "Graador": {
+                    "grids": {
+                        "I17": {
+                            "planets": [
+                                "Bastooine"
+                            ]
+                        }
+                    }
+                },
+                "Halla": {
+                    "grids": {
+                        "R9": {
+                            "planets": [
+                                "Bimmisaari"
+                            ]
+                        },
+                        "S9": {
+                            "planets": [
+                                "Boz Pity",
+                                "Danuta",
+                                "Xoman"
+                            ]
+                        },
+                        "R8": {
+                            "planets": [
+                                "Peg Shar"
+                            ]
+                        }
+                    }
+                },
+                "Trax": {
+                    "grids": {
+                        "Q10": {
+                            "planets": [
+                                "Bissillirus",
+                                "Deysum",
+                                "Lexrul",
+                                "Uogo'cor"
+                            ]
+                        },
+                        "P10": {
+                            "planets": [
+                                "Genian"
+                            ]
+                        }
+                    }
+                },
+                "Kastolar": {
+                    "grids": {
+                        "Q10": {
+                            "planets": [
+                                "Blimph",
+                                "Durkteel",
+                                "Sneeve",
+                                "Ubrikkia",
+                                "Yitabo"
+                            ]
+                        },
+                        "R10": {
+                            "planets": [
+                                "Chalacta",
+                                "Kwenn"
+                            ]
+                        }
+                    }
+                },
+                "Wornal": {
+                    "grids": {
+                        "K16": {
+                            "planets": [
+                                "Bomis Koori",
+                                "Kriselist"
+                            ]
+                        }
+                    }
+                },
+                "Manda": {
+                    "grids": {
+                        "R14": {
+                            "planets": [
+                                "Boranda",
+                                "Holess",
+                                "Thoran",
+                                "Zygia"
+                            ]
+                        },
+                        "R15": {
+                            "planets": [
+                                "Dennaskar",
+                                "Manda"
+                            ]
+                        }
+                    }
+                },
+                "Bothan Space": {
+                    "grids": {
+                        "R14": {
+                            "planets": [
+                                "Bothawui",
+                                "Kothlis",
+                                "Krant",
+                                "Mandell",
+                                "Moonus",
+                                "Tarsunt"
+                            ]
+                        }
+                    }
+                },
+                "Tandon": {
+                    "grids": {
+                        "Q14": {
+                            "planets": [
+                                "Bresnia",
+                                "Spirador"
+                            ]
+                        }
+                    }
+                },
+                "Msst": {
+                    "grids": {
+                        "P7": {
+                            "planets": [
+                                "Bseto",
+                                "Garos",
+                                "Msst"
+                            ]
+                        }
+                    }
+                },
+                "Bruanii": {
+                    "grids": {
+                        "K18": {
+                            "planets": [
+                                "Cargamalis",
+                                "Mugaar"
+                            ]
+                        },
+                        "K17": {
+                            "planets": [
+                                "Quamar"
+                            ]
+                        }
+                    }
+                },
+                "Tennuutta": {
+                    "grids": {
+                        "Q7": {
+                            "planets": [
+                                "Casfield",
+                                "Ord Tiddell"
+                            ]
+                        },
+                        "Q8": {
+                            "planets": [
+                                "Salvara"
+                            ]
+                        }
+                    }
+                },
+                "Semagi": {
+                    "grids": {
+                        "I16": {
+                            "planets": [
+                                "Cerea",
+                                "Cheelit"
+                            ]
+                        }
+                    }
+                },
+                "Tashtor": {
+                    "grids": {
+                        "I16": {
+                            "planets": [
+                                "Chalcedon"
+                            ]
+                        },
+                        "J16": {
+                            "planets": [
+                                "Tashtor Seneca"
+                            ]
+                        }
+                    }
+                },
+                "Mytaranor": {
+                    "grids": {
+                        "Q10": {
+                            "planets": [
+                                "Chamble",
+                                "Messert",
+                                "Ota",
+                                "Randon"
+                            ]
+                        },
+                        "P9": {
+                            "planets": [
+                                "Kashyyyk",
+                                "Rakhuuun",
+                                "Trandosha"
+                            ]
+                        },
+                        "Q9": {
+                            "planets": [
+                                "Kwookrrr"
+                            ]
+                        },
+                        "P10": {
+                            "planets": [
+                                "Mytaranor",
+                                "Tholatin"
+                            ]
+                        }
+                    }
+                },
+                "Maerdocia": {
+                    "grids": {
+                        "Q13": {
+                            "planets": [
+                                "Chokan",
+                                "Deneba",
+                                "Shador",
+                                "Thokosia"
+                            ]
+                        },
+                        "Q12": {
+                            "planets": [
+                                "Chroma Zed"
+                            ]
+                        }
+                    }
+                },
+                "Dustig": {
+                    "grids": {
+                        "M17": {
+                            "planets": [
+                                "Chryya",
+                                "Haruun Kal",
+                                "Kath"
+                            ]
+                        },
+                        "N16": {
+                            "planets": [
+                                "Demos",
+                                "Malastare",
+                                "ZeHeth"
+                            ]
+                        },
+                        "N17": {
+                            "planets": [
+                                "Nuvar"
+                            ]
+                        }
+                    }
+                },
+                "Terr'skiar": {
+                    "grids": {
+                        "P10": {
+                            "planets": [
+                                "Coachelle",
+                                "New Apsolon",
+                                "Pizilis",
+                                "Rorgam",
+                                "Terr'Skiar",
+                                "Torn Station"
+                            ]
+                        }
+                    }
+                },
+                "Thursa": {
+                    "grids": {
+                        "O7": {
+                            "planets": [
+                                "Concord Dawn"
+                            ]
+                        }
+                    }
+                },
+                "Corbett": {
+                    "grids": {
+                        "I17": {
+                            "planets": [
+                                "Corbett CLuster"
+                            ]
+                        }
+                    }
+                },
+                "Spirva": {
+                    "grids": {
+                        "L17": {
+                            "planets": [
+                                "Cyphar",
+                                "Naalol"
+                            ]
+                        }
+                    }
+                },
+                "Daalang": {
+                    "grids": {
+                        "Q12": {
+                            "planets": [
+                                "Daalang"
+                            ]
+                        }
+                    }
+                },
+                "Ariarch": {
+                    "grids": {
+                        "J6": {
+                            "planets": [
+                                "Dalron",
+                                "Keitum"
+                            ]
+                        }
+                    }
+                },
+                "Agarix": {
+                    "grids": {
+                        "K18": {
+                            "planets": [
+                                "Dasoor"
+                            ]
+                        }
+                    }
+                },
+                "Strabin": {
+                    "grids": {
+                        "M7": {
+                            "planets": [
+                                "Djurmo",
+                                "Lavisar"
+                            ]
+                        }
+                    }
+                },
+                "Dohlbani": {
+                    "grids": {
+                        "R13": {
+                            "planets": [
+                                "Dohlban"
+                            ]
+                        },
+                        "R14": {
+                            "planets": [
+                                "Void Station"
+                            ]
+                        }
+                    }
+                },
+                "Dohu": {
+                    "grids": {
+                        "K7": {
+                            "planets": [
+                                "Dohu"
+                            ]
+                        }
+                    }
+                },
+                "Doldur": {
+                    "grids": {
+                        "P15": {
+                            "planets": [
+                                "Doldur",
+                                "Druckenwell",
+                                "Falleen",
+                                "Linuri",
+                                "Monor"
+                            ]
+                        }
+                    }
+                },
+                "Lanic Space": {
+                    "grids": {
+                        "Q13": {
+                            "planets": [
+                                "Dractu"
+                            ]
+                        },
+                        "R13": {
+                            "planets": [
+                                "Lannik"
+                            ]
+                        }
+                    }
+                },
+                "Noolian": {
+                    "grids": {
+                        "Q13": {
+                            "planets": [
+                                "Dressel",
+                                "Nooli",
+                                "Torolis"
+                            ]
+                        }
+                    }
+                },
+                "Teraab": {
+                    "grids": {
+                        "Q11": {
+                            "planets": [
+                                "Drogheda",
+                                "Pesmenben"
+                            ]
+                        },
+                        "P11": {
+                            "planets": [
+                                "Ruusan"
+                            ]
+                        }
+                    }
+                },
+                "Landtillian": {
+                    "grids": {
+                        "P8": {
+                            "planets": [
+                                "Dulathia"
+                            ]
+                        }
+                    }
+                },
+                "Kesh": {
+                    "grids": {
+                        "L6": {
+                            "planets": [
+                                "Ebra",
+                                "Entuur"
+                            ]
+                        }
+                    }
+                },
+                "Hadar": {
+                    "grids": {
+                        "L17": {
+                            "planets": [
+                                "Echnos",
+                                "Parada",
+                                "Rindao"
+                            ]
+                        },
+                        "L18": {
+                            "planets": [
+                                "Tibrin"
+                            ]
+                        }
+                    }
+                },
+                "Ado": {
+                    "grids": {
+                        "L17": {
+                            "planets": [
+                                "Eiattu"
+                            ]
+                        },
+                        "M17": {
+                            "planets": [
+                                "Indupar",
+                                "Medth",
+                                "StarForge Nebula",
+                                "Tshindral"
+                            ]
+                        }
+                    }
+                },
+                "Elbaran": {
+                    "grids": {
+                        "J17": {
+                            "planets": [
+                                "Elbara",
+                                "Hirsi",
+                                "Porchello"
+                            ]
+                        }
+                    }
+                },
+                "Eucer": {
+                    "grids": {
+                        "Q7": {
+                            "planets": [
+                                "Euceron"
+                            ]
+                        },
+                        "R7": {
+                            "planets": [
+                                "Ringo Vinda"
+                            ]
+                        }
+                    }
+                },
+                "Kurost": {
+                    "grids": {
+                        "Q11": {
+                            "planets": [
+                                "Farquar",
+                                "Sev Tok"
+                            ]
+                        },
+                        "Q12": {
+                            "planets": [
+                                "Nanth'ri"
+                            ]
+                        }
+                    }
+                },
+                "Ryndellian": {
+                    "grids": {
+                        "P17": {
+                            "planets": [
+                                "Farstine",
+                                "Ninzan"
+                            ]
+                        },
+                        "O17": {
+                            "planets": [
+                                "Kaliida Shoals",
+                                "Ryndellia"
+                            ]
+                        }
+                    }
+                },
+                "D'Aelgoth": {
+                    "grids": {
+                        "K17": {
+                            "planets": [
+                                "Feenix"
+                            ]
+                        },
+                        "L17": {
+                            "planets": [
+                                "New Cylimba",
+                                "Ogem",
+                                "Selenius",
+                                "Tarsa"
+                            ]
+                        }
+                    }
+                },
+                "Clythe": {
+                    "grids": {
+                        "J7": {
+                            "planets": [
+                                "Fornax",
+                                "Iridonia",
+                                "Valrar"
+                            ]
+                        },
+                        "K7": {
+                            "planets": [
+                                "Nentan",
+                                "Vortex"
+                            ]
+                        }
+                    }
+                },
+                "Romintine": {
+                    "grids": {
+                        "Q8": {
+                            "planets": [
+                                "Gavryn",
+                                "Low'n",
+                                "Romin"
+                            ]
+                        }
+                    }
+                },
+                "M'shinni": {
+                    "grids": {
+                        "M7": {
+                            "planets": [
+                                "Genassa",
+                                "Ylix"
+                            ]
+                        }
+                    }
+                },
+                "Trans'Vulta": {
+                    "grids": {
+                        "O7": {
+                            "planets": [
+                                "Geris",
+                                "Surcaris"
+                            ]
+                        },
+                        "N7": {
+                            "planets": [
+                                "Null",
+                                "Skorrupon",
+                                "Vulta"
+                            ]
+                        }
+                    }
+                },
+                "Jalor": {
+                    "grids": {
+                        "J7": {
+                            "planets": [
+                                "Glee Anselm",
+                                "Vaced"
+                            ]
+                        }
+                    }
+                },
+                "Irishi": {
+                    "grids": {
+                        "K6": {
+                            "planets": [
+                                "Gonmore",
+                                "Obredaan",
+                                "Ord Tessebok",
+                                "Orinda"
+                            ]
+                        }
+                    }
+                },
+                "Trans-Nebular": {
+                    "grids": {
+                        "R16": {
+                            "planets": [
+                                "Goroth",
+                                "Iskalon",
+                                "Milarian"
+                            ]
+                        }
+                    }
+                },
+                "Onatos": {
+                    "grids": {
+                        "R15": {
+                            "planets": [
+                                "Grakouine",
+                                "Lahsbane",
+                                "Somov Rit"
+                            ]
+                        }
+                    }
+                },
+                "Herdessa": {
+                    "grids": {
+                        "Q16": {
+                            "planets": [
+                                "Habassa",
+                                "Herdessa"
+                            ]
+                        }
+                    }
+                },
+                "Halm": {
+                    "grids": {
+                        "J16": {
+                            "planets": [
+                                "Halm",
+                                "Petabys Station"
+                            ]
+                        }
+                    }
+                },
+                "Haserian": {
+                    "grids": {
+                        "P15": {
+                            "planets": [
+                                "Haseria"
+                            ]
+                        },
+                        "Q14": {
+                            "planets": [
+                                "Monastery"
+                            ]
+                        }
+                    }
+                },
+                "Hewett": {
+                    "grids": {
+                        "M6": {
+                            "planets": [
+                                "Hewett"
+                            ]
+                        }
+                    }
+                },
+                "Aldino": {
+                    "grids": {
+                        "J17": {
+                            "planets": [
+                                "Iast"
+                            ]
+                        }
+                    }
+                },
+                "Bortele": {
+                    "grids": {
+                        "R8": {
+                            "planets": [
+                                "Ingo",
+                                "Pusat Station",
+                                "Ultaar",
+                                "Zchtek"
+                            ]
+                        },
+                        "S8": {
+                            "planets": [
+                                "Kalkovak"
+                            ]
+                        }
+                    }
+                },
+                "Ottega": {
+                    "grids": {
+                        "M6": {
+                            "planets": [
+                                "Ithor"
+                            ]
+                        }
+                    }
+                },
+                "Roche": {
+                    "grids": {
+                        "Q8": {
+                            "planets": [
+                                "Jeyell",
+                                "Roche"
+                            ]
+                        }
+                    }
+                },
+                "Chommel": {
+                    "grids": {
+                        "O16": {
+                            "planets": [
+                                "Karlinus"
+                            ]
+                        },
+                        "O17": {
+                            "planets": [
+                                "Naboo"
+                            ]
+                        }
+                    }
+                },
+                "Vensori": {
+                    "grids": {
+                        "O8": {
+                            "planets": [
+                                "Katarr"
+                            ]
+                        }
+                    }
+                },
+                "Venaarian": {
+                    "grids": {
+                        "O7": {
+                            "planets": [
+                                "Kiva"
+                            ]
+                        },
+                        "O8": {
+                            "planets": [
+                                "Venaari"
+                            ]
+                        }
+                    }
+                },
+                "Narrant": {
+                    "grids": {
+                        "J16": {
+                            "planets": [
+                                "Koba",
+                                "Riflor"
+                            ]
+                        }
+                    }
+                },
+                "Kordu": {
+                    "grids": {
+                        "L7": {
+                            "planets": [
+                                "Korvaii"
+                            ]
+                        }
+                    }
+                },
+                "Outer Jalor": {
+                    "grids": {
+                        "I7": {
+                            "planets": [
+                                "Kril'Dor"
+                            ]
+                        }
+                    }
+                },
+                "Churba": {
+                    "grids": {
+                        "P14": {
+                            "planets": [
+                                "Lelmra",
+                                "New Cov"
+                            ]
+                        }
+                    }
+                },
+                "Yucrales": {
+                    "grids": {
+                        "Q15": {
+                            "planets": [
+                                "Leritor"
+                            ]
+                        }
+                    }
+                },
+                "Droma": {
+                    "grids": {
+                        "K6": {
+                            "planets": [
+                                "Lonnaw"
+                            ]
+                        }
+                    }
+                },
+                "Sloo": {
+                    "grids": {
+                        "P14": {
+                            "planets": [
+                                "Lorahns",
+                                "Sanza",
+                                "Vandor"
+                            ]
+                        }
+                    }
+                },
+                "Gendius": {
+                    "grids": {
+                        "J17": {
+                            "planets": [
+                                "Lorta",
+                                "Quaensan Prime"
+                            ]
+                        }
+                    }
+                },
+                "Unidentified Sector Mid Rim": {
+                    "grids": {
+                        "J16": {
+                            "planets": [
+                                "Takodana"
+                            ]
+                        }
+                    }
+                },
+                "Marzoon": {
+                    "grids": {
+                        "I16": {
+                            "planets": [
+                                "Marzoon"
+                            ]
+                        }
+                    }
+                },
+                "Hertae": {
+                    "grids": {
+                        "Q14": {
+                            "planets": [
+                                "Masterra",
+                                "Nexus Ortai"
+                            ]
+                        }
+                    }
+                },
+                "Talcene": {
+                    "grids": {
+                        "R8": {
+                            "planets": [
+                                "Metalorn"
+                            ]
+                        },
+                        "Q8": {
+                            "planets": [
+                                "Orleon",
+                                "Talcene"
+                            ]
+                        }
+                    }
+                },
+                "Irnaj": {
+                    "grids": {
+                        "K17": {
+                            "planets": [
+                                "Miztoc"
+                            ]
+                        }
+                    }
+                },
+                "Vish": {
+                    "grids": {
+                        "N16": {
+                            "planets": [
+                                "Nigel",
+                                "Roldalna",
+                                "Seltos"
+                            ]
+                        }
+                    }
+                },
+                "Eclorar": {
+                    "grids": {
+                        "Q12": {
+                            "planets": [
+                                "Nixor"
+                            ]
+                        }
+                    }
+                },
+                "Tyus": {
+                    "grids": {
+                        "N16": {
+                            "planets": [
+                                "Nuralee",
+                                "Tyus Cluster"
+                            ]
+                        }
+                    }
+                },
+                "Quess": {
+                    "grids": {
+                        "N17": {
+                            "planets": [
+                                "Old Mankoo",
+                                "Trevi"
+                            ]
+                        }
+                    }
+                },
+                "Belshar": {
+                    "grids": {
+                        "J7": {
+                            "planets": [
+                                "Ord Varee"
+                            ]
+                        }
+                    }
+                },
+                "Paqwepori": {
+                    "grids": {
+                        "P15": {
+                            "planets": [
+                                "Paqwepor Major"
+                            ]
+                        }
+                    }
+                },
+                "Daimar": {
+                    "grids": {
+                        "Q16": {
+                            "planets": [
+                                "Radnor",
+                                "Ragna",
+                                "Retep"
+                            ]
+                        }
+                    }
+                },
+                "Rago": {
+                    "grids": {
+                        "I7": {
+                            "planets": [
+                                "Rago",
+                                "Sinton"
+                            ]
+                        }
+                    }
+                },
+                "Essaga": {
+                    "grids": {
+                        "Q11": {
+                            "planets": [
+                                "Rettna"
+                            ]
+                        }
+                    }
+                },
+                "Sarka": {
+                    "grids": {
+                        "Q8": {
+                            "planets": [
+                                "Sarka",
+                                "Trasse"
+                            ]
+                        }
+                    }
+                },
+                "Vorc": {
+                    "grids": {
+                        "J7": {
+                            "planets": [
+                                "Station 88",
+                                "Vicondor"
+                            ]
+                        }
+                    }
+                },
+                "Xan": {
+                    "grids": {
+                        "Q15": {
+                            "planets": [
+                                "Thape"
+                            ]
+                        }
+                    }
+                },
+                "Homon": {
+                    "grids": {
+                        "M7": {
+                            "planets": [
+                                "Triewahl"
+                            ]
+                        }
+                    }
+                },
+                "Barsa": {
+                    "grids": {
+                        "J6": {
+                            "planets": [
+                                "Uba"
+                            ]
+                        }
+                    }
+                },
+                "Mulgard": {
+                    "grids": {
+                        "N16": {
+                            "planets": [
+                                "Umgul"
+                            ]
+                        }
+                    }
+                },
+                "Urce": {
+                    "grids": {
+                        "L6": {
+                            "planets": [
+                                "Urce"
+                            ]
+                        }
+                    }
+                },
+                "Halori": {
+                    "grids": {
+                        "P7": {
+                            "planets": [
+                                "Velmor"
+                            ]
+                        }
+                    }
+                },
+                "Shiwal": {
+                    "grids": {
+                        "M7": {
+                            "planets": [
+                                "Walinor"
+                            ]
+                        }
+                    }
+                },
+                "Qiilura": {
+                    "grids": {
+                        "L7": {
+                            "planets": [
+                                "Yout"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Inner Rim": {
+            "sectors": {
+                "Adari": {
+                    "grids": {
+                        "M9": {
+                            "planets": [
+                                "Adari"
+                            ]
+                        }
+                    }
+                },
+                "Unidentified Sector Inner Rim": {
+                    "grids": {
+                        "O10": {
+                            "planets": [
+                                "Zeltros"
+                            ]
+                        }
+                    }
+                },
+                "Hapes Cluster": {
+                    "grids": {
+                        "O9": {
+                            "planets": [
+                                "Algnadesh",
+                                "Andalia",
+                                "Arabanth",
+                                "Archais",
+                                "Baldavia",
+                                "Calfa",
+                                "Carlania",
+                                "Charubah",
+                                "Cheruba",
+                                "Chosper",
+                                "Daruvvia",
+                                "Divora",
+                                "Dreena",
+                                "Ediorung",
+                                "Farnica",
+                                "Febrini",
+                                "Gallinore",
+                                "Hapes",
+                                "Harterra",
+                                "Jodaka",
+                                "Jovaria",
+                                "k'Farri",
+                                "Ket",
+                                "Lalmy'ash",
+                                "Lemmi",
+                                "Lovola",
+                                "Maires",
+                                "Millinar",
+                                "Modus",
+                                "Nantuker",
+                                "Novi",
+                                "Orelon",
+                                "Phelope",
+                                "Rainboh",
+                                "Rbollea",
+                                "Reboam",
+                                "Relephon",
+                                "Roqoo Depot",
+                                "Rynmar",
+                                "Sargon",
+                                "Selab",
+                                "Sennex",
+                                "Shedu Maad",
+                                "Sivoria",
+                                "Stalsinek",
+                                "Talcharaim",
+                                "Telkur Station",
+                                "Terephon",
+                                "Theselon",
+                                "Thrakia",
+                                "Tinta",
+                                "Tumani",
+                                "Ut",
+                                "Vergill",
+                                "Wodan",
+                                "Zadaria",
+                                "Zalori"
+                            ]
+                        }
+                    }
+                },
+                "Airon": {
+                    "grids": {
+                        "O10": {
+                            "planets": [
+                                "Ambria",
+                                "Ithull",
+                                "Merson",
+                                "Taboon"
+                            ]
+                        }
+                    }
+                },
+                "Marcol": {
+                    "grids": {
+                        "L8": {
+                            "planets": [
+                                "Barlok"
+                            ]
+                        }
+                    }
+                },
+                "Anthos": {
+                    "grids": {
+                        "N8": {
+                            "planets": [
+                                "Berchest"
+                            ]
+                        }
+                    }
+                },
+                "Orus": {
+                    "grids": {
+                        "M8": {
+                            "planets": [
+                                "Chazwa",
+                                "Hijarna",
+                                "Joiol",
+                                "Mantessa",
+                                "Poderis"
+                            ]
+                        }
+                    }
+                },
+                "Nouane": {
+                    "grids": {
+                        "N7": {
+                            "planets": [
+                                "Comkin V",
+                                "Telerath"
+                            ]
+                        },
+                        "N8": {
+                            "planets": [
+                                "Nouane"
+                            ]
+                        }
+                    }
+                },
+                "Inner Cluster": {
+                    "grids": {
+                        "O11": {
+                            "planets": [
+                                "Cona"
+                            ]
+                        }
+                    }
+                },
+                "Neshig": {
+                    "grids": {
+                        "N9": {
+                            "planets": [
+                                "Corvanni IV"
+                            ]
+                        }
+                    }
+                },
+                "Bamula": {
+                    "grids": {
+                        "J13": {
+                            "planets": [
+                                "Donadus"
+                            ]
+                        }
+                    }
+                },
+                "Larrin": {
+                    "grids": {
+                        "N8": {
+                            "planets": [
+                                "Filordis"
+                            ]
+                        }
+                    }
+                },
+                "Harrin": {
+                    "grids": {
+                        "L15": {
+                            "planets": [
+                                "Harrin"
+                            ]
+                        }
+                    }
+                },
+                "Iseno": {
+                    "grids": {
+                        "N13": {
+                            "planets": [
+                                "Iseno"
+                            ]
+                        }
+                    }
+                },
+                "Kiffu": {
+                    "grids": {
+                        "L14": {
+                            "planets": [
+                                "Kiffu"
+                            ]
+                        }
+                    }
+                },
+                "Zaric": {
+                    "grids": {
+                        "N9": {
+                            "planets": [
+                                "Korev VII"
+                            ]
+                        }
+                    }
+                },
+                "Shataum": {
+                    "grids": {
+                        "N7": {
+                            "planets": [
+                                "Kroctar"
+                            ]
+                        }
+                    }
+                },
+                "Ktilac Regions": {
+                    "grids": {
+                        "N9": {
+                            "planets": [
+                                "Ktil"
+                            ]
+                        }
+                    }
+                },
+                "Japrael": {
+                    "grids": {
+                        "O9": {
+                            "planets": [
+                                "Onderon & Dxun"
+                            ]
+                        }
+                    }
+                },
+                "Callia": {
+                    "grids": {
+                        "N13": {
+                            "planets": [
+                                "Ord Vaxal"
+                            ]
+                        }
+                    }
+                },
+                "Jaso": {
+                    "grids": {
+                        "L14": {
+                            "planets": [
+                                "Tauber",
+                                "Thyferra"
+                            ]
+                        }
+                    }
+                },
+                "Zeemacht Cluster": {
+                    "grids": {
+                        "N8": {
+                            "planets": [
+                                "Tirahnn"
+                            ]
+                        }
+                    }
+                },
+                "Darlonn": {
+                    "grids": {
+                        "M9": {
+                            "planets": [
+                                "Vurdon Ka"
+                            ]
+                        }
+                    }
+                },
+                "Seventh Security Zone": {
+                    "grids": {
+                        "J13": {
+                            "planets": [
+                                "Walalla"
+                            ]
+                        }
+                    }
+                },
+                "Givin Domain": {
+                    "grids": {
+                        "L14": {
+                            "planets": [
+                                "Yag'Dhul"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Expansion Region": {
+            "sectors": {
+                "Lostar": {
+                    "grids": {
+                        "M7": {
+                            "planets": [
+                                "Adin",
+                                "Draria",
+                                "Teya IV"
+                            ]
+                        },
+                        "M8": {
+                            "planets": [
+                                "Jazbina",
+                                "Kidriff",
+                                "Nessem"
+                            ]
+                        }
+                    }
+                },
+                "Mbandamonte": {
+                    "grids": {
+                        "N15": {
+                            "planets": [
+                                "Aguarl",
+                                "Cerenia"
+                            ]
+                        }
+                    }
+                },
+                "Tynna": {
+                    "grids": {
+                        "O14": {
+                            "planets": [
+                                "Allanteen"
+                            ]
+                        },
+                        "N14": {
+                            "planets": [
+                                "Tynna"
+                            ]
+                        }
+                    }
+                },
+                "Farstey": {
+                    "grids": {
+                        "O8": {
+                            "planets": [
+                                "Alpheridies",
+                                "Jendorn",
+                                "Thisspias"
+                            ]
+                        }
+                    }
+                },
+                "Altier": {
+                    "grids": {
+                        "O13": {
+                            "planets": [
+                                "Altier"
+                            ]
+                        }
+                    }
+                },
+                "Sumitra": {
+                    "grids": {
+                        "N7": {
+                            "planets": [
+                                "Aquaris",
+                                "Boordii"
+                            ]
+                        },
+                        "O7": {
+                            "planets": [
+                                "Thustra"
+                            ]
+                        }
+                    }
+                },
+                "Narvath": {
+                    "grids": {
+                        "O14": {
+                            "planets": [
+                                "Aridus",
+                                "Iktotchon"
+                            ]
+                        }
+                    }
+                },
+                "Kira": {
+                    "grids": {
+                        "N16": {
+                            "planets": [
+                                "Arrgaw",
+                                "Pax",
+                                "Ropagi"
+                            ]
+                        },
+                        "N15": {
+                            "planets": [
+                                "Kerkoidia",
+                                "Kira",
+                                "Lazerian"
+                            ]
+                        }
+                    }
+                },
+                "Hangshan": {
+                    "grids": {
+                        "P11": {
+                            "planets": [
+                                "Artesia",
+                                "Erai",
+                                "Ulda Frav"
+                            ]
+                        }
+                    }
+                },
+                "Freestanding Subsectors": {
+                    "grids": {
+                        "I14": {
+                            "planets": [
+                                "Aruza",
+                                "Lequabis"
+                            ]
+                        },
+                        "I8": {
+                            "planets": [
+                                "Celdaru",
+                                "Mendicat",
+                                "Roxuli"
+                            ]
+                        },
+                        "I15": {
+                            "planets": [
+                                "Kayri",
+                                "Taloraan"
+                            ]
+                        },
+                        "J14": {
+                            "planets": [
+                                "Poviduze"
+                            ]
+                        },
+                        "J8": {
+                            "planets": [
+                                "Soun"
+                            ]
+                        }
+                    }
+                },
+                "Hocatar": {
+                    "grids": {
+                        "P12": {
+                            "planets": [
+                                "Attahox"
+                            ]
+                        }
+                    }
+                },
+                "Brak": {
+                    "grids": {
+                        "O14": {
+                            "planets": [
+                                "Bacrana"
+                            ]
+                        }
+                    }
+                },
+                "Drannik": {
+                    "grids": {
+                        "K8": {
+                            "planets": [
+                                "Barenth"
+                            ]
+                        }
+                    }
+                },
+                "Baroli": {
+                    "grids": {
+                        "N14": {
+                            "planets": [
+                                "Baroli",
+                                "Vernet"
+                            ]
+                        },
+                        "N15": {
+                            "planets": [
+                                "Gacerian"
+                            ]
+                        }
+                    }
+                },
+                "Belasco": {
+                    "grids": {
+                        "O11": {
+                            "planets": [
+                                "Belasco"
+                            ]
+                        },
+                        "P11": {
+                            "planets": [
+                                "Zirulast"
+                            ]
+                        }
+                    }
+                },
+                "Sarla": {
+                    "grids": {
+                        "J8": {
+                            "planets": [
+                                "Belassar"
+                            ]
+                        }
+                    }
+                },
+                "Majoor": {
+                    "grids": {
+                        "N15": {
+                            "planets": [
+                                "Bimin Three",
+                                "M'haeli",
+                                "Majoor",
+                                "Ragith",
+                                "Ramordia"
+                            ]
+                        }
+                    }
+                },
+                "Bes Ber Bikade": {
+                    "grids": {
+                        "L15": {
+                            "planets": [
+                                "Borkyne",
+                                "Epica",
+                                "Kinyen",
+                                "Roona"
+                            ]
+                        }
+                    }
+                },
+                "Kailion": {
+                    "grids": {
+                        "O13": {
+                            "planets": [
+                                "Bovo Yagen",
+                                "Tarmidia",
+                                "Tlactehon"
+                            ]
+                        }
+                    }
+                },
+                "Brevost": {
+                    "grids": {
+                        "O15": {
+                            "planets": [
+                                "Brevost",
+                                "Cheku",
+                                "Coonee",
+                                "Krann",
+                                "Momansi",
+                                "Sika"
+                            ]
+                        }
+                    }
+                },
+                "Vensensor": {
+                    "grids": {
+                        "K16": {
+                            "planets": [
+                                "Calonica",
+                                "Pendari",
+                                "Sarrish",
+                                "Tar Mordren"
+                            ]
+                        }
+                    }
+                },
+                "Locris": {
+                    "grids": {
+                        "O8": {
+                            "planets": [
+                                "Carcel",
+                                "Pirin",
+                                "Sermeria",
+                                "Von-Alai"
+                            ]
+                        },
+                        "P8": {
+                            "planets": [
+                                "Gizer"
+                            ]
+                        }
+                    }
+                },
+                "Prackla": {
+                    "grids": {
+                        "O8": {
+                            "planets": [
+                                "Cartao"
+                            ]
+                        }
+                    }
+                },
+                "Noori": {
+                    "grids": {
+                        "O10": {
+                            "planets": [
+                                "Celegia"
+                            ]
+                        }
+                    }
+                },
+                "Harron": {
+                    "grids": {
+                        "O11": {
+                            "planets": [
+                                "Chanosant",
+                                "Tarhassan",
+                                "Trammen"
+                            ]
+                        },
+                        "O12": {
+                            "planets": [
+                                "Reytha"
+                            ]
+                        }
+                    }
+                },
+                "Charra": {
+                    "grids": {
+                        "P14": {
+                            "planets": [
+                                "Charra"
+                            ]
+                        }
+                    }
+                },
+                "Vatha": {
+                    "grids": {
+                        "K16": {
+                            "planets": [
+                                "Copperline"
+                            ]
+                        }
+                    }
+                },
+                "Greater Plooriod": {
+                    "grids": {
+                        "M7": {
+                            "planets": [
+                                "Corsin"
+                            ]
+                        }
+                    }
+                },
+                "Thaere": {
+                    "grids": {
+                        "P14": {
+                            "planets": [
+                                "Cularin"
+                            ]
+                        },
+                        "O14": {
+                            "planets": [
+                                "Thaere"
+                            ]
+                        }
+                    }
+                },
+                "Cyrillian Protectorate": {
+                    "grids": {
+                        "O12": {
+                            "planets": [
+                                "Cyrillia",
+                                "Prazhi"
+                            ]
+                        }
+                    }
+                },
+                "Woostri": {
+                    "grids": {
+                        "M16": {
+                            "planets": [
+                                "Daemen",
+                                "Woostri"
+                            ]
+                        }
+                    }
+                },
+                "Mikaster": {
+                    "grids": {
+                        "N15": {
+                            "planets": [
+                                "Derra"
+                            ]
+                        }
+                    }
+                },
+                "Tolemses": {
+                    "grids": {
+                        "P11": {
+                            "planets": [
+                                "Dica"
+                            ]
+                        }
+                    }
+                },
+                "Hali": {
+                    "grids": {
+                        "O9": {
+                            "planets": [
+                                "Donovia",
+                                "Illoud"
+                            ]
+                        }
+                    }
+                },
+                "Deadalis": {
+                    "grids": {
+                        "J8": {
+                            "planets": [
+                                "Dorin"
+                            ]
+                        },
+                        "J7": {
+                            "planets": [
+                                "Myomar"
+                            ]
+                        }
+                    }
+                },
+                "Boeus": {
+                    "grids": {
+                        "M15": {
+                            "planets": [
+                                "Droecil",
+                                "Lohopa",
+                                "Stobar"
+                            ]
+                        }
+                    }
+                },
+                "Authala": {
+                    "grids": {
+                        "P12": {
+                            "planets": [
+                                "Emberlene",
+                                "Mordagon"
+                            ]
+                        }
+                    }
+                },
+                "Circarpous": {
+                    "grids": {
+                        "O12": {
+                            "planets": [
+                                "Fabrin",
+                                "Gyndine",
+                                "Ishanna",
+                                "Mimban"
+                            ]
+                        }
+                    }
+                },
+                "Chaykin": {
+                    "grids": {
+                        "O14": {
+                            "planets": [
+                                "Gamor",
+                                "Merren",
+                                "Milagro"
+                            ]
+                        }
+                    }
+                },
+                "Chitarghar": {
+                    "grids": {
+                        "K15": {
+                            "planets": [
+                                "Gholondreine",
+                                "Solibus"
+                            ]
+                        }
+                    }
+                },
+                "Vardoss": {
+                    "grids": {
+                        "I8": {
+                            "planets": [
+                                "Glom Tho"
+                            ]
+                        }
+                    }
+                },
+                "Fellwe": {
+                    "grids": {
+                        "L8": {
+                            "planets": [
+                                "Golden Nyss",
+                                "Yinchorr"
+                            ]
+                        }
+                    }
+                },
+                "Har Worlds": {
+                    "grids": {
+                        "J16": {
+                            "planets": [
+                                "Har Binande"
+                            ]
+                        }
+                    }
+                },
+                "Hijoan Space": {
+                    "grids": {
+                        "J8": {
+                            "planets": [
+                                "Hijo"
+                            ]
+                        }
+                    }
+                },
+                "Hilo": {
+                    "grids": {
+                        "O13": {
+                            "planets": [
+                                "Hilo"
+                            ]
+                        }
+                    }
+                },
+                "Immalia": {
+                    "grids": {
+                        "K8": {
+                            "planets": [
+                                "Immalia"
+                            ]
+                        },
+                        "L8": {
+                            "planets": [
+                                "Mayvitch"
+                            ]
+                        }
+                    }
+                },
+                "Corpheli": {
+                    "grids": {
+                        "M7": {
+                            "planets": [
+                                "Jestan"
+                            ]
+                        }
+                    }
+                },
+                "Jurzan": {
+                    "grids": {
+                        "M15": {
+                            "planets": [
+                                "Jurzan"
+                            ]
+                        }
+                    }
+                },
+                "Ehosiq": {
+                    "grids": {
+                        "L8": {
+                            "planets": [
+                                "Kiros",
+                                "Shili"
+                            ]
+                        }
+                    }
+                },
+                "Cantons of Lahag": {
+                    "grids": {
+                        "J15": {
+                            "planets": [
+                                "Lahag Erli"
+                            ]
+                        }
+                    }
+                },
+                "Itopol": {
+                    "grids": {
+                        "K15": {
+                            "planets": [
+                                "Llon Nebulae"
+                            ]
+                        }
+                    }
+                },
+                "Surron": {
+                    "grids": {
+                        "O13": {
+                            "planets": [
+                                "Mek va Uil",
+                                "Surron"
+                            ]
+                        }
+                    }
+                },
+                "Mandress": {
+                    "grids": {
+                        "J7": {
+                            "planets": [
+                                "Mondress"
+                            ]
+                        }
+                    }
+                },
+                "Mintitian Grant": {
+                    "grids": {
+                        "J15": {
+                            "planets": [
+                                "Montitia"
+                            ]
+                        }
+                    }
+                },
+                "Trestis": {
+                    "grids": {
+                        "K8": {
+                            "planets": [
+                                "Muzara"
+                            ]
+                        }
+                    }
+                },
+                "Piryn SHar": {
+                    "grids": {
+                        "K16": {
+                            "planets": [
+                                "Natalon",
+                                "Noe'ha'on",
+                                "Noe'ha'on"
+                            ]
+                        }
+                    }
+                },
+                "Dona Laza": {
+                    "grids": {
+                        "P9": {
+                            "planets": [
+                                "Nazzri"
+                            ]
+                        }
+                    }
+                },
+                "Arc d'Stot": {
+                    "grids": {
+                        "K16": {
+                            "planets": [
+                                "New Balosar"
+                            ]
+                        }
+                    }
+                },
+                "Citlik": {
+                    "grids": {
+                        "O14": {
+                            "planets": [
+                                "Nivek"
+                            ]
+                        }
+                    }
+                },
+                "Alchenaut": {
+                    "grids": {
+                        "L16": {
+                            "planets": [
+                                "Nkllon"
+                            ]
+                        }
+                    }
+                },
+                "Rocantor": {
+                    "grids": {
+                        "L15": {
+                            "planets": [
+                                "Ord Vaug",
+                                "Rainos CLuster"
+                            ]
+                        }
+                    }
+                },
+                "Immerian Outback": {
+                    "grids": {
+                        "N14": {
+                            "planets": [
+                                "Pamorjal"
+                            ]
+                        }
+                    }
+                },
+                "Parcelus": {
+                    "grids": {
+                        "O12": {
+                            "planets": [
+                                "Parcelus Minor"
+                            ]
+                        }
+                    }
+                },
+                "Ploo": {
+                    "grids": {
+                        "N7": {
+                            "planets": [
+                                "Ploo",
+                                "Serroco"
+                            ]
+                        }
+                    }
+                },
+                "Parnabe": {
+                    "grids": {
+                        "L16": {
+                            "planets": [
+                                "Qat Chrystac"
+                            ]
+                        }
+                    }
+                },
+                "Couronne": {
+                    "grids": {
+                        "P10": {
+                            "planets": [
+                                "Quas Killam"
+                            ]
+                        }
+                    }
+                },
+                "Andirma": {
+                    "grids": {
+                        "L15": {
+                            "planets": [
+                                "Quesaya"
+                            ]
+                        }
+                    }
+                },
+                "Merthian": {
+                    "grids": {
+                        "N13": {
+                            "planets": [
+                                "Rhommamool"
+                            ]
+                        }
+                    }
+                },
+                "Thand": {
+                    "grids": {
+                        "J15": {
+                            "planets": [
+                                "Ring of Kafrene"
+                            ]
+                        }
+                    }
+                },
+                "Treffani": {
+                    "grids": {
+                        "O14": {
+                            "planets": [
+                                "Ryvellia"
+                            ]
+                        }
+                    }
+                },
+                "Venzeiia": {
+                    "grids": {
+                        "O12": {
+                            "planets": [
+                                "Sarko",
+                                "Terrijo"
+                            ]
+                        }
+                    }
+                },
+                "Inra-su-Mar": {
+                    "grids": {
+                        "P12": {
+                            "planets": [
+                                "Scardia"
+                            ]
+                        }
+                    }
+                },
+                "Zarracina": {
+                    "grids": {
+                        "O14": {
+                            "planets": [
+                                "Selsor",
+                                "Vendaxa"
+                            ]
+                        }
+                    }
+                },
+                "Sepan": {
+                    "grids": {
+                        "P13": {
+                            "planets": [
+                                "Sepan",
+                                "Wann Tsir"
+                            ]
+                        }
+                    }
+                },
+                "Nuon e Safyd": {
+                    "grids": {
+                        "P12": {
+                            "planets": [
+                                "T'surr"
+                            ]
+                        }
+                    }
+                },
+                "Dentari": {
+                    "grids": {
+                        "O7": {
+                            "planets": [
+                                "Tierfon"
+                            ]
+                        }
+                    }
+                },
+                "Tregillis": {
+                    "grids": {
+                        "M15": {
+                            "planets": [
+                                "Tregillis"
+                            ]
+                        }
+                    }
+                },
+                "Ghost Nebula": {
+                    "grids": {
+                        "P10": {
+                            "planets": [
+                                "Umbara"
+                            ]
+                        }
+                    }
+                },
+                "Nojic": {
+                    "grids": {
+                        "P9": {
+                            "planets": [
+                                "Valgauth",
+                                "Vena"
+                            ]
+                        }
+                    }
+                },
+                "Epsi Collective": {
+                    "grids": {
+                        "M15": {
+                            "planets": [
+                                "Vandelhelm"
+                            ]
+                        }
+                    }
+                },
+                "Ombakond": {
+                    "grids": {
+                        "P12": {
+                            "planets": [
+                                "Yutan"
+                            ]
+                        }
+                    }
+                },
+                "Askarian": {
+                    "grids": {
+                        "P12": {
+                            "planets": [
+                                "Zaloriis"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Wild Space": {
+            "sectors": {
+                "Unidentified Sector Wild Space": {
+                    "grids": {
+                        "J21": {
+                            "planets": [
+                                "Zonju"
+                            ]
+                        }
+                    }
+                },
+                "Bakura": {
+                    "grids": {
+                        "G16": {
+                            "planets": [
+                                "Bakura"
+                            ]
+                        }
+                    }
+                },
+                "Trianii": {
+                    "grids": {
+                        "S3": {
+                            "planets": [
+                                "Brochiib"
+                            ]
+                        },
+                        "R3": {
+                            "planets": [
+                                "Ekibo",
+                                "Pypin",
+                                "Trian"
+                            ]
+                        }
+                    }
+                },
+                "Farana": {
+                    "grids": {
+                        "S3": {
+                            "planets": [
+                                "Farana",
+                                "Hull's Star"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Hutt Space": {
+            "sectors": {
+                "Hutt Space": {
+                    "grids": {
+                        "S12": {
+                            "planets": [
+                                "Affavan",
+                                "Aylayl",
+                                "Carnovia",
+                                "Circumtore",
+                                "Diyu",
+                                "Hollastin",
+                                "Nal Hutta & Nar Shaddaa",
+                                "Rorak"
+                            ]
+                        },
+                        "R9": {
+                            "planets": [
+                                "Alee",
+                                "Tal Nami"
+                            ]
+                        },
+                        "S10": {
+                            "planets": [
+                                "Bootana Shagplan",
+                                "Kor Besadii",
+                                "Kor Hestilic",
+                                "Kor Nasirii",
+                                "Kor Nijiladii",
+                                "Kor Vosadii",
+                                "Langoona",
+                                "Mulatan",
+                                "Nar Chunna",
+                                "Nar Kreeta",
+                                "Nimban",
+                                "Quesh",
+                                "Sionia",
+                                "Sleheyron",
+                                "Ulmatra",
+                                "Zisia"
+                            ]
+                        },
+                        "S11": {
+                            "planets": [
+                                "Cyax",
+                                "Du Hutta",
+                                "Gos Hutta",
+                                "Groth",
+                                "Hosko",
+                                "Huloon",
+                                "Irith",
+                                "Kor Anjiliac",
+                                "Kor Desilijic",
+                                "Kor Gejalli",
+                                "Kor Hunamma",
+                                "Kor Jiramma",
+                                "Kor Oktanivii",
+                                "Kor Trinivii",
+                                "Kor Usilic",
+                                "Kor Utoradii",
+                                "Orondia",
+                                "Pybus",
+                                "Sakidopa",
+                                "Sakiduba",
+                                "Sakiya",
+                                "Varl"
+                            ]
+                        },
+                        "S9": {
+                            "planets": [
+                                "Cyborrea",
+                                "Dirha",
+                                "Kafane",
+                                "Klatooine",
+                                "Nimia",
+                                "Vontor"
+                            ]
+                        },
+                        "T10": {
+                            "planets": [
+                                "Elgit",
+                                "Moralan",
+                                "Usk"
+                            ]
+                        },
+                        "S13": {
+                            "planets": [
+                                "Far Pando",
+                                "Nar Kaaga",
+                                "Xolu"
+                            ]
+                        },
+                        "R12": {
+                            "planets": [
+                                "Ganath",
+                                "Jilrua"
+                            ]
+                        },
+                        "R10": {
+                            "planets": [
+                                "Ilos",
+                                "Ilos Minor",
+                                "Keldooine",
+                                "Nar Bo Sholla"
+                            ]
+                        },
+                        "R11": {
+                            "planets": [
+                                "Kleeva",
+                                "Runaway Prince",
+                                "Tol Amn",
+                                "Toydaria"
+                            ]
+                        },
+                        "T11": {
+                            "planets": [
+                                "M'Hanna",
+                                "Nar Haaska",
+                                "Sakifwanna",
+                                "Saqqar",
+                                "The Godsheart",
+                                "Tisht"
+                            ]
+                        },
+                        "S14": {
+                            "planets": [
+                                "Near Pando"
+                            ]
+                        },
+                        "T12": {
+                            "planets": [
+                                "Outland Transit",
+                                "Poytta",
+                                "Riileb",
+                                "Ylesia",
+                                "Ziugen"
+                            ]
+                        },
+                        "S8": {
+                            "planets": [
+                                "Ques",
+                                "Terman"
+                            ]
+                        },
+                        "T13": {
+                            "planets": [
+                                "Tsyk"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Unknown Regions": {
+            "sectors": {
+                "Unidentified Sector Unknown Regions": {
+                    "grids": {
+                        "F13": {
+                            "planets": [
+                                "Zonama Sekot"
+                            ]
+                        }
+                    }
+                },
+                "Chiss Ascendancy": {
+                    "grids": {
+                        "E8": {
+                            "planets": [
+                                "Avidich",
+                                "Kinoss",
+                                "Ool",
+                                "Oyokal",
+                                "Shihon",
+                                "Thearterra"
+                            ]
+                        },
+                        "F8": {
+                            "planets": [
+                                "Cioral",
+                                "Colonial Station Cam'co",
+                                "Cormit",
+                                "Csilla",
+                                "Jamiron",
+                                "Naporar",
+                                "Noris",
+                                "Ornfra",
+                                "Rentor",
+                                "Schesa",
+                                "Sharb",
+                                "Sposia"
+                            ]
+                        },
+                        "F9": {
+                            "planets": [
+                                "Colonial Station Chaf",
+                                "Copero",
+                                "Csaus",
+                                "Sarvchi"
+                            ]
+                        },
+                        "E9": {
+                            "planets": [
+                                "Rhigar"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Colonies": {
+            "sectors": {
+                "Unidentified Sector Colonies": {
+                    "grids": {
+                        "K13": {
+                            "planets": [
+                                "Zenox Cluster"
+                            ]
+                        }
+                    }
+                },
+                "Duluur": {
+                    "grids": {
+                        "M13": {
+                            "planets": [
+                                "Devaron"
+                            ]
+                        }
+                    }
+                },
+                "Kuluur": {
+                    "grids": {
+                        "M13": {
+                            "planets": [
+                                "Kelada"
+                            ]
+                        }
+                    }
+                },
+                "Ollonir Boundaries[": {
+                    "grids": {
+                        "J9": {
+                            "planets": [
+                                "Thrantin"
+                            ]
+                        }
+                    }
+                },
+                "Fakir": {
+                    "grids": {
+                        "K9": {
+                            "planets": [
+                                "Vakkar"
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "Deep Core": {
+            "sectors": {
+                "Unidentified Sector Deep Core": {
+                    "grids": {
+                        "K12": {
+                            "planets": [
+                                "Zamael"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
