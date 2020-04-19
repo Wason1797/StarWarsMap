@@ -17,6 +17,14 @@ ROUTE_COLOR = {
     'Corellian Trade Spine': 'violet',
     'Hydian Way': 'indigo',
     'No Hyperspace Lane': 'gray',
+    "Elgit-M'Hanna Corridor": 'blue',
+    "Reena Trade Route": "purple",
+    "Bothan Run": 'green',
+    "Guu Run": 'red',
+    "Shipwrights' Trace": 'lightgreen',
+    "Harrin Trade Corridor": 'darkblue',
+    "Enarc Run": 'darkgray',
+    "Gamor Run": 'darkcyan',
 }
 
 
@@ -93,23 +101,27 @@ if __name__ == "__main__":
 
     planet_search_dict = {planet.name: planet for planet in planet_list}
     planets_on_hyperlanes = {planet_search_dict[planet] for planet in chain.from_iterable(hyperlanes.values())}
+    print(len(planets_on_hyperlanes))
+    print(len(planet_search_dict))
 
     graph = nx.Graph()
     graph.add_nodes_from(set(planet_list))
 
     for edges, route in hyperlane_edges:
-        graph.add_weighted_edges_from(edges, label=route, color=ROUTE_COLOR[route])
+        graph.add_weighted_edges_from(edges, label=route, color=ROUTE_COLOR.get(route, 'darkblue'))
 
     for grid in grids:
         route = 'No Hyperspace Lane'
         graph.add_weighted_edges_from(get_edges_to_hyperlane_planets({planet_search_dict[pl.name] for pl in grid.planets},
                                                                      planets_on_hyperlanes),
                                       label=route, color=ROUTE_COLOR[route])
+
+    print(len(list(nx.isolates(graph))))
     plot_graph(graph)
 
     # for region in regions:
     #     if isinstance(region.shape, Polygon):
-    #         plt.plot(*region.shape.exterior.xy)
+    #         plt.plot(*region.shape.exterior.xy, linewidth=0.5)
 
     for grid in grids:
         if isinstance(grid.shape, Polygon):
