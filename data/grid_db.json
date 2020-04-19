@@ -8,62 +8,6 @@
             ]
         },
         {
-            "name": "Kokash",
-            "coords": [
-                -110.308,
-                -65.502
-            ]
-        },
-        {
-            "name": "Pollillus",
-            "coords": [
-                -101.33,
-                -63.89
-            ]
-        },
-        {
-            "name": "Osssorck Nebulae",
-            "coords": [
-                -101.59,
-                -266.91
-            ]
-        },
-        {
-            "name": "Questal",
-            "coords": [
-                -117.741,
-                -273.815
-            ]
-        },
-        {
-            "name": "Kitel Phard",
-            "coords": [
-                -132.66,
-                -286.761
-            ]
-        },
-        {
-            "name": "Inysh",
-            "coords": [
-                -118.605,
-                -295.761
-            ]
-        },
-        {
-            "name": "Dahrtag",
-            "coords": [
-                -105.612,
-                -314.795
-            ]
-        },
-        {
-            "name": "Metellos",
-            "coords": [
-                -13.508,
-                1.228
-            ]
-        },
-        {
             "name": "Metellos",
             "coords": [
                 -13.508,
@@ -78,31 +22,10 @@
             ]
         },
         {
-            "name": "Ragoon",
-            "coords": [
-                -81.735,
-                16.126
-            ]
-        },
-        {
             "name": "Merakai",
             "coords": [
                 -61.722,
                 51.288
-            ]
-        },
-        {
-            "name": "Merakai",
-            "coords": [
-                -61.722,
-                51.288
-            ]
-        },
-        {
-            "name": "Denevar",
-            "coords": [
-                -48.611,
-                52.89
             ]
         },
         {
@@ -183,839 +106,6 @@
             ]
         },
         {
-            "name": "Tamban",
-            "coords": [
-                -95.23,
-                -45.474
-            ]
-        },
-        {
-            "name": "Aradia",
-            "coords": [
-                -90.281,
-                -35.0
-            ]
-        },
-        {
-            "name": "Cal-Seti",
-            "coords": [
-                -73.936,
-                -34.194
-            ]
-        },
-        {
-            "name": "N'Zoth",
-            "coords": [
-                -95.69,
-                -57.768
-            ]
-        },
-        {
-            "name": "Fresia",
-            "coords": [
-                -58.167,
-                -29.475
-            ]
-        },
-        {
-            "name": "Galand",
-            "coords": [
-                -53.563,
-                -23.72
-            ]
-        },
-        {
-            "name": "Alland",
-            "coords": [
-                -45.966,
-                -14.397
-            ]
-        },
-        {
-            "name": "Worru'du",
-            "coords": [
-                -38.6,
-                -17.85
-            ]
-        },
-        {
-            "name": "Salliche",
-            "coords": [
-                -25.709,
-                -18.54
-            ]
-        },
-        {
-            "name": "Norkronia",
-            "coords": [
-                -33.42,
-                -6.829
-            ]
-        },
-        {
-            "name": "Stassia",
-            "coords": [
-                -13.278,
-                -11.433
-            ]
-        },
-        {
-            "name": "Foerost",
-            "coords": [
-                -0.041,
-                -7.404
-            ]
-        },
-        {
-            "name": "Ruan",
-            "coords": [
-                -0.041,
-                -13.85
-            ]
-        },
-        {
-            "name": "Galantos",
-            "coords": [
-                -94.577,
-                -55.855
-            ]
-        },
-        {
-            "name": "J't'p'tan",
-            "coords": [
-                -96.605,
-                -56.56
-            ]
-        },
-        {
-            "name": "Botor",
-            "coords": [
-                -3.862,
-                -270.404
-            ]
-        },
-        {
-            "name": "Thracior",
-            "coords": [
-                -11.976,
-                -275.982
-            ]
-        },
-        {
-            "name": "Thebeon",
-            "coords": [
-                -31.435,
-                -299.213
-            ]
-        },
-        {
-            "name": "Gerrard",
-            "coords": [
-                -3.447,
-                -295.268
-            ]
-        },
-        {
-            "name": "Daupherm",
-            "coords": [
-                -18.489,
-                -267.033
-            ]
-        },
-        {
-            "name": "Loedorvia",
-            "coords": [
-                -87.534,
-                -242.868
-            ]
-        },
-        {
-            "name": "Cortina",
-            "coords": [
-                -60.163,
-                -277.02
-            ]
-        },
-        {
-            "name": "Abregado-rae",
-            "coords": [
-                -4.434,
-                -316.721
-            ]
-        },
-        {
-            "name": "Dentaal",
-            "coords": [
-                -4.31,
-                -325.845
-            ]
-        },
-        {
-            "name": "Belgaroth",
-            "coords": [
-                -11.955,
-                -334.352
-            ]
-        },
-        {
-            "name": "Steelious",
-            "coords": [
-                -18.612,
-                -324.242
-            ]
-        },
-        {
-            "name": "Cuvacia",
-            "coords": [
-                -93.206,
-                -304.268
-            ]
-        },
-        {
-            "name": "Illodia",
-            "coords": [
-                -73.016,
-                -330.885
-            ]
-        },
-        {
-            "name": "Kidiet Olgo",
-            "coords": [
-                5.338,
-                61.419
-            ]
-        },
-        {
-            "name": "Challon",
-            "coords": [
-                28.395,
-                51.687
-            ]
-        },
-        {
-            "name": "Shawken",
-            "coords": [
-                28.654,
-                44.953
-            ]
-        },
-        {
-            "name": "Velusia",
-            "coords": [
-                6.986,
-                35.889
-            ]
-        },
-        {
-            "name": "Thorgeld",
-            "coords": [
-                12.235,
-                29.369
-            ]
-        },
-        {
-            "name": "Esseles",
-            "coords": [
-                64.988,
-                38.311
-            ]
-        },
-        {
-            "name": "Brentaal",
-            "coords": [
-                60.499,
-                35.894
-            ]
-        },
-        {
-            "name": "Chandrila",
-            "coords": [
-                55.319,
-                32.556
-            ]
-        },
-        {
-            "name": "Corulag",
-            "coords": [
-                49.679,
-                29.563
-            ]
-        },
-        {
-            "name": "Anaxes",
-            "coords": [
-                41.047,
-                24.959
-            ]
-        },
-        {
-            "name": "Grizmallt",
-            "coords": [
-                28.386,
-                17.708
-            ]
-        },
-        {
-            "name": "Alsakan",
-            "coords": [
-                17.221,
-                10.917
-            ]
-        },
-        {
-            "name": "Tepasi",
-            "coords": [
-                89.481,
-                18.076
-            ]
-        },
-        {
-            "name": "Skako",
-            "coords": [
-                76.187,
-                10.307
-            ]
-        },
-        {
-            "name": "Basilisk",
-            "coords": [
-                60.924,
-                6.866
-            ]
-        },
-        {
-            "name": "Spira",
-            "coords": [
-                8.67,
-                -16.777
-            ]
-        },
-        {
-            "name": "Yulant",
-            "coords": [
-                34.421,
-                -16.249
-            ]
-        },
-        {
-            "name": "Aargau",
-            "coords": [
-                40.205,
-                -19.875
-            ]
-        },
-        {
-            "name": "Broest",
-            "coords": [
-                65.326,
-                -24.45
-            ]
-        },
-        {
-            "name": "Ixtlar",
-            "coords": [
-                37.098,
-                -4.098
-            ]
-        },
-        {
-            "name": "Vultar",
-            "coords": [
-                64.809,
-                -5.306
-            ]
-        },
-        {
-            "name": "Wukkar",
-            "coords": [
-                56.694,
-                -12.471
-            ]
-        },
-        {
-            "name": "Kailor V",
-            "coords": [
-                69.125,
-                -20.068
-            ]
-        },
-        {
-            "name": "Palawa",
-            "coords": [
-                92.548,
-                -15.205
-            ]
-        },
-        {
-            "name": "Xorth",
-            "coords": [
-                82.506,
-                -28.363
-            ]
-        },
-        {
-            "name": "Gama",
-            "coords": [
-                83.707,
-                -246.323
-            ]
-        },
-        {
-            "name": "Balosar",
-            "coords": [
-                67.596,
-                -251.748
-            ]
-        },
-        {
-            "name": "Lansono",
-            "coords": [
-                97.176,
-                -277.948
-            ]
-        },
-        {
-            "name": "Lujo",
-            "coords": [
-                49.337,
-                -264.139
-            ]
-        },
-        {
-            "name": "Shulxi",
-            "coords": [
-                61.79,
-                -270.427
-            ]
-        },
-        {
-            "name": "Azbrian",
-            "coords": [
-                61.667,
-                -284.606
-            ]
-        },
-        {
-            "name": "Thomork",
-            "coords": [
-                19.194,
-                -266.62
-            ]
-        },
-        {
-            "name": "Frego",
-            "coords": [
-                29.363,
-                -306.429
-            ]
-        },
-        {
-            "name": "Iphigin",
-            "coords": [
-                44.899,
-                -327.883
-            ]
-        },
-        {
-            "name": "Andara",
-            "coords": [
-                97.669,
-                -315.8
-            ]
-        },
-        {
-            "name": "Eamus",
-            "coords": [
-                5.307,
-                -304.268
-            ]
-        },
-        {
-            "name": "Plexis",
-            "coords": [
-                8.759,
-                -311.173
-            ]
-        },
-        {
-            "name": "Diamal",
-            "coords": [
-                10.115,
-                -342.49
-            ]
-        },
-        {
-            "name": "Corann",
-            "coords": [
-                101.371,
-                35.211
-            ]
-        },
-        {
-            "name": "Korfo",
-            "coords": [
-                106.703,
-                8.252
-            ]
-        },
-        {
-            "name": "Caamas",
-            "coords": [
-                113.696,
-                7.086
-            ]
-        },
-        {
-            "name": "Aldraig",
-            "coords": [
-                104.807,
-                -19.867
-            ]
-        },
-        {
-            "name": "Alderaan",
-            "coords": [
-                129.496,
-                -5.968
-            ]
-        },
-        {
-            "name": "Vuma",
-            "coords": [
-                112.651,
-                -59.194
-            ]
-        },
-        {
-            "name": "Ator",
-            "coords": [
-                107.472,
-                -73.697
-            ]
-        },
-        {
-            "name": "Leria Kerlsil",
-            "coords": [
-                125.312,
-                -83.136
-            ]
-        },
-        {
-            "name": "Tyed Kant",
-            "coords": [
-                145.455,
-                -23.628
-            ]
-        },
-        {
-            "name": "Demophon",
-            "coords": [
-                119.327,
-                -33.181
-            ]
-        },
-        {
-            "name": "Glithnos",
-            "coords": [
-                126.463,
-                -41.584
-            ]
-        },
-        {
-            "name": "Fedalle",
-            "coords": [
-                139.815,
-                -54.475
-            ]
-        },
-        {
-            "name": "Raxxa",
-            "coords": [
-                166.864,
-                -55.511
-            ]
-        },
-        {
-            "name": "Kuat",
-            "coords": [
-                186.813,
-                -59.958
-            ]
-        },
-        {
-            "name": "Talravin",
-            "coords": [
-                152.034,
-                -74.474
-            ]
-        },
-        {
-            "name": "Pria",
-            "coords": [
-                173.27,
-                -83.711
-            ]
-        },
-        {
-            "name": "Ruul",
-            "coords": [
-                143.574,
-                -97.005
-            ]
-        },
-        {
-            "name": "Sarapin",
-            "coords": [
-                160.062,
-                -90.445
-            ]
-        },
-        {
-            "name": "Humbarine",
-            "coords": [
-                188.233,
-                -99.94
-            ]
-        },
-        {
-            "name": "Trellen",
-            "coords": [
-                164.292,
-                -100.458
-            ]
-        },
-        {
-            "name": "Mawan",
-            "coords": [
-                168.781,
-                -111.163
-            ]
-        },
-        {
-            "name": "Seyugi",
-            "coords": [
-                187.312,
-                -120.544
-            ]
-        },
-        {
-            "name": "Recopia",
-            "coords": [
-                152.782,
-                -123.766
-            ]
-        },
-        {
-            "name": "Loretto",
-            "coords": [
-                176.838,
-                -132.629
-            ]
-        },
-        {
-            "name": "Rendili",
-            "coords": [
-                163.716,
-                -140.801
-            ]
-        },
-        {
-            "name": "Perma",
-            "coords": [
-                134.711,
-                -106.731
-            ]
-        },
-        {
-            "name": "Lolnar",
-            "coords": [
-                138.394,
-                -117.551
-            ]
-        },
-        {
-            "name": "Columus",
-            "coords": [
-                133.33,
-                -129.521
-            ]
-        },
-        {
-            "name": "Lettow",
-            "coords": [
-                126.726,
-                -146.533
-            ]
-        },
-        {
-            "name": "Rehemsa",
-            "coords": [
-                148.595,
-                -151.022
-            ]
-        },
-        {
-            "name": "Sedratis",
-            "coords": [
-                152.163,
-                -162.187
-            ]
-        },
-        {
-            "name": "Baraboo",
-            "coords": [
-                181.111,
-                -146.907
-            ]
-        },
-        {
-            "name": "Bellassa",
-            "coords": [
-                183.068,
-                -152.777
-            ]
-        },
-        {
-            "name": "Jaciprus",
-            "coords": [
-                186.866,
-                -166.244
-            ]
-        },
-        {
-            "name": "Voktunma",
-            "coords": [
-                188.708,
-                -172.345
-            ]
-        },
-        {
-            "name": "Samaria",
-            "coords": [
-                169.716,
-                -169.237
-            ]
-        },
-        {
-            "name": "Rydonni Prime",
-            "coords": [
-                155.098,
-                -174.301
-            ]
-        },
-        {
-            "name": "Goorla",
-            "coords": [
-                154.523,
-                -180.287
-            ]
-        },
-        {
-            "name": "Sacorria",
-            "coords": [
-                151.875,
-                -184.545
-            ]
-        },
-        {
-            "name": "Corellia",
-            "coords": [
-                157.553,
-                -186.038
-            ]
-        },
-        {
-            "name": "Duro",
-            "coords": [
-                157.102,
-                -186.797
-            ]
-        },
-        {
-            "name": "Nubia",
-            "coords": [
-                157.609,
-                -186.709
-            ]
-        },
-        {
-            "name": "Karvoss",
-            "coords": [
-                117.243,
-                -205.225
-            ]
-        },
-        {
-            "name": "Hemei",
-            "coords": [
-                103.763,
-                -217.226
-            ]
-        },
-        {
-            "name": "Chasin",
-            "coords": [
-                158.341,
-                -249.447
-            ]
-        },
-        {
-            "name": "Chamm",
-            "coords": [
-                105.407,
-                -250.433
-            ]
-        },
-        {
-            "name": "Shumogi",
-            "coords": [
-                114.284,
-                -235.473
-            ]
-        },
-        {
-            "name": "Tinnel",
-            "coords": [
-                170.506,
-                -213.445
-            ]
-        },
-        {
-            "name": "Condular",
-            "coords": [
-                151.108,
-                -274.106
-            ]
-        },
-        {
-            "name": "Gandeal",
-            "coords": [
-                146.043,
-                -283.287
-            ]
-        },
-        {
-            "name": "Danteel",
-            "coords": [
-                115.793,
-                -261.304
-            ]
-        },
-        {
-            "name": "Kobaria",
-            "coords": [
-                111.601,
-                -265.126
-            ]
-        },
-        {
-            "name": "Sestria",
-            "coords": [
-                102.724,
-                -304.827
-            ]
-        },
-        {
             "name": "Coruscant",
             "coords": [
                 0.0,
@@ -1065,20 +155,6 @@
             ]
         },
         {
-            "name": "Hosnian Prime",
-            "coords": [
-                149.768,
-                -277.35
-            ]
-        },
-        {
-            "name": "Aaeton",
-            "coords": [
-                -54.005,
-                14.372
-            ]
-        },
-        {
             "name": "Aaeton",
             "coords": [
                 -54.005,
@@ -1090,48 +166,6 @@
             "coords": [
                 -26.038,
                 25.026
-            ]
-        },
-        {
-            "name": "Darada",
-            "coords": [
-                -26.038,
-                25.026
-            ]
-        },
-        {
-            "name": "Osadia",
-            "coords": [
-                -60.099,
-                -16.946
-            ]
-        },
-        {
-            "name": "Utrost",
-            "coords": [
-                14.195,
-                4.175
-            ]
-        },
-        {
-            "name": "Trantor",
-            "coords": [
-                146.12,
-                -64.355
-            ]
-        },
-        {
-            "name": "Ganthel",
-            "coords": [
-                75.948,
-                27.57
-            ]
-        },
-        {
-            "name": "Kaikielius",
-            "coords": [
-                1.471,
-                -10.018
             ]
         }
     ],
@@ -1207,13 +241,6 @@
             ]
         },
         {
-            "name": "Mantessa",
-            "coords": [
-                157.556,
-                127.951
-            ]
-        },
-        {
             "name": "Ejolus",
             "coords": [
                 153.364,
@@ -1228,20 +255,6 @@
             ]
         },
         {
-            "name": "Poderis",
-            "coords": [
-                179.626,
-                117.594
-            ]
-        },
-        {
-            "name": "Hijarna",
-            "coords": [
-                172.228,
-                104.031
-            ]
-        },
-        {
             "name": "Hijarna",
             "coords": [
                 172.228,
@@ -1253,13 +266,6 @@
             "coords": [
                 193.928,
                 182.94
-            ]
-        },
-        {
-            "name": "Joiol",
-            "coords": [
-                185.894,
-                101.008
             ]
         },
         {
@@ -1290,13 +296,6 @@
             "coords": [
                 406.108,
                 115.209
-            ]
-        },
-        {
-            "name": "Contruum",
-            "coords": [
-                397.275,
-                139.217
             ]
         },
         {
@@ -1334,104 +333,6 @@
             "coords": [
                 -815.269,
                 -634.739
-            ]
-        },
-        {
-            "name": "Bogo Rai",
-            "coords": [
-                -671.026,
-                103.171
-            ]
-        },
-        {
-            "name": "Celwis",
-            "coords": [
-                -523.694,
-                107.253
-            ]
-        },
-        {
-            "name": "Klasse Ephemora",
-            "coords": [
-                -560.524,
-                62.274
-            ]
-        },
-        {
-            "name": "Yashuvhu",
-            "coords": [
-                -530.679,
-                66.084
-            ]
-        },
-        {
-            "name": "Zonama Sekot",
-            "coords": [
-                -509.697,
-                -350.583
-            ]
-        },
-        {
-            "name": "Ilum",
-            "coords": [
-                -413.014,
-                245.642
-            ]
-        },
-        {
-            "name": "Pesfavri",
-            "coords": [
-                -423.394,
-                188.747
-            ]
-        },
-        {
-            "name": "Rakata Prime",
-            "coords": [
-                -460.075,
-                -185.671
-            ]
-        },
-        {
-            "name": "The Redoubt",
-            "coords": [
-                -322.354,
-                210.386
-            ]
-        },
-        {
-            "name": "Zakuul",
-            "coords": [
-                -744.352,
-                -345.692
-            ]
-        },
-        {
-            "name": "Crakull",
-            "coords": [
-                -478.442,
-                -66.017
-            ]
-        },
-        {
-            "name": "Ahch-To",
-            "coords": [
-                -651.605,
-                -371.236
-            ]
-        },
-        {
-            "name": "Crustai",
-            "coords": [
-                -387.053,
-                125.905
-            ]
-        },
-        {
-            "name": "Exegol",
-            "coords": [
-                -597.906,
-                237.279
             ]
         }
     ],
@@ -1486,38 +387,10 @@
             ]
         },
         {
-            "name": "Peg Shar",
-            "coords": [
-                692.177,
-                110.978
-            ]
-        },
-        {
-            "name": "Bimmisaari",
-            "coords": [
-                678.593,
-                85.29
-            ]
-        },
-        {
             "name": "Boz Pity",
             "coords": [
                 704.28,
                 59.806
-            ]
-        },
-        {
-            "name": "Boz Pity",
-            "coords": [
-                704.28,
-                59.806
-            ]
-        },
-        {
-            "name": "Danuta",
-            "coords": [
-                707.584,
-                80.562
             ]
         },
         {
@@ -1551,20 +424,6 @@
             ]
         },
         {
-            "name": "Keeara Major",
-            "coords": [
-                -7.337,
-                -58.352
-            ]
-        },
-        {
-            "name": "Symbia",
-            "coords": [
-                -10.185,
-                -51.878
-            ]
-        },
-        {
             "name": "Symbia",
             "coords": [
                 -10.185,
@@ -1576,202 +435,6 @@
             "coords": [
                 -1.898,
                 -45.231
-            ]
-        },
-        {
-            "name": "Kuar",
-            "coords": [
-                -1.898,
-                -45.231
-            ]
-        },
-        {
-            "name": "Odik",
-            "coords": [
-                -76.85,
-                -109.79
-            ]
-        },
-        {
-            "name": "Byss",
-            "coords": [
-                -48.074,
-                -182.068
-            ]
-        },
-        {
-            "name": "Kalist",
-            "coords": [
-                -13.642,
-                -202.323
-            ]
-        },
-        {
-            "name": "Zamael",
-            "coords": [
-                -13.411,
-                -213.257
-            ]
-        },
-        {
-            "name": "Lialic",
-            "coords": [
-                -16.634,
-                -226.839
-            ]
-        },
-        {
-            "name": "Constancia",
-            "coords": [
-                -14.059,
-                -242.179
-            ]
-        },
-        {
-            "name": "Dulvoyinn",
-            "coords": [
-                -3.441,
-                -246.927
-            ]
-        },
-        {
-            "name": "Tython",
-            "coords": [
-                1.279,
-                -78.258
-            ]
-        },
-        {
-            "name": "Had Abbadon",
-            "coords": [
-                74.369,
-                -78.834
-            ]
-        },
-        {
-            "name": "Cambria",
-            "coords": [
-                93.111,
-                -58.448
-            ]
-        },
-        {
-            "name": "Vulpter",
-            "coords": [
-                58.406,
-                -49.045
-            ]
-        },
-        {
-            "name": "Besero",
-            "coords": [
-                49.601,
-                -38.168
-            ]
-        },
-        {
-            "name": "Primus Goluud",
-            "coords": [
-                36.48,
-                -36.096
-            ]
-        },
-        {
-            "name": "Empress Teta",
-            "coords": [
-                1.987,
-                -52.137
-            ]
-        },
-        {
-            "name": "Starswarm Cluster",
-            "coords": [
-                9.756,
-                -39.965
-            ]
-        },
-        {
-            "name": "Jerrilek",
-            "coords": [
-                1.946,
-                -24.051
-            ]
-        },
-        {
-            "name": "Tsoss Beacon",
-            "coords": [
-                11.408,
-                -105.307
-            ]
-        },
-        {
-            "name": "Eclipse",
-            "coords": [
-                99.245,
-                -176.94
-            ]
-        },
-        {
-            "name": "Crystan",
-            "coords": [
-                13.406,
-                -246.885
-            ]
-        },
-        {
-            "name": "Khomm",
-            "coords": [
-                12.507,
-                -255.138
-            ]
-        },
-        {
-            "name": "Dremulae",
-            "coords": [
-                101.765,
-                -73.526
-            ]
-        },
-        {
-            "name": "Ojom",
-            "coords": [
-                107.856,
-                -163.279
-            ]
-        },
-        {
-            "name": "Ottabesk",
-            "coords": [
-                112.906,
-                -159.264
-            ]
-        },
-        {
-            "name": "Hakassi",
-            "coords": [
-                113.302,
-                -152.812
-            ]
-        },
-        {
-            "name": "Ebaq",
-            "coords": [
-                106.137,
-                -143.229
-            ]
-        },
-        {
-            "name": "Thoadeye",
-            "coords": [
-                118.939,
-                -112.328
-            ]
-        },
-        {
-            "name": "Galactic Center",
-            "coords": [
-                0.0,
-                -142.091
             ]
         },
         {
@@ -2154,27 +817,6 @@
             ]
         },
         {
-            "name": "Nadiem",
-            "coords": [
-                942.03,
-                -183.507
-            ]
-        },
-        {
-            "name": "Glottal",
-            "coords": [
-                926.929,
-                -151.996
-            ]
-        },
-        {
-            "name": "Teth",
-            "coords": [
-                911.875,
-                -210.191
-            ]
-        },
-        {
             "name": "Teth",
             "coords": [
                 911.875,
@@ -2200,13 +842,6 @@
             "coords": [
                 912.701,
                 -228.942
-            ]
-        },
-        {
-            "name": "Lirra",
-            "coords": [
-                905.238,
-                -213.622
             ]
         },
         {
@@ -2891,31 +1526,10 @@
             ]
         },
         {
-            "name": "Marmoth",
-            "coords": [
-                -62.904,
-                516.179
-            ]
-        },
-        {
             "name": "Mygeeto",
             "coords": [
                 -50.923,
                 493.977
-            ]
-        },
-        {
-            "name": "Mygeeto",
-            "coords": [
-                -50.923,
-                493.977
-            ]
-        },
-        {
-            "name": "Anemcoro",
-            "coords": [
-                -3.516,
-                461.499
             ]
         },
         {
@@ -2933,20 +1547,6 @@
             ]
         },
         {
-            "name": "Haverling",
-            "coords": [
-                -32.302,
-                478.151
-            ]
-        },
-        {
-            "name": "Morishim",
-            "coords": [
-                -31.315,
-                489.157
-            ]
-        },
-        {
             "name": "Morishim",
             "coords": [
                 -31.315,
@@ -2958,20 +1558,6 @@
             "coords": [
                 -31.153,
                 497.552
-            ]
-        },
-        {
-            "name": "Aris",
-            "coords": [
-                -31.153,
-                497.552
-            ]
-        },
-        {
-            "name": "Malestrom Nebula",
-            "coords": [
-                -11.257,
-                488.944
             ]
         },
         {
@@ -4270,20 +2856,6 @@
             ]
         },
         {
-            "name": "Lipsec",
-            "coords": [
-                -275.842,
-                -866.091
-            ]
-        },
-        {
-            "name": "Coveway",
-            "coords": [
-                -226.339,
-                -818.45
-            ]
-        },
-        {
             "name": "Coveway",
             "coords": [
                 -226.339,
@@ -4295,27 +2867,6 @@
             "coords": [
                 -207.986,
                 -891.331
-            ]
-        },
-        {
-            "name": "Sump",
-            "coords": [
-                -207.986,
-                -891.331
-            ]
-        },
-        {
-            "name": "Abridon",
-            "coords": [
-                -133.386,
-                -887.816
-            ]
-        },
-        {
-            "name": "Keskin",
-            "coords": [
-                -163.801,
-                -893.093
             ]
         },
         {
@@ -4349,66 +2900,10 @@
             ]
         },
         {
-            "name": "",
-            "coords": [
-                -105.135,
-                -857.888
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                -112.734,
-                -843.585
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                -115.132,
-                -837.482
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                -115.529,
-                -814.725
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                -118.333,
-                -826.208
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                -104.693,
-                -830.911
-            ]
-        },
-        {
             "name": "Shuldene",
             "coords": [
                 -114.703,
                 -830.999
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                -103.976,
-                -843.452
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                -100.016,
-                -839.814
             ]
         },
         {
@@ -4472,31 +2967,10 @@
             ]
         },
         {
-            "name": "Zaddja",
-            "coords": [
-                -377.081,
-                -514.889
-            ]
-        },
-        {
-            "name": "Rattatak",
-            "coords": [
-                -370.046,
-                -608.826
-            ]
-        },
-        {
             "name": "Codia",
             "coords": [
                 -340.957,
                 -520.631
-            ]
-        },
-        {
-            "name": "Batuu",
-            "coords": [
-                -387.826,
-                -555.59
             ]
         },
         {
@@ -4740,13 +3214,6 @@
                 -438.157,
                 -670.906
             ]
-        },
-        {
-            "name": "Bakura",
-            "coords": [
-                -438.157,
-                -670.906
-            ]
         }
     ],
     "I-17": [
@@ -4799,20 +3266,6 @@
             "coords": [
                 -105.409,
                 -1124.192
-            ]
-        },
-        {
-            "name": "Terminus",
-            "coords": [
-                -72.459,
-                -1093.647
-            ]
-        },
-        {
-            "name": "Delrakkin",
-            "coords": [
-                -51.277,
-                -1125.304
             ]
         },
         {
@@ -4892,20 +3345,6 @@
             ]
         },
         {
-            "name": "Faldos",
-            "coords": [
-                -94.107,
-                -1035.221
-            ]
-        },
-        {
-            "name": "Saijo",
-            "coords": [
-                -97.65,
-                -1054.36
-            ]
-        },
-        {
             "name": "Anoth",
             "coords": [
                 -173.689,
@@ -4919,13 +3358,6 @@
             "coords": [
                 -54.536,
                 -974.433
-            ]
-        },
-        {
-            "name": "Manpha",
-            "coords": [
-                -79.675,
-                -1014.271
             ]
         },
         {
@@ -4964,13 +3396,6 @@
                 -157.043,
                 -917.722
             ]
-        },
-        {
-            "name": "Karra",
-            "coords": [
-                -157.043,
-                -917.722
-            ]
         }
     ],
     "I-19": [
@@ -4979,13 +3404,6 @@
             "coords": [
                 -216.873,
                 -935.612
-            ]
-        },
-        {
-            "name": "Thakwaa",
-            "coords": [
-                -243.875,
-                -918.853
             ]
         },
         {
@@ -5102,20 +3520,6 @@
             ]
         },
         {
-            "name": "Skustell Cluster",
-            "coords": [
-                223.415,
-                -959.708
-            ]
-        },
-        {
-            "name": "Utapau",
-            "coords": [
-                205.724,
-                -984.382
-            ]
-        },
-        {
             "name": "Praesitlyn",
             "coords": [
                 161.788,
@@ -5211,20 +3615,6 @@
             ]
         },
         {
-            "name": "Cotellier",
-            "coords": [
-                273.808,
-                -1039.891
-            ]
-        },
-        {
-            "name": "Taroon",
-            "coords": [
-                292.197,
-                -1003.578
-            ]
-        },
-        {
             "name": "Taroon",
             "coords": [
                 292.197,
@@ -5236,20 +3626,6 @@
             "coords": [
                 274.041,
                 -1019.174
-            ]
-        },
-        {
-            "name": "Ma'ar Shaddam",
-            "coords": [
-                274.041,
-                -1019.174
-            ]
-        },
-        {
-            "name": "Corva Yag",
-            "coords": [
-                222.133,
-                -1035.468
             ]
         },
         {
@@ -5285,20 +3661,6 @@
             ]
         },
         {
-            "name": "Atravis",
-            "coords": [
-                71.414,
-                -945.741
-            ]
-        },
-        {
-            "name": "Tosste",
-            "coords": [
-                33.685,
-                -989.33
-            ]
-        },
-        {
             "name": "Tosste",
             "coords": [
                 33.685,
@@ -5313,31 +3675,10 @@
             ]
         },
         {
-            "name": "Mustafar",
-            "coords": [
-                17.856,
-                -984.675
-            ]
-        },
-        {
             "name": "Dorlo",
             "coords": [
                 23.702,
                 -928.042
-            ]
-        },
-        {
-            "name": "Dorlo",
-            "coords": [
-                23.702,
-                -928.042
-            ]
-        },
-        {
-            "name": "Rutan",
-            "coords": [
-                10.873,
-                -1015.866
             ]
         }
     ],
@@ -5716,20 +4057,6 @@
             ]
         },
         {
-            "name": "Sullust",
-            "coords": [
-                156.027,
-                -781.302
-            ]
-        },
-        {
-            "name": "Bortras",
-            "coords": [
-                144.33,
-                -809.235
-            ]
-        },
-        {
             "name": "Darkknell",
             "coords": [
                 188.673,
@@ -5783,13 +4110,6 @@
             "coords": [
                 171.956,
                 -707.231
-            ]
-        },
-        {
-            "name": "Ord Ibanna",
-            "coords": [
-                136.716,
-                -781.355
             ]
         },
         {
@@ -5909,13 +4229,6 @@
             ]
         },
         {
-            "name": "",
-            "coords": [
-                -74.929,
-                -813.78
-            ]
-        },
-        {
             "name": "High Chunah",
             "coords": [
                 -84.569,
@@ -5993,24 +4306,10 @@
             ]
         },
         {
-            "name": "",
-            "coords": [
-                -67.654,
-                -871.048
-            ]
-        },
-        {
             "name": "Tinoon",
             "coords": [
                 -66.066,
                 -874.249
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                -69.138,
-                -876.668
             ]
         },
         {
@@ -6025,27 +4324,6 @@
             "coords": [
                 -82.898,
                 -897.783
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                -97.538,
-                -894.747
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                -99.763,
-                -882.838
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                -99.507,
-                -871.406
             ]
         },
         {
@@ -6400,13 +4678,6 @@
             ]
         },
         {
-            "name": "Sanbra",
-            "coords": [
-                324.373,
-                -757.901
-            ]
-        },
-        {
             "name": "Naboo",
             "coords": [
                 334.442,
@@ -6447,13 +4718,6 @@
                 337.759,
                 -785.103
             ]
-        },
-        {
-            "name": "D'Qar",
-            "coords": [
-                337.759,
-                -785.103
-            ]
         }
     ],
     "O-19": [
@@ -6476,13 +4740,6 @@
             "coords": [
                 365.885,
                 -957.678
-            ]
-        },
-        {
-            "name": "Andelm IV",
-            "coords": [
-                330.541,
-                -973.767
             ]
         },
         {
@@ -6608,20 +4865,6 @@
             ]
         },
         {
-            "name": "Daan/Melida",
-            "coords": [
-                461.503,
-                -766.976
-            ]
-        },
-        {
-            "name": "Trigalis",
-            "coords": [
-                409.592,
-                -743.928
-            ]
-        },
-        {
             "name": "Trigalis",
             "coords": [
                 409.592,
@@ -6672,13 +4915,6 @@
             "coords": [
                 527.425,
                 -695.681
-            ]
-        },
-        {
-            "name": "Lok",
-            "coords": [
-                551.168,
-                -721.286
             ]
         },
         {
@@ -6917,31 +5153,10 @@
             ]
         },
         {
-            "name": "Geonosis",
-            "coords": [
-                644.96,
-                -673.297
-            ]
-        },
-        {
             "name": "Austan",
             "coords": [
                 621.861,
                 -658.048
-            ]
-        },
-        {
-            "name": "Austan",
-            "coords": [
-                621.861,
-                -658.048
-            ]
-        },
-        {
-            "name": "Pii",
-            "coords": [
-                620.026,
-                -649.81
             ]
         },
         {
@@ -6959,31 +5174,10 @@
             ]
         },
         {
-            "name": "Utaruun",
-            "coords": [
-                629.366,
-                -666.814
-            ]
-        },
-        {
             "name": "Vuzsa",
             "coords": [
                 642.419,
                 -657.457
-            ]
-        },
-        {
-            "name": "Vuzsa",
-            "coords": [
-                642.419,
-                -657.457
-            ]
-        },
-        {
-            "name": "Piroket",
-            "coords": [
-                660.907,
-                -642.275
             ]
         },
         {
@@ -7001,31 +5195,10 @@
             ]
         },
         {
-            "name": "A-Foroon",
-            "coords": [
-                660.017,
-                -648.846
-            ]
-        },
-        {
             "name": "B-Foroon",
             "coords": [
                 659.514,
                 -651.218
-            ]
-        },
-        {
-            "name": "B-Foroon",
-            "coords": [
-                659.514,
-                -651.218
-            ]
-        },
-        {
-            "name": "C-Foroon",
-            "coords": [
-                658.905,
-                -653.485
             ]
         },
         {
@@ -7043,31 +5216,10 @@
             ]
         },
         {
-            "name": "New Ator",
-            "coords": [
-                624.429,
-                -692.396
-            ]
-        },
-        {
             "name": "Kemal Station",
             "coords": [
                 629.235,
                 -684.194
-            ]
-        },
-        {
-            "name": "Kemal Station",
-            "coords": [
-                629.235,
-                -684.194
-            ]
-        },
-        {
-            "name": "Obana",
-            "coords": [
-                648.241,
-                -687.722
             ]
         },
         {
@@ -7085,31 +5237,10 @@
             ]
         },
         {
-            "name": "Andooweel",
-            "coords": [
-                637.195,
-                -678.594
-            ]
-        },
-        {
             "name": "Ooo-temiuk",
             "coords": [
                 651.848,
                 -667.27
-            ]
-        },
-        {
-            "name": "Ooo-temiuk",
-            "coords": [
-                651.848,
-                -667.27
-            ]
-        },
-        {
-            "name": "Melnea's World",
-            "coords": [
-                671.887,
-                -682.384
             ]
         },
         {
@@ -7127,20 +5258,6 @@
             ]
         },
         {
-            "name": "Cranan",
-            "coords": [
-                663.001,
-                -684.103
-            ]
-        },
-        {
-            "name": "Gedi",
-            "coords": [
-                657.031,
-                -692.182
-            ]
-        },
-        {
             "name": "Gedi",
             "coords": [
                 657.031,
@@ -7152,104 +5269,6 @@
             "coords": [
                 666.265,
                 -698.497
-            ]
-        },
-        {
-            "name": "Vactooine",
-            "coords": [
-                666.265,
-                -698.497
-            ]
-        },
-        {
-            "name": "Arkanis",
-            "coords": [
-                614.052,
-                -708.852
-            ]
-        },
-        {
-            "name": "Gorno",
-            "coords": [
-                627.069,
-                -720.659
-            ]
-        },
-        {
-            "name": "Issor",
-            "coords": [
-                622.577,
-                -701.044
-            ]
-        },
-        {
-            "name": "Huldamun",
-            "coords": [
-                625.099,
-                -708.077
-            ]
-        },
-        {
-            "name": "Najiba",
-            "coords": [
-                628.512,
-                -704.77
-            ]
-        },
-        {
-            "name": "Tarnoonga",
-            "coords": [
-                671.477,
-                -704.26
-            ]
-        },
-        {
-            "name": "Cirus",
-            "coords": [
-                673.958,
-                -712.9
-            ]
-        },
-        {
-            "name": "Khubeaie",
-            "coords": [
-                656.738,
-                -715.451
-            ]
-        },
-        {
-            "name": "Heffrin",
-            "coords": [
-                645.987,
-                -718.626
-            ]
-        },
-        {
-            "name": "Vor Deo",
-            "coords": [
-                650.094,
-                -702.312
-            ]
-        },
-        {
-            "name": "Sirpar",
-            "coords": [
-                622.786,
-                -716.713
-            ]
-        },
-        {
-            "name": "Vasch",
-            "coords": [
-                633.241,
-                -715.906
-            ]
-        },
-        {
-            "name": "Mika",
-            "coords": [
-                641.285,
-                -715.267
             ]
         },
         {
@@ -7368,13 +5387,6 @@
             ]
         },
         {
-            "name": "Illarreen",
-            "coords": [
-                884.68,
-                -613.243
-            ]
-        },
-        {
             "name": "Shiffrin",
             "coords": [
                 843.091,
@@ -7410,13 +5422,6 @@
                 836.236,
                 -735.898
             ]
-        },
-        {
-            "name": "Shinbone",
-            "coords": [
-                836.236,
-                -735.898
-            ]
         }
     ],
     "R-3": [
@@ -7435,31 +5440,10 @@
             ]
         },
         {
-            "name": "Ninn",
-            "coords": [
-                698.63,
-                619.119
-            ]
-        },
-        {
             "name": "Reltooine",
             "coords": [
                 680.837,
                 612.395
-            ]
-        },
-        {
-            "name": "Reltooine",
-            "coords": [
-                680.837,
-                612.395
-            ]
-        },
-        {
-            "name": "Mall'ordian",
-            "coords": [
-                693.696,
-                610.988
             ]
         },
         {
@@ -7477,20 +5461,6 @@
             ]
         },
         {
-            "name": "Knolstee",
-            "coords": [
-                680.383,
-                605.143
-            ]
-        },
-        {
-            "name": "Kail",
-            "coords": [
-                681.203,
-                600.513
-            ]
-        },
-        {
             "name": "Kail",
             "coords": [
                 681.203,
@@ -7502,307 +5472,6 @@
             "coords": [
                 684.396,
                 600.698
-            ]
-        },
-        {
-            "name": "Davirien",
-            "coords": [
-                684.396,
-                600.698
-            ]
-        },
-        {
-            "name": "Drog",
-            "coords": [
-                693.288,
-                599.428
-            ]
-        },
-        {
-            "name": "Craci",
-            "coords": [
-                695.193,
-                587.981
-            ]
-        },
-        {
-            "name": "Bonadan",
-            "coords": [
-                739.782,
-                601.747
-            ]
-        },
-        {
-            "name": "Lythos",
-            "coords": [
-                713.223,
-                607.801
-            ]
-        },
-        {
-            "name": "D'ian",
-            "coords": [
-                732.969,
-                603.85
-            ]
-        },
-        {
-            "name": "Atchorb",
-            "coords": [
-                734.09,
-                611.382
-            ]
-        },
-        {
-            "name": "Tothis",
-            "coords": [
-                741.63,
-                606.937
-            ]
-        },
-        {
-            "name": "R'alla",
-            "coords": [
-                746.34,
-                601.672
-            ]
-        },
-        {
-            "name": "Kir",
-            "coords": [
-                748.606,
-                603.083
-            ]
-        },
-        {
-            "name": "Deltooine",
-            "coords": [
-                752.928,
-                602.113
-            ]
-        },
-        {
-            "name": "Fether",
-            "coords": [
-                756.112,
-                602.721
-            ]
-        },
-        {
-            "name": "Ocsin",
-            "coords": [
-                757.726,
-                603.189
-            ]
-        },
-        {
-            "name": "Kamar",
-            "coords": [
-                759.622,
-                603.735
-            ]
-        },
-        {
-            "name": "Brosi",
-            "coords": [
-                746.691,
-                619.87
-            ]
-        },
-        {
-            "name": "Abo Dreth",
-            "coords": [
-                739.794,
-                622.145
-            ]
-        },
-        {
-            "name": "Ulicia",
-            "coords": [
-                736.884,
-                623.186
-            ]
-        },
-        {
-            "name": "Perin",
-            "coords": [
-                721.847,
-                631.909
-            ]
-        },
-        {
-            "name": "Fibuli",
-            "coords": [
-                711.193,
-                631.953
-            ]
-        },
-        {
-            "name": "Hiit",
-            "coords": [
-                712.531,
-                625.55
-            ]
-        },
-        {
-            "name": "Etti",
-            "coords": [
-                730.248,
-                598.133
-            ]
-        },
-        {
-            "name": "Jerrist",
-            "coords": [
-                713.374,
-                584.934
-            ]
-        },
-        {
-            "name": "Saclas",
-            "coords": [
-                718.666,
-                579.576
-            ]
-        },
-        {
-            "name": "Duroon",
-            "coords": [
-                721.521,
-                581.122
-            ]
-        },
-        {
-            "name": "Ammuud",
-            "coords": [
-                731.778,
-                577.193
-            ]
-        },
-        {
-            "name": "Biewa",
-            "coords": [
-                728.537,
-                586.387
-            ]
-        },
-        {
-            "name": "Urdur",
-            "coords": [
-                735.28,
-                580.13
-            ]
-        },
-        {
-            "name": "Oslumpex",
-            "coords": [
-                739.01,
-                581.047
-            ]
-        },
-        {
-            "name": "Matra",
-            "coords": [
-                745.034,
-                579.08
-            ]
-        },
-        {
-            "name": "Orron",
-            "coords": [
-                747.51,
-                576.267
-            ]
-        },
-        {
-            "name": "Joodrudda",
-            "coords": [
-                756.471,
-                582.758
-            ]
-        },
-        {
-            "name": "Gaurick",
-            "coords": [
-                754.548,
-                584.716
-            ]
-        },
-        {
-            "name": "Ban-Satir",
-            "coords": [
-                751.426,
-                589.526
-            ]
-        },
-        {
-            "name": "Pondut Station",
-            "coords": [
-                736.222,
-                587.798
-            ]
-        },
-        {
-            "name": "Kalla",
-            "coords": [
-                734.034,
-                589.526
-            ]
-        },
-        {
-            "name": "Issagra",
-            "coords": [
-                747.616,
-                595.418
-            ]
-        },
-        {
-            "name": "Saffalore",
-            "coords": [
-                736.574,
-                594.465
-            ]
-        },
-        {
-            "name": "Erysthes",
-            "coords": [
-                744.609,
-                599.051
-            ]
-        },
-        {
-            "name": "Rampa",
-            "coords": [
-                747.555,
-                599.236
-            ]
-        },
-        {
-            "name": "Media",
-            "coords": [
-                722.498,
-                590.867
-            ]
-        },
-        {
-            "name": "Ession",
-            "coords": [
-                730.013,
-                593.089
-            ]
-        },
-        {
-            "name": "Maryo",
-            "coords": [
-                713.655,
-                596.803
-            ]
-        },
-        {
-            "name": "Tirsa",
-            "coords": [
-                715.666,
-                594.396
             ]
         },
         {
@@ -7831,20 +5500,6 @@
             "coords": [
                 684.597,
                 628.424
-            ]
-        },
-        {
-            "name": "Cantonica",
-            "coords": [
-                737.407,
-                585.696
-            ]
-        },
-        {
-            "name": "Salient",
-            "coords": [
-                752.63,
-                614.099
             ]
         }
     ],
@@ -8139,2353 +5794,6 @@
             ]
         }
     ],
-    "O-9": [
-        {
-            "name": "",
-            "coords": [
-                336.545,
-                49.619
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                336.142,
-                53.439
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                336.142,
-                53.439
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.469,
-                59.198
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.469,
-                59.198
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                337.021,
-                54.54
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                337.021,
-                54.54
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.582,
-                52.286
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.582,
-                52.286
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.215,
-                60.224
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.215,
-                60.224
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.995,
-                51.661
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.995,
-                51.661
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.699,
-                50.063
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.699,
-                50.063
-            ]
-        },
-        {
-            "name": "Donovia",
-            "coords": [
-                394.169,
-                99.27
-            ]
-        },
-        {
-            "name": "Illoud",
-            "coords": [
-                393.429,
-                92.859
-            ]
-        },
-        {
-            "name": "Hapes",
-            "coords": [
-                350.642,
-                53.377
-            ]
-        },
-        {
-            "name": "Hapes",
-            "coords": [
-                350.642,
-                53.377
-            ]
-        },
-        {
-            "name": "Onderon & Dxun",
-            "coords": [
-                370.615,
-                17.405
-            ]
-        },
-        {
-            "name": "Telkur Station",
-            "coords": [
-                336.289,
-                41.925
-            ]
-        },
-        {
-            "name": "Telkur Station",
-            "coords": [
-                336.289,
-                41.925
-            ]
-        },
-        {
-            "name": "Chosper",
-            "coords": [
-                339.499,
-                41.113
-            ]
-        },
-        {
-            "name": "Chosper",
-            "coords": [
-                339.499,
-                41.113
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.437,
-                58.298
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.437,
-                58.298
-            ]
-        },
-        {
-            "name": "Andalia",
-            "coords": [
-                334.631,
-                46.14
-            ]
-        },
-        {
-            "name": "Andalia",
-            "coords": [
-                334.631,
-                46.14
-            ]
-        },
-        {
-            "name": "Sennex",
-            "coords": [
-                335.171,
-                48.359
-            ]
-        },
-        {
-            "name": "Sennex",
-            "coords": [
-                335.171,
-                48.359
-            ]
-        },
-        {
-            "name": "Daruvvia",
-            "coords": [
-                336.247,
-                50.582
-            ]
-        },
-        {
-            "name": "Daruvvia",
-            "coords": [
-                336.247,
-                50.582
-            ]
-        },
-        {
-            "name": "Ket",
-            "coords": [
-                336.565,
-                52.222
-            ]
-        },
-        {
-            "name": "Ket",
-            "coords": [
-                336.565,
-                52.222
-            ]
-        },
-        {
-            "name": "Lovola",
-            "coords": [
-                337.641,
-                55.503
-            ]
-        },
-        {
-            "name": "Lovola",
-            "coords": [
-                337.641,
-                55.503
-            ]
-        },
-        {
-            "name": "Maires",
-            "coords": [
-                337.923,
-                57.267
-            ]
-        },
-        {
-            "name": "Maires",
-            "coords": [
-                337.923,
-                57.267
-            ]
-        },
-        {
-            "name": "Vergill",
-            "coords": [
-                338.487,
-                58.166
-            ]
-        },
-        {
-            "name": "Vergill",
-            "coords": [
-                338.487,
-                58.166
-            ]
-        },
-        {
-            "name": "Modus",
-            "coords": [
-                339.951,
-                58.872
-            ]
-        },
-        {
-            "name": "Modus",
-            "coords": [
-                339.951,
-                58.872
-            ]
-        },
-        {
-            "name": "Charubah",
-            "coords": [
-                339.898,
-                57.267
-            ]
-        },
-        {
-            "name": "Charubah",
-            "coords": [
-                339.898,
-                57.267
-            ]
-        },
-        {
-            "name": "Cheruba",
-            "coords": [
-                342.809,
-                56.985
-            ]
-        },
-        {
-            "name": "Cheruba",
-            "coords": [
-                342.809,
-                56.985
-            ]
-        },
-        {
-            "name": "Relephon",
-            "coords": [
-                344.273,
-                55.979
-            ]
-        },
-        {
-            "name": "Relephon",
-            "coords": [
-                344.273,
-                55.979
-            ]
-        },
-        {
-            "name": "Wodan",
-            "coords": [
-                343.55,
-                55.115
-            ]
-        },
-        {
-            "name": "Wodan",
-            "coords": [
-                343.55,
-                55.115
-            ]
-        },
-        {
-            "name": "Divora",
-            "coords": [
-                341.609,
-                53.704
-            ]
-        },
-        {
-            "name": "Divora",
-            "coords": [
-                341.609,
-                53.704
-            ]
-        },
-        {
-            "name": "Algnadesh",
-            "coords": [
-                343.338,
-                54.286
-            ]
-        },
-        {
-            "name": "Algnadesh",
-            "coords": [
-                343.338,
-                54.286
-            ]
-        },
-        {
-            "name": "Sargon",
-            "coords": [
-                342.862,
-                60.565
-            ]
-        },
-        {
-            "name": "Sargon",
-            "coords": [
-                342.862,
-                60.565
-            ]
-        },
-        {
-            "name": "Febrini",
-            "coords": [
-                347.695,
-                59.93
-            ]
-        },
-        {
-            "name": "Febrini",
-            "coords": [
-                347.695,
-                59.93
-            ]
-        },
-        {
-            "name": "Zadaria",
-            "coords": [
-                348.453,
-                58.854
-            ]
-        },
-        {
-            "name": "Zadaria",
-            "coords": [
-                348.453,
-                58.854
-            ]
-        },
-        {
-            "name": "Phelope",
-            "coords": [
-                348.418,
-                57.919
-            ]
-        },
-        {
-            "name": "Phelope",
-            "coords": [
-                348.418,
-                57.919
-            ]
-        },
-        {
-            "name": "Jodaka",
-            "coords": [
-                341.383,
-                49.158
-            ]
-        },
-        {
-            "name": "Jodaka",
-            "coords": [
-                341.383,
-                49.158
-            ]
-        },
-        {
-            "name": "Stalsinek",
-            "coords": [
-                341.736,
-                46.971
-            ]
-        },
-        {
-            "name": "Stalsinek",
-            "coords": [
-                341.736,
-                46.971
-            ]
-        },
-        {
-            "name": "Nantuker",
-            "coords": [
-                344.092,
-                44.87
-            ]
-        },
-        {
-            "name": "Nantuker",
-            "coords": [
-                344.092,
-                44.87
-            ]
-        },
-        {
-            "name": "k'Farri",
-            "coords": [
-                347.496,
-                42.348
-            ]
-        },
-        {
-            "name": "k'Farri",
-            "coords": [
-                347.496,
-                42.348
-            ]
-        },
-        {
-            "name": "Calfa",
-            "coords": [
-                356.104,
-                47.04
-            ]
-        },
-        {
-            "name": "Calfa",
-            "coords": [
-                356.104,
-                47.04
-            ]
-        },
-        {
-            "name": "Dreena",
-            "coords": [
-                358.468,
-                49.333
-            ]
-        },
-        {
-            "name": "Dreena",
-            "coords": [
-                358.468,
-                49.333
-            ]
-        },
-        {
-            "name": "Reboam",
-            "coords": [
-                360.144,
-                53.672
-            ]
-        },
-        {
-            "name": "Reboam",
-            "coords": [
-                360.144,
-                53.672
-            ]
-        },
-        {
-            "name": "Shedu Maad",
-            "coords": [
-                358.38,
-                59.51
-            ]
-        },
-        {
-            "name": "Shedu Maad",
-            "coords": [
-                358.38,
-                59.51
-            ]
-        },
-        {
-            "name": "Terephon",
-            "coords": [
-                355.857,
-                60.78
-            ]
-        },
-        {
-            "name": "Terephon",
-            "coords": [
-                355.857,
-                60.78
-            ]
-        },
-        {
-            "name": "Zalori",
-            "coords": [
-                355.628,
-                61.451
-            ]
-        },
-        {
-            "name": "Zalori",
-            "coords": [
-                355.628,
-                61.451
-            ]
-        },
-        {
-            "name": "Orelon",
-            "coords": [
-                351.351,
-                64.62
-            ]
-        },
-        {
-            "name": "Orelon",
-            "coords": [
-                351.351,
-                64.62
-            ]
-        },
-        {
-            "name": "Rynmar",
-            "coords": [
-                353.594,
-                62.461
-            ]
-        },
-        {
-            "name": "Rynmar",
-            "coords": [
-                353.594,
-                62.461
-            ]
-        },
-        {
-            "name": "Rainboh",
-            "coords": [
-                356.007,
-                63.534
-            ]
-        },
-        {
-            "name": "Rainboh",
-            "coords": [
-                356.007,
-                63.534
-            ]
-        },
-        {
-            "name": "Roqoo Depot",
-            "coords": [
-                362.227,
-                62.382
-            ]
-        },
-        {
-            "name": "Roqoo Depot",
-            "coords": [
-                362.227,
-                62.382
-            ]
-        },
-        {
-            "name": "Talcharaim",
-            "coords": [
-                345.801,
-                51.708
-            ]
-        },
-        {
-            "name": "Talcharaim",
-            "coords": [
-                345.801,
-                51.708
-            ]
-        },
-        {
-            "name": "Sivoria",
-            "coords": [
-                345.575,
-                52.695
-            ]
-        },
-        {
-            "name": "Sivoria",
-            "coords": [
-                345.575,
-                52.695
-            ]
-        },
-        {
-            "name": "Farnica",
-            "coords": [
-                345.604,
-                53.627
-            ]
-        },
-        {
-            "name": "Farnica",
-            "coords": [
-                345.604,
-                53.627
-            ]
-        },
-        {
-            "name": "Novi",
-            "coords": [
-                345.745,
-                54.488
-            ]
-        },
-        {
-            "name": "Novi",
-            "coords": [
-                345.745,
-                54.488
-            ]
-        },
-        {
-            "name": "Gallinore",
-            "coords": [
-                346.14,
-                55.334
-            ]
-        },
-        {
-            "name": "Gallinore",
-            "coords": [
-                346.14,
-                55.334
-            ]
-        },
-        {
-            "name": "Baldavia",
-            "coords": [
-                346.902,
-                54.812
-            ]
-        },
-        {
-            "name": "Baldavia",
-            "coords": [
-                346.902,
-                54.812
-            ]
-        },
-        {
-            "name": "Theselon",
-            "coords": [
-                347.763,
-                54.586
-            ]
-        },
-        {
-            "name": "Theselon",
-            "coords": [
-                347.763,
-                54.586
-            ]
-        },
-        {
-            "name": "Millinar",
-            "coords": [
-                347.636,
-                53.57
-            ]
-        },
-        {
-            "name": "Millinar",
-            "coords": [
-                347.636,
-                53.57
-            ]
-        },
-        {
-            "name": "Lalmy'ash",
-            "coords": [
-                347.805,
-                52.667
-            ]
-        },
-        {
-            "name": "Lalmy'ash",
-            "coords": [
-                347.805,
-                52.667
-            ]
-        },
-        {
-            "name": "Archais",
-            "coords": [
-                348.242,
-                51.976
-            ]
-        },
-        {
-            "name": "Archais",
-            "coords": [
-                348.242,
-                51.976
-            ]
-        },
-        {
-            "name": "Selab",
-            "coords": [
-                349.343,
-                51.609
-            ]
-        },
-        {
-            "name": "Selab",
-            "coords": [
-                349.343,
-                51.609
-            ]
-        },
-        {
-            "name": "Jovaria",
-            "coords": [
-                350.811,
-                51.355
-            ]
-        },
-        {
-            "name": "Jovaria",
-            "coords": [
-                350.811,
-                51.355
-            ]
-        },
-        {
-            "name": "Thrakia",
-            "coords": [
-                351.714,
-                50.762
-            ]
-        },
-        {
-            "name": "Thrakia",
-            "coords": [
-                351.714,
-                50.762
-            ]
-        },
-        {
-            "name": "Lemmi",
-            "coords": [
-                351.742,
-                51.778
-            ]
-        },
-        {
-            "name": "Lemmi",
-            "coords": [
-                351.742,
-                51.778
-            ]
-        },
-        {
-            "name": "Harterra",
-            "coords": [
-                349.893,
-                52.06
-            ]
-        },
-        {
-            "name": "Harterra",
-            "coords": [
-                349.893,
-                52.06
-            ]
-        },
-        {
-            "name": "Ut",
-            "coords": [
-                350.387,
-                52.625
-            ]
-        },
-        {
-            "name": "Ut",
-            "coords": [
-                350.387,
-                52.625
-            ]
-        },
-        {
-            "name": "Arabanth",
-            "coords": [
-                350.317,
-                54.219
-            ]
-        },
-        {
-            "name": "Arabanth",
-            "coords": [
-                350.317,
-                54.219
-            ]
-        },
-        {
-            "name": "Carlania",
-            "coords": [
-                350.049,
-                55.236
-            ]
-        },
-        {
-            "name": "Carlania",
-            "coords": [
-                350.049,
-                55.236
-            ]
-        },
-        {
-            "name": "Ediorung",
-            "coords": [
-                349.442,
-                56.195
-            ]
-        },
-        {
-            "name": "Ediorung",
-            "coords": [
-                349.442,
-                56.195
-            ]
-        },
-        {
-            "name": "Tumani",
-            "coords": [
-                350.698,
-                56.11
-            ]
-        },
-        {
-            "name": "Tumani",
-            "coords": [
-                350.698,
-                56.11
-            ]
-        },
-        {
-            "name": "Tinta",
-            "coords": [
-                351.657,
-                55.687
-            ]
-        },
-        {
-            "name": "Tinta",
-            "coords": [
-                351.657,
-                55.687
-            ]
-        },
-        {
-            "name": "Rbollea",
-            "coords": [
-                352.165,
-                55.264
-            ]
-        },
-        {
-            "name": "Rbollea",
-            "coords": [
-                352.165,
-                55.264
-            ]
-        },
-        {
-            "name": "Porus Vida",
-            "coords": [
-                385.484,
-                37.137
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.048,
-                48.158
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.048,
-                48.158
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.672,
-                46.359
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.672,
-                46.359
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                343.191,
-                45.283
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                343.191,
-                45.283
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                343.946,
-                43.914
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                343.946,
-                43.914
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                344.08,
-                45.763
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                344.08,
-                45.763
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.004,
-                44.197
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.004,
-                44.197
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.731,
-                43.181
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.731,
-                43.181
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                346.832,
-                42.948
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                346.832,
-                42.948
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                348.267,
-                42.617
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                348.267,
-                42.617
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                348.954,
-                43.376
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                348.954,
-                43.376
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                350.198,
-                44.707
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                350.198,
-                44.707
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                351.759,
-                45.536
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                351.759,
-                45.536
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                353.029,
-                46.065
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                353.029,
-                46.065
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.005,
-                46.551
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.005,
-                46.551
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.326,
-                48.0
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.326,
-                48.0
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.278,
-                48.84
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.278,
-                48.84
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                358.534,
-                50.322
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                358.534,
-                50.322
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                358.492,
-                51.317
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                358.492,
-                51.317
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                359.76,
-                53.102
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                359.76,
-                53.102
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                359.749,
-                54.329
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                359.749,
-                54.329
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                359.231,
-                54.858
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                359.231,
-                54.858
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                358.744,
-                55.356
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                358.744,
-                55.356
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.897,
-                55.896
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.897,
-                55.896
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.463,
-                56.52
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.463,
-                56.52
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.167,
-                57.663
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.167,
-                57.663
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.903,
-                60.489
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.903,
-                60.489
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.675,
-                60.319
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.675,
-                60.319
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                358.437,
-                60.531
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                358.437,
-                60.531
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                359.103,
-                60.878
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                359.103,
-                60.878
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                354.711,
-                61.919
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                354.711,
-                61.919
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                352.171,
-                62.995
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                352.171,
-                62.995
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.537,
-                63.224
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.537,
-                63.224
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.39,
-                63.083
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.39,
-                63.083
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                354.773,
-                62.977
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                354.773,
-                62.977
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                353.944,
-                63.215
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                353.944,
-                63.215
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                353.212,
-                63.939
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                353.212,
-                63.939
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                352.409,
-                64.088
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                352.409,
-                64.088
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                348.978,
-                56.834
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                348.978,
-                56.834
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                349.481,
-                60.239
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                349.481,
-                60.239
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                348.652,
-                59.868
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                348.652,
-                59.868
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.054,
-                56.665
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.054,
-                56.665
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.957,
-                57.145
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.957,
-                57.145
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                346.126,
-                59.65
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                346.126,
-                59.65
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.145,
-                59.748
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.145,
-                59.748
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                344.193,
-                59.805
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                344.193,
-                59.805
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                347.17,
-                59.156
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                347.17,
-                59.156
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.928,
-                58.937
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.928,
-                58.937
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.653,
-                60.729
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                345.653,
-                60.729
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.577,
-                59.36
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.577,
-                59.36
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.64,
-                50.439
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.64,
-                50.439
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                340.905,
-                50.523
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                340.905,
-                50.523
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                340.481,
-                51.497
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                340.481,
-                51.497
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.492,
-                52.735
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.492,
-                52.735
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.884,
-                53.529
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.884,
-                53.529
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.069,
-                54.471
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.069,
-                54.471
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.757,
-                54.841
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                342.757,
-                54.841
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.307,
-                58.143
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.307,
-                58.143
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                338.513,
-                56.503
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                338.513,
-                56.503
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                336.893,
-                56.027
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                336.893,
-                56.027
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                337.433,
-                53.614
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                337.433,
-                53.614
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.411,
-                59.782
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.411,
-                59.782
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                338.827,
-                59.738
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                338.827,
-                59.738
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                338.58,
-                60.646
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                338.58,
-                60.646
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                339.735,
-                60.831
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                339.735,
-                60.831
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                340.017,
-                59.897
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                340.017,
-                59.897
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.12,
-                61.096
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                341.12,
-                61.096
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                335.567,
-                45.399
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                335.567,
-                45.399
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                336.498,
-                44.729
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                336.498,
-                44.729
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                337.162,
-                43.614
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                337.162,
-                43.614
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                337.726,
-                42.676
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                337.726,
-                42.676
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                338.58,
-                42.083
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                338.58,
-                42.083
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                338.474,
-                41.145
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                338.474,
-                41.145
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                337.373,
-                41.85
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                337.373,
-                41.85
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                335.073,
-                42.528
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                335.073,
-                42.528
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                334.255,
-                43.106
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                334.255,
-                43.106
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                336.209,
-                43.586
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                336.209,
-                43.586
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                347.279,
-                41.194
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                347.279,
-                41.194
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                347.364,
-                44.341
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                347.364,
-                44.341
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                348.182,
-                45.329
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                348.182,
-                45.329
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                350.059,
-                42.873
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                350.059,
-                42.873
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                350.13,
-                43.748
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                350.13,
-                43.748
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                351.16,
-                44.129
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                351.16,
-                44.129
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.224,
-                43.48
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.224,
-                43.48
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                353.77,
-                44.976
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                353.77,
-                44.976
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.591,
-                48.419
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.591,
-                48.419
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.466,
-                49.491
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.466,
-                49.491
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.693,
-                47.897
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.693,
-                47.897
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                359.245,
-                50.437
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                359.245,
-                50.437
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.309,
-                52.127
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.309,
-                52.127
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.933,
-                52.889
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.933,
-                52.889
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.732,
-                55.079
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                357.732,
-                55.079
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.6,
-                56.646
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.6,
-                56.646
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.303,
-                57.09
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                356.303,
-                57.09
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.996,
-                57.535
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.996,
-                57.535
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.044,
-                60.339
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                355.044,
-                60.339
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                353.887,
-                61.285
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                353.887,
-                61.285
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                335.302,
-                49.84
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                335.302,
-                49.84
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                349.673,
-                60.332
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                349.673,
-                60.332
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                346.46,
-                51.081
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                346.46,
-                51.081
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                347.349,
-                50.837
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                347.349,
-                50.837
-            ]
-        }
-    ],
     "S-4": [
         {
             "name": "Etti",
@@ -10714,31 +6022,10 @@
             ]
         },
         {
-            "name": "Feswe Prime",
-            "coords": [
-                411.585,
-                417.05
-            ]
-        },
-        {
             "name": "Feswe Minor",
             "coords": [
                 406.91,
                 406.819
-            ]
-        },
-        {
-            "name": "Feswe Minor",
-            "coords": [
-                406.91,
-                406.819
-            ]
-        },
-        {
-            "name": "Krylon",
-            "coords": [
-                441.394,
-                401.616
             ]
         },
         {
@@ -10756,31 +6043,10 @@
             ]
         },
         {
-            "name": "Ladarra",
-            "coords": [
-                453.565,
-                414.227
-            ]
-        },
-        {
             "name": "Marrovia",
             "coords": [
                 463.531,
                 424.017
-            ]
-        },
-        {
-            "name": "Marrovia",
-            "coords": [
-                463.531,
-                424.017
-            ]
-        },
-        {
-            "name": "Kli'aar",
-            "coords": [
-                475.967,
-                430.896
             ]
         },
         {
@@ -10798,31 +6064,10 @@
             ]
         },
         {
-            "name": "Mogoshyn",
-            "coords": [
-                483.704,
-                452.774
-            ]
-        },
-        {
             "name": "Betshish",
             "coords": [
                 485.204,
                 440.78
-            ]
-        },
-        {
-            "name": "Betshish",
-            "coords": [
-                485.204,
-                440.78
-            ]
-        },
-        {
-            "name": "Vaal",
-            "coords": [
-                487.408,
-                400.034
             ]
         },
         {
@@ -10840,297 +6085,10 @@
             ]
         },
         {
-            "name": "Glade",
-            "coords": [
-                491.554,
-                413.44
-            ]
-        },
-        {
             "name": "Feswe Corridor",
             "coords": [
                 428.43,
                 412.023
-            ]
-        },
-        {
-            "name": "Feswe Corridor",
-            "coords": [
-                428.43,
-                412.023
-            ]
-        },
-        {
-            "name": "Torque",
-            "coords": [
-                461.36,
-                381.023
-            ]
-        },
-        {
-            "name": "Yavin",
-            "coords": [
-                458.395,
-                398.671
-            ]
-        },
-        {
-            "name": "Tertiary Feswe",
-            "coords": [
-                404.845,
-                393.836
-            ]
-        },
-        {
-            "name": "Selitan",
-            "coords": [
-                417.051,
-                388.051
-            ]
-        },
-        {
-            "name": "Denarii Station",
-            "coords": [
-                422.625,
-                377.82
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                432.379,
-                382.577
-            ]
-        },
-        {
-            "name": "Presbalin",
-            "coords": [
-                417.386,
-                367.407
-            ]
-        },
-        {
-            "name": "Far Indosa",
-            "coords": [
-                432.069,
-                357.3
-            ]
-        },
-        {
-            "name": "Near Indosa",
-            "coords": [
-                442.441,
-                368.307
-            ]
-        },
-        {
-            "name": "Trinovat",
-            "coords": [
-                455.458,
-                366.19
-            ]
-        },
-        {
-            "name": "Durgen's Star",
-            "coords": [
-                471.757,
-                358.676
-            ]
-        },
-        {
-            "name": "Jovan",
-            "coords": [
-                481.282,
-                379.208
-            ]
-        },
-        {
-            "name": "Xochtl",
-            "coords": [
-                487.314,
-                362.592
-            ]
-        },
-        {
-            "name": "Povanaria",
-            "coords": [
-                492.606,
-                354.548
-            ]
-        },
-        {
-            "name": "Bronsoon",
-            "coords": [
-                497.262,
-                365.026
-            ]
-        },
-        {
-            "name": "Feena",
-            "coords": [
-                549.753,
-                407.225
-            ]
-        },
-        {
-            "name": "Troos",
-            "coords": [
-                535.889,
-                460.213
-            ]
-        },
-        {
-            "name": "Mannova",
-            "coords": [
-                502.313,
-                448.982
-            ]
-        },
-        {
-            "name": "Wetyin's Colony",
-            "coords": [
-                513.867,
-                429.932
-            ]
-        },
-        {
-            "name": "Atorra",
-            "coords": [
-                539.924,
-                450.722
-            ]
-        },
-        {
-            "name": "Elamposnia",
-            "coords": [
-                546.909,
-                451.074
-            ]
-        },
-        {
-            "name": "Chenowei",
-            "coords": [
-                544.157,
-                439.433
-            ]
-        },
-        {
-            "name": "B'trilla",
-            "coords": [
-                547.332,
-                426.168
-            ]
-        },
-        {
-            "name": "Arda",
-            "coords": [
-                556.434,
-                382.187
-            ]
-        },
-        {
-            "name": "Vallusk Cluster",
-            "coords": [
-                501.355,
-                383.106
-            ]
-        },
-        {
-            "name": "Gulvitch",
-            "coords": [
-                505.235,
-                369.083
-            ]
-        },
-        {
-            "name": "Arkuda",
-            "coords": [
-                508.498,
-                372.611
-            ]
-        },
-        {
-            "name": "Korphir",
-            "coords": [
-                522.61,
-                367.495
-            ]
-        },
-        {
-            "name": "Tenara",
-            "coords": [
-                526.667,
-                361.939
-            ]
-        },
-        {
-            "name": "The Cometwash",
-            "coords": [
-                527.725,
-                377.638
-            ]
-        },
-        {
-            "name": "Usta",
-            "coords": [
-                531.517,
-                392.19
-            ]
-        },
-        {
-            "name": "Barison",
-            "coords": [
-                538.749,
-                398.804
-            ]
-        },
-        {
-            "name": "Little Capella",
-            "coords": [
-                559.828,
-                361.939
-            ]
-        },
-        {
-            "name": "Capella",
-            "coords": [
-                555.33,
-                371.993
-            ]
-        },
-        {
-            "name": "Kalishik",
-            "coords": [
-                550.038,
-                392.543
-            ]
-        },
-        {
-            "name": "Feldwes",
-            "coords": [
-                577.643,
-                383.018
-            ]
-        },
-        {
-            "name": "Pygorix",
-            "coords": [
-                585.933,
-                385.222
-            ]
-        },
-        {
-            "name": "Karsten's World",
-            "coords": [
-                588.756,
-                378.52
-            ]
-        },
-        {
-            "name": "Spintir",
-            "coords": [
-                595.282,
-                388.486
             ]
         },
         {
@@ -11203,13 +6161,6 @@
             "coords": [
                 422.625,
                 377.82
-            ]
-        },
-        {
-            "name": "",
-            "coords": [
-                432.379,
-                382.577
             ]
         },
         {
@@ -11534,34 +6485,6 @@
             ]
         },
         {
-            "name": "Simpla",
-            "coords": [
-                401.885,
-                432.502
-            ]
-        },
-        {
-            "name": "Toprawa",
-            "coords": [
-                409.209,
-                443.249
-            ]
-        },
-        {
-            "name": "Pho Ph'eah",
-            "coords": [
-                430.753,
-                475.322
-            ]
-        },
-        {
-            "name": "Tandun",
-            "coords": [
-                432.857,
-                453.068
-            ]
-        },
-        {
             "name": "Thesme",
             "coords": [
                 366.06,
@@ -11792,31 +6715,10 @@
             ]
         },
         {
-            "name": "Eol Sha",
-            "coords": [
-                411.08,
-                607.359
-            ]
-        },
-        {
             "name": "Ventooine",
             "coords": [
                 475.192,
                 621.642
-            ]
-        },
-        {
-            "name": "Ventooine",
-            "coords": [
-                475.192,
-                621.642
-            ]
-        },
-        {
-            "name": "Betha",
-            "coords": [
-                424.894,
-                576.939
             ]
         },
         {
@@ -11824,13 +6726,6 @@
             "coords": [
                 406.845,
                 676.257
-            ]
-        },
-        {
-            "name": "Oricon",
-            "coords": [
-                446.339,
-                634.704
             ]
         },
         {
@@ -11907,34 +6802,6 @@
             "coords": [
                 62.096,
                 809.383
-            ]
-        },
-        {
-            "name": "Helska",
-            "coords": [
-                50.236,
-                731.167
-            ]
-        },
-        {
-            "name": "Sernpidal",
-            "coords": [
-                70.355,
-                693.099
-            ]
-        },
-        {
-            "name": "Seline",
-            "coords": [
-                115.042,
-                674.833
-            ]
-        },
-        {
-            "name": "Birgis",
-            "coords": [
-                182.538,
-                649.997
             ]
         }
     ],
@@ -12029,41 +6896,6 @@
             "coords": [
                 -113.612,
                 514.828
-            ]
-        },
-        {
-            "name": "Ryloon",
-            "coords": [
-                -132.095,
-                492.244
-            ]
-        },
-        {
-            "name": "Endex",
-            "coords": [
-                -111.633,
-                498.418
-            ]
-        },
-        {
-            "name": "Churruma",
-            "coords": [
-                -122.12,
-                489.113
-            ]
-        },
-        {
-            "name": "Entralla",
-            "coords": [
-                -92.007,
-                520.908
-            ]
-        },
-        {
-            "name": "Capza",
-            "coords": [
-                -93.289,
-                514.028
             ]
         },
         {
@@ -12332,34 +7164,6 @@
             ]
         },
         {
-            "name": "Bescane",
-            "coords": [
-                -88.161,
-                608.76
-            ]
-        },
-        {
-            "name": "Varvrona",
-            "coords": [
-                -98.783,
-                600.021
-            ]
-        },
-        {
-            "name": "Muunilinst",
-            "coords": [
-                -80.501,
-                550.31
-            ]
-        },
-        {
-            "name": "Jaemus",
-            "coords": [
-                -86.043,
-                587.795
-            ]
-        },
-        {
             "name": "Rimcee Station",
             "coords": [
                 -116.863,
@@ -12469,13 +7273,6 @@
             ]
         },
         {
-            "name": "Troska",
-            "coords": [
-                -147.704,
-                372.277
-            ]
-        },
-        {
             "name": "Uba",
             "coords": [
                 -108.783,
@@ -12531,20 +7328,6 @@
             "coords": [
                 -54.24,
                 389.219
-            ]
-        },
-        {
-            "name": "JanFathal",
-            "coords": [
-                -54.24,
-                389.219
-            ]
-        },
-        {
-            "name": "Ord Cantrell",
-            "coords": [
-                -15.211,
-                374.818
             ]
         },
         {
@@ -12606,31 +7389,10 @@
             ]
         },
         {
-            "name": "Gravlex Med",
-            "coords": [
-                68.077,
-                561.19
-            ]
-        },
-        {
             "name": "Anx Minor",
             "coords": [
                 28.69,
                 541.204
-            ]
-        },
-        {
-            "name": "Anx Minor",
-            "coords": [
-                28.69,
-                541.204
-            ]
-        },
-        {
-            "name": "Sinsang",
-            "coords": [
-                19.091,
-                546.985
             ]
         },
         {
@@ -12648,20 +7410,6 @@
             ]
         },
         {
-            "name": "Kesmere",
-            "coords": [
-                28.44,
-                557.921
-            ]
-        },
-        {
-            "name": "Kesmere Minor",
-            "coords": [
-                24.559,
-                572.033
-            ]
-        },
-        {
             "name": "Kesmere Minor",
             "coords": [
                 24.559,
@@ -12673,20 +7421,6 @@
             "coords": [
                 20.679,
                 587.026
-            ]
-        },
-        {
-            "name": "Tertiary Kesmere",
-            "coords": [
-                20.679,
-                587.026
-            ]
-        },
-        {
-            "name": "Shusugaunt",
-            "coords": [
-                43.786,
-                582.792
             ]
         },
         {
@@ -12709,13 +7443,6 @@
                 19.345,
                 596.411
             ]
-        },
-        {
-            "name": "Lah'mu",
-            "coords": [
-                19.345,
-                596.411
-            ]
         }
     ],
     "N-4": [
@@ -12724,13 +7451,6 @@
             "coords": [
                 293.474,
                 582.581
-            ]
-        },
-        {
-            "name": "Maltha Obex",
-            "coords": [
-                352.065,
-                612.442
             ]
         },
         {
@@ -13015,31 +7735,10 @@
             ]
         },
         {
-            "name": "Doniphon",
-            "coords": [
-                515.411,
-                579.728
-            ]
-        },
-        {
             "name": "Tantive",
             "coords": [
                 522.4,
                 585.446
-            ]
-        },
-        {
-            "name": "Tantive",
-            "coords": [
-                522.4,
-                585.446
-            ]
-        },
-        {
-            "name": "Listehol",
-            "coords": [
-                535.265,
-                591.323
             ]
         },
         {
@@ -13085,24 +7784,10 @@
             ]
         },
         {
-            "name": "Jelucan",
-            "coords": [
-                515.985,
-                558.55
-            ]
-        },
-        {
             "name": "Peragus II",
             "coords": [
                 581.16,
                 593.31
-            ]
-        },
-        {
-            "name": "Seelos",
-            "coords": [
-                509.133,
-                545.761
             ]
         },
         {
@@ -13119,34 +7804,6 @@
             "coords": [
                 350.971,
                 506.818
-            ]
-        },
-        {
-            "name": "Edusa",
-            "coords": [
-                363.042,
-                483.152
-            ]
-        },
-        {
-            "name": "Camden",
-            "coords": [
-                358.436,
-                465.839
-            ]
-        },
-        {
-            "name": "Vandyne",
-            "coords": [
-                353.354,
-                444.874
-            ]
-        },
-        {
-            "name": "Altyr V",
-            "coords": [
-                346.673,
-                487.02
             ]
         }
     ],
@@ -13191,20 +7848,6 @@
             "coords": [
                 285.056,
                 439.617
-            ]
-        },
-        {
-            "name": "Abafar",
-            "coords": [
-                285.056,
-                439.617
-            ]
-        },
-        {
-            "name": "Keeper's World",
-            "coords": [
-                318.98,
-                483.316
             ]
         }
     ],
@@ -13473,20 +8116,6 @@
             ]
         },
         {
-            "name": "Galidraan",
-            "coords": [
-                682.598,
-                359.105
-            ]
-        },
-        {
-            "name": "Draukyze",
-            "coords": [
-                669.083,
-                351.394
-            ]
-        },
-        {
             "name": "Draukyze",
             "coords": [
                 669.083,
@@ -13501,31 +8130,10 @@
             ]
         },
         {
-            "name": "Mossak",
-            "coords": [
-                679.375,
-                369.918
-            ]
-        },
-        {
             "name": "Arcan",
             "coords": [
                 699.695,
                 364.979
-            ]
-        },
-        {
-            "name": "Arcan",
-            "coords": [
-                699.695,
-                364.979
-            ]
-        },
-        {
-            "name": "Thanium",
-            "coords": [
-                692.216,
-                386.852
             ]
         },
         {
@@ -13857,24 +8465,10 @@
             ]
         },
         {
-            "name": "Gandolo",
-            "coords": [
-                149.079,
-                469.419
-            ]
-        },
-        {
             "name": "Akuria",
             "coords": [
                 134.447,
                 488.259
-            ]
-        },
-        {
-            "name": "Chrellis",
-            "coords": [
-                181.22,
-                425.989
             ]
         },
         {
@@ -13891,13 +8485,6 @@
             "coords": [
                 55.664,
                 366.912
-            ]
-        },
-        {
-            "name": "Cademimu",
-            "coords": [
-                133.315,
-                371.712
             ]
         },
         {
@@ -13926,20 +8513,6 @@
             "coords": [
                 62.809,
                 386.906
-            ]
-        },
-        {
-            "name": "Lenico IV",
-            "coords": [
-                62.809,
-                386.906
-            ]
-        },
-        {
-            "name": "Ajan Kloss",
-            "coords": [
-                56.074,
-                401.682
             ]
         }
     ],
@@ -14175,83 +8748,6 @@
             ]
         },
         {
-            "name": "Altratonne",
-            "coords": [
-                771.6,
-                263.552
-            ]
-        },
-        {
-            "name": "New Alderaan",
-            "coords": [
-                868.824,
-                306.305
-            ]
-        },
-        {
-            "name": "Cophrigin",
-            "coords": [
-                832.29,
-                269.833
-            ]
-        },
-        {
-            "name": "Iego",
-            "coords": [
-                827.649,
-                249.558
-            ]
-        },
-        {
-            "name": "OHS1782-03",
-            "coords": [
-                815.521,
-                229.421
-            ]
-        },
-        {
-            "name": "Agon",
-            "coords": [
-                814.498,
-                245.948
-            ]
-        },
-        {
-            "name": "OHS3842-03",
-            "coords": [
-                807.054,
-                269.373
-            ]
-        },
-        {
-            "name": "OHS4140-02",
-            "coords": [
-                816.015,
-                285.071
-            ]
-        },
-        {
-            "name": "OHS2132-04",
-            "coords": [
-                874.664,
-                299.694
-            ]
-        },
-        {
-            "name": "Chiron",
-            "coords": [
-                894.409,
-                262.814
-            ]
-        },
-        {
-            "name": "Nyny",
-            "coords": [
-                838.241,
-                276.422
-            ]
-        },
-        {
             "name": "Taskeed",
             "coords": [
                 758.752,
@@ -14372,27 +8868,6 @@
             "coords": [
                 872.685,
                 177.441
-            ]
-        },
-        {
-            "name": "Skeebo",
-            "coords": [
-                924.148,
-                176.384
-            ]
-        },
-        {
-            "name": "Maldra",
-            "coords": [
-                932.063,
-                190.414
-            ]
-        },
-        {
-            "name": "Baummu",
-            "coords": [
-                922.834,
-                177.814
             ]
         },
         {
@@ -14724,31 +9199,10 @@
             ]
         },
         {
-            "name": "Akrit'tar",
-            "coords": [
-                890.476,
-                67.159
-            ]
-        },
-        {
             "name": "Kubindi",
             "coords": [
                 869.118,
                 27.378
-            ]
-        },
-        {
-            "name": "Kubindi",
-            "coords": [
-                869.118,
-                27.378
-            ]
-        },
-        {
-            "name": "Delacrix",
-            "coords": [
-                853.139,
-                85.765
             ]
         },
         {
@@ -14766,45 +9220,10 @@
             ]
         },
         {
-            "name": "Gestrex",
-            "coords": [
-                862.563,
-                52.26
-            ]
-        },
-        {
             "name": "Norval",
             "coords": [
                 863.086,
                 44.055
-            ]
-        },
-        {
-            "name": "Norval",
-            "coords": [
-                863.086,
-                44.055
-            ]
-        },
-        {
-            "name": "Lowick",
-            "coords": [
-                907.52,
-                21.964
-            ]
-        },
-        {
-            "name": "Fwillsving",
-            "coords": [
-                848.966,
-                -1.514
-            ]
-        },
-        {
-            "name": "Dweem",
-            "coords": [
-                869.579,
-                10.169
             ]
         },
         {
@@ -14830,20 +9249,6 @@
             "coords": [
                 894.145,
                 -139.779
-            ]
-        },
-        {
-            "name": "Bheriz",
-            "coords": [
-                915.23,
-                -49.647
-            ]
-        },
-        {
-            "name": "Aduba",
-            "coords": [
-                933.907,
-                -114.941
             ]
         },
         {
@@ -14944,27 +9349,6 @@
             ]
         },
         {
-            "name": "Clantaano",
-            "coords": [
-                911.992,
-                -272.051
-            ]
-        },
-        {
-            "name": "Barab",
-            "coords": [
-                904.776,
-                -295.852
-            ]
-        },
-        {
-            "name": "Daluuj",
-            "coords": [
-                932.786,
-                -314.26
-            ]
-        },
-        {
             "name": "Arami",
             "coords": [
                 836.67,
@@ -15018,20 +9402,6 @@
             ]
         },
         {
-            "name": "Shiffrin",
-            "coords": [
-                843.091,
-                -509.582
-            ]
-        },
-        {
-            "name": "Shola",
-            "coords": [
-                919.13,
-                -421.025
-            ]
-        },
-        {
             "name": "Gamorr",
             "coords": [
                 845.478,
@@ -15061,20 +9431,6 @@
             "coords": [
                 790.95,
                 -513.617
-            ]
-        },
-        {
-            "name": "R-Duba",
-            "coords": [
-                849.919,
-                -520.755
-            ]
-        },
-        {
-            "name": "Rothana",
-            "coords": [
-                858.299,
-                -555.826
             ]
         },
         {
@@ -15310,13 +9666,6 @@
             ]
         },
         {
-            "name": "Mandalore",
-            "coords": [
-                363.452,
-                272.211
-            ]
-        },
-        {
             "name": "Thustra",
             "coords": [
                 303.177,
@@ -15352,13 +9701,6 @@
             ]
         },
         {
-            "name": "Concord Dawn",
-            "coords": [
-                349.792,
-                249.014
-            ]
-        },
-        {
             "name": "Kiva",
             "coords": [
                 390.824,
@@ -15373,31 +9715,10 @@
             ]
         },
         {
-            "name": "Kalevala",
-            "coords": [
-                351.082,
-                284.794
-            ]
-        },
-        {
             "name": "Ordo",
             "coords": [
                 356.867,
                 267.676
-            ]
-        },
-        {
-            "name": "Ordo",
-            "coords": [
-                356.867,
-                267.676
-            ]
-        },
-        {
-            "name": "Zanbar",
-            "coords": [
-                373.4,
-                287.645
             ]
         },
         {
@@ -15412,13 +9733,6 @@
             "coords": [
                 356.622,
                 224.747
-            ]
-        },
-        {
-            "name": "Krownest",
-            "coords": [
-                328.188,
-                264.487
             ]
         },
         {
@@ -15445,31 +9759,10 @@
             ]
         },
         {
-            "name": "Honoghr",
-            "coords": [
-                847.744,
-                -29.564
-            ]
-        },
-        {
             "name": "Formos",
             "coords": [
                 893.654,
                 -25.297
-            ]
-        },
-        {
-            "name": "Formos",
-            "coords": [
-                893.654,
-                -25.297
-            ]
-        },
-        {
-            "name": "Zerm",
-            "coords": [
-                826.724,
-                -20.32
             ]
         },
         {
@@ -15487,20 +9780,6 @@
             ]
         },
         {
-            "name": "Rnda",
-            "coords": [
-                814.709,
-                -14.94
-            ]
-        },
-        {
-            "name": "Aeneid",
-            "coords": [
-                845.642,
-                -19.703
-            ]
-        },
-        {
             "name": "Aeneid",
             "coords": [
                 845.642,
@@ -15515,31 +9794,10 @@
             ]
         },
         {
-            "name": "Little Kessel",
-            "coords": [
-                863.457,
-                -21.07
-            ]
-        },
-        {
             "name": "Prishella",
             "coords": [
                 881.603,
                 -24.124
-            ]
-        },
-        {
-            "name": "Prishella",
-            "coords": [
-                881.603,
-                -24.124
-            ]
-        },
-        {
-            "name": "Drualkiin",
-            "coords": [
-                892.848,
-                -2.391
             ]
         },
         {
@@ -15578,31 +9836,10 @@
             ]
         },
         {
-            "name": "The Maw",
-            "coords": [
-                829.763,
-                -9.561
-            ]
-        },
-        {
-            "name": "Eadu",
-            "coords": [
-                903.274,
-                -37.139
-            ]
-        },
-        {
             "name": "Fwillsving",
             "coords": [
                 848.966,
                 -1.514
-            ]
-        },
-        {
-            "name": "Oba Diah",
-            "coords": [
-                884.828,
-                -14.437
             ]
         },
         {
@@ -15622,55 +9859,6 @@
             ]
         },
         {
-            "name": "Pakuuni",
-            "coords": [
-                851.873,
-                386.329
-            ]
-        },
-        {
-            "name": "Munto Codru",
-            "coords": [
-                895.225,
-                364.89
-            ]
-        },
-        {
-            "name": "Reginard",
-            "coords": [
-                897.06,
-                357.502
-            ]
-        },
-        {
-            "name": "Refnar",
-            "coords": [
-                857.99,
-                363.5
-            ]
-        },
-        {
-            "name": "Turkana",
-            "coords": [
-                875.717,
-                375.847
-            ]
-        },
-        {
-            "name": "Shaylin",
-            "coords": [
-                868.308,
-                378.846
-            ]
-        },
-        {
-            "name": "Gbu",
-            "coords": [
-                839.345,
-                374.236
-            ]
-        },
-        {
             "name": "Cholganna",
             "coords": [
                 800.678,
@@ -15682,13 +9870,6 @@
             "coords": [
                 866.209,
                 435.768
-            ]
-        },
-        {
-            "name": "Telaris",
-            "coords": [
-                849.259,
-                354.859
             ]
         }
     ],
@@ -15782,13 +9963,6 @@
             ]
         },
         {
-            "name": "Gholondreine",
-            "coords": [
-                -37.377,
-                -584.912
-            ]
-        },
-        {
             "name": "Llon Nebulae",
             "coords": [
                 -10.375,
@@ -15802,13 +9976,6 @@
             "coords": [
                 -82.803,
                 -623.032
-            ]
-        },
-        {
-            "name": "Natalon",
-            "coords": [
-                -96.939,
-                -627.638
             ]
         },
         {
@@ -15893,20 +10060,6 @@
             "coords": [
                 -17.079,
                 -613.832
-            ]
-        },
-        {
-            "name": "Noe'ha'on",
-            "coords": [
-                -75.985,
-                -623.321
-            ]
-        },
-        {
-            "name": "Noe'ha'on",
-            "coords": [
-                -75.985,
-                -623.321
             ]
         }
     ],
@@ -16046,13 +10199,6 @@
             "coords": [
                 129.715,
                 -615.408
-            ]
-        },
-        {
-            "name": "Daemen",
-            "coords": [
-                134.004,
-                -635.421
             ]
         },
         {
@@ -16216,20 +10362,6 @@
             ]
         },
         {
-            "name": "Baroli",
-            "coords": [
-                233.433,
-                -478.653
-            ]
-        },
-        {
-            "name": "Gacerian",
-            "coords": [
-                232.639,
-                -512.802
-            ]
-        },
-        {
             "name": "Pamorjal",
             "coords": [
                 281.629,
@@ -16374,20 +10506,6 @@
             ]
         },
         {
-            "name": "Sika",
-            "coords": [
-                346.574,
-                -512.961
-            ]
-        },
-        {
-            "name": "Coonee",
-            "coords": [
-                345.304,
-                -519.95
-            ]
-        },
-        {
             "name": "Coonee",
             "coords": [
                 345.304,
@@ -16402,31 +10520,10 @@
             ]
         },
         {
-            "name": "Krann",
-            "coords": [
-                338.58,
-                -542.822
-            ]
-        },
-        {
             "name": "Momansi",
             "coords": [
                 333.656,
                 -550.446
-            ]
-        },
-        {
-            "name": "Momansi",
-            "coords": [
-                333.656,
-                -550.446
-            ]
-        },
-        {
-            "name": "Brevost",
-            "coords": [
-                318.408,
-                -566.647
             ]
         },
         {
@@ -16464,13 +10561,6 @@
             "coords": [
                 320.173,
                 -456.629
-            ]
-        },
-        {
-            "name": "Selsor",
-            "coords": [
-                334.503,
-                -494.325
             ]
         },
         {
@@ -16834,20 +10924,6 @@
             ]
         },
         {
-            "name": "Tlactehon",
-            "coords": [
-                305.348,
-                -395.425
-            ]
-        },
-        {
-            "name": "Tarmidia",
-            "coords": [
-                325.891,
-                -395.849
-            ]
-        },
-        {
             "name": "Tarmidia",
             "coords": [
                 325.891,
@@ -16940,13 +11016,6 @@
             "coords": [
                 303.789,
                 -277.245
-            ]
-        },
-        {
-            "name": "Terrijo",
-            "coords": [
-                323.023,
-                -292.657
             ]
         },
         {
@@ -17238,13 +11307,6 @@
             ]
         },
         {
-            "name": "Zirulast",
-            "coords": [
-                408.41,
-                -110.229
-            ]
-        },
-        {
             "name": "Trammen",
             "coords": [
                 365.437,
@@ -17491,20 +11553,6 @@
             ]
         },
         {
-            "name": "Alpheridies",
-            "coords": [
-                361.126,
-                183.357
-            ]
-        },
-        {
-            "name": "Thisspias",
-            "coords": [
-                351.139,
-                174.11
-            ]
-        },
-        {
             "name": "Thisspias",
             "coords": [
                 351.139,
@@ -17610,19 +11658,441 @@
             ]
         }
     ],
+    "O-9": [
+        {
+            "name": "Donovia",
+            "coords": [
+                394.169,
+                99.27
+            ]
+        },
+        {
+            "name": "Illoud",
+            "coords": [
+                393.429,
+                92.859
+            ]
+        },
+        {
+            "name": "Hapes",
+            "coords": [
+                350.642,
+                53.377
+            ]
+        },
+        {
+            "name": "Onderon & Dxun",
+            "coords": [
+                370.615,
+                17.405
+            ]
+        },
+        {
+            "name": "Telkur Station",
+            "coords": [
+                336.289,
+                41.925
+            ]
+        },
+        {
+            "name": "Chosper",
+            "coords": [
+                339.499,
+                41.113
+            ]
+        },
+        {
+            "name": "Andalia",
+            "coords": [
+                334.631,
+                46.14
+            ]
+        },
+        {
+            "name": "Sennex",
+            "coords": [
+                335.171,
+                48.359
+            ]
+        },
+        {
+            "name": "Daruvvia",
+            "coords": [
+                336.247,
+                50.582
+            ]
+        },
+        {
+            "name": "Ket",
+            "coords": [
+                336.565,
+                52.222
+            ]
+        },
+        {
+            "name": "Lovola",
+            "coords": [
+                337.641,
+                55.503
+            ]
+        },
+        {
+            "name": "Maires",
+            "coords": [
+                337.923,
+                57.267
+            ]
+        },
+        {
+            "name": "Vergill",
+            "coords": [
+                338.487,
+                58.166
+            ]
+        },
+        {
+            "name": "Modus",
+            "coords": [
+                339.951,
+                58.872
+            ]
+        },
+        {
+            "name": "Charubah",
+            "coords": [
+                339.898,
+                57.267
+            ]
+        },
+        {
+            "name": "Cheruba",
+            "coords": [
+                342.809,
+                56.985
+            ]
+        },
+        {
+            "name": "Relephon",
+            "coords": [
+                344.273,
+                55.979
+            ]
+        },
+        {
+            "name": "Wodan",
+            "coords": [
+                343.55,
+                55.115
+            ]
+        },
+        {
+            "name": "Divora",
+            "coords": [
+                341.609,
+                53.704
+            ]
+        },
+        {
+            "name": "Algnadesh",
+            "coords": [
+                343.338,
+                54.286
+            ]
+        },
+        {
+            "name": "Sargon",
+            "coords": [
+                342.862,
+                60.565
+            ]
+        },
+        {
+            "name": "Febrini",
+            "coords": [
+                347.695,
+                59.93
+            ]
+        },
+        {
+            "name": "Zadaria",
+            "coords": [
+                348.453,
+                58.854
+            ]
+        },
+        {
+            "name": "Phelope",
+            "coords": [
+                348.418,
+                57.919
+            ]
+        },
+        {
+            "name": "Jodaka",
+            "coords": [
+                341.383,
+                49.158
+            ]
+        },
+        {
+            "name": "Stalsinek",
+            "coords": [
+                341.736,
+                46.971
+            ]
+        },
+        {
+            "name": "Nantuker",
+            "coords": [
+                344.092,
+                44.87
+            ]
+        },
+        {
+            "name": "k'Farri",
+            "coords": [
+                347.496,
+                42.348
+            ]
+        },
+        {
+            "name": "Calfa",
+            "coords": [
+                356.104,
+                47.04
+            ]
+        },
+        {
+            "name": "Dreena",
+            "coords": [
+                358.468,
+                49.333
+            ]
+        },
+        {
+            "name": "Reboam",
+            "coords": [
+                360.144,
+                53.672
+            ]
+        },
+        {
+            "name": "Shedu Maad",
+            "coords": [
+                358.38,
+                59.51
+            ]
+        },
+        {
+            "name": "Terephon",
+            "coords": [
+                355.857,
+                60.78
+            ]
+        },
+        {
+            "name": "Zalori",
+            "coords": [
+                355.628,
+                61.451
+            ]
+        },
+        {
+            "name": "Orelon",
+            "coords": [
+                351.351,
+                64.62
+            ]
+        },
+        {
+            "name": "Rynmar",
+            "coords": [
+                353.594,
+                62.461
+            ]
+        },
+        {
+            "name": "Rainboh",
+            "coords": [
+                356.007,
+                63.534
+            ]
+        },
+        {
+            "name": "Roqoo Depot",
+            "coords": [
+                362.227,
+                62.382
+            ]
+        },
+        {
+            "name": "Talcharaim",
+            "coords": [
+                345.801,
+                51.708
+            ]
+        },
+        {
+            "name": "Sivoria",
+            "coords": [
+                345.575,
+                52.695
+            ]
+        },
+        {
+            "name": "Farnica",
+            "coords": [
+                345.604,
+                53.627
+            ]
+        },
+        {
+            "name": "Novi",
+            "coords": [
+                345.745,
+                54.488
+            ]
+        },
+        {
+            "name": "Gallinore",
+            "coords": [
+                346.14,
+                55.334
+            ]
+        },
+        {
+            "name": "Baldavia",
+            "coords": [
+                346.902,
+                54.812
+            ]
+        },
+        {
+            "name": "Theselon",
+            "coords": [
+                347.763,
+                54.586
+            ]
+        },
+        {
+            "name": "Millinar",
+            "coords": [
+                347.636,
+                53.57
+            ]
+        },
+        {
+            "name": "Lalmy'ash",
+            "coords": [
+                347.805,
+                52.667
+            ]
+        },
+        {
+            "name": "Archais",
+            "coords": [
+                348.242,
+                51.976
+            ]
+        },
+        {
+            "name": "Selab",
+            "coords": [
+                349.343,
+                51.609
+            ]
+        },
+        {
+            "name": "Jovaria",
+            "coords": [
+                350.811,
+                51.355
+            ]
+        },
+        {
+            "name": "Thrakia",
+            "coords": [
+                351.714,
+                50.762
+            ]
+        },
+        {
+            "name": "Lemmi",
+            "coords": [
+                351.742,
+                51.778
+            ]
+        },
+        {
+            "name": "Harterra",
+            "coords": [
+                349.893,
+                52.06
+            ]
+        },
+        {
+            "name": "Ut",
+            "coords": [
+                350.387,
+                52.625
+            ]
+        },
+        {
+            "name": "Arabanth",
+            "coords": [
+                350.317,
+                54.219
+            ]
+        },
+        {
+            "name": "Carlania",
+            "coords": [
+                350.049,
+                55.236
+            ]
+        },
+        {
+            "name": "Ediorung",
+            "coords": [
+                349.442,
+                56.195
+            ]
+        },
+        {
+            "name": "Tumani",
+            "coords": [
+                350.698,
+                56.11
+            ]
+        },
+        {
+            "name": "Tinta",
+            "coords": [
+                351.657,
+                55.687
+            ]
+        },
+        {
+            "name": "Rbollea",
+            "coords": [
+                352.165,
+                55.264
+            ]
+        },
+        {
+            "name": "Porus Vida",
+            "coords": [
+                385.484,
+                37.137
+            ]
+        }
+    ],
     "P-13": [
         {
             "name": "Sepan",
             "coords": [
                 426.098,
                 -311.891
-            ]
-        },
-        {
-            "name": "Wann Tsir",
-            "coords": [
-                427.331,
-                -325.083
             ]
         },
         {
@@ -17729,804 +12199,6 @@
             "coords": [
                 -209.389,
                 65.597
-            ]
-        },
-        {
-            "name": "Reecee",
-            "coords": [
-                -133.549,
-                104.613
-            ]
-        },
-        {
-            "name": "Rondai",
-            "coords": [
-                -127.631,
-                172.782
-            ]
-        },
-        {
-            "name": "Bengat",
-            "coords": [
-                -110.534,
-                157.219
-            ]
-        },
-        {
-            "name": "Bilbringi",
-            "coords": [
-                -121.384,
-                161.274
-            ]
-        },
-        {
-            "name": "Mindabaal",
-            "coords": [
-                -160.018,
-                -374.028
-            ]
-        },
-        {
-            "name": "K'taktaxka",
-            "coords": [
-                -196.267,
-                -467.239
-            ]
-        },
-        {
-            "name": "Shasfath",
-            "coords": [
-                -185.786,
-                -457.006
-            ]
-        },
-        {
-            "name": "Jandur",
-            "coords": [
-                -128.085,
-                -434.813
-            ]
-        },
-        {
-            "name": "Korbin",
-            "coords": [
-                -108.727,
-                -408.181
-            ]
-        },
-        {
-            "name": "Tasariq",
-            "coords": [
-                -160.881,
-                -417.305
-            ]
-        },
-        {
-            "name": "Neshtab",
-            "coords": [
-                -91.848,
-                152.452
-            ]
-        },
-        {
-            "name": "Aphran",
-            "coords": [
-                -97.93,
-                147.191
-            ]
-        },
-        {
-            "name": "Meastrinnar",
-            "coords": [
-                -94.314,
-                142.095
-            ]
-        },
-        {
-            "name": "Voltare",
-            "coords": [
-                -93.82,
-                135.683
-            ]
-        },
-        {
-            "name": "Carratos",
-            "coords": [
-                -90.039,
-                124.998
-            ]
-        },
-        {
-            "name": "Dulin",
-            "coords": [
-                -42.025,
-                -487.09
-            ]
-        },
-        {
-            "name": "Pa Tho",
-            "coords": [
-                -55.957,
-                -475.377
-            ]
-        },
-        {
-            "name": "Trevura",
-            "coords": [
-                -68.287,
-                -471.431
-            ]
-        },
-        {
-            "name": "Yn",
-            "coords": [
-                -38.942,
-                -421.127
-            ]
-        },
-        {
-            "name": "Fennesa",
-            "coords": [
-                -42.518,
-                -412.25
-            ]
-        },
-        {
-            "name": "Ord Lithone",
-            "coords": [
-                9.29,
-                162.778
-            ]
-        },
-        {
-            "name": "Datar",
-            "coords": [
-                55.895,
-                162.569
-            ]
-        },
-        {
-            "name": "Milvayne",
-            "coords": [
-                50.047,
-                153.369
-            ]
-        },
-        {
-            "name": "Paqualis III",
-            "coords": [
-                96.032,
-                165.802
-            ]
-        },
-        {
-            "name": "Per Lupelo",
-            "coords": [
-                87.648,
-                154.336
-            ]
-        },
-        {
-            "name": "Drearia",
-            "coords": [
-                79.387,
-                142.499
-            ]
-        },
-        {
-            "name": "Champala",
-            "coords": [
-                71.373,
-                129.307
-            ]
-        },
-        {
-            "name": "Tomo-Reth",
-            "coords": [
-                85.092,
-                -405.807
-            ]
-        },
-        {
-            "name": "Norah",
-            "coords": [
-                74.92,
-                -421.712
-            ]
-        },
-        {
-            "name": "Mechis III",
-            "coords": [
-                92.767,
-                -466.284
-            ]
-        },
-        {
-            "name": "Renillis",
-            "coords": [
-                89.438,
-                -479.599
-            ]
-        },
-        {
-            "name": "Sukkult",
-            "coords": [
-                90.548,
-                -497.631
-            ]
-        },
-        {
-            "name": "Laertos",
-            "coords": [
-                51.803,
-                -476.455
-            ]
-        },
-        {
-            "name": "Vanik",
-            "coords": [
-                38.949,
-                -411.263
-            ]
-        },
-        {
-            "name": "Janara",
-            "coords": [
-                5.32,
-                -458.485
-            ]
-        },
-        {
-            "name": "Pitrolea",
-            "coords": [
-                6.184,
-                -471.431
-            ]
-        },
-        {
-            "name": "Ketal",
-            "coords": [
-                7.54,
-                -482.651
-            ]
-        },
-        {
-            "name": "Wroona",
-            "coords": [
-                97.298,
-                -517.513
-            ]
-        },
-        {
-            "name": "Moorja",
-            "coords": [
-                75.753,
-                -515.478
-            ]
-        },
-        {
-            "name": "Calus",
-            "coords": [
-                68.17,
-                -525.835
-            ]
-        },
-        {
-            "name": "Ukatis",
-            "coords": [
-                32.014,
-                -515.571
-            ]
-        },
-        {
-            "name": "Shalam",
-            "coords": [
-                187.023,
-                205.01
-            ]
-        },
-        {
-            "name": "Bogden",
-            "coords": [
-                105.91,
-                177.988
-            ]
-        },
-        {
-            "name": "Omonoth",
-            "coords": [
-                126.979,
-                106.621
-            ]
-        },
-        {
-            "name": "Mindor",
-            "coords": [
-                134.253,
-                147.061
-            ]
-        },
-        {
-            "name": "Tala",
-            "coords": [
-                209.474,
-                60.043
-            ]
-        },
-        {
-            "name": "Ejolus",
-            "coords": [
-                153.364,
-                188.365
-            ]
-        },
-        {
-            "name": "Dagary Minor",
-            "coords": [
-                193.928,
-                182.94
-            ]
-        },
-        {
-            "name": "Sochi",
-            "coords": [
-                193.292,
-                64.667
-            ]
-        },
-        {
-            "name": "Hillindor",
-            "coords": [
-                164.381,
-                -364.185
-            ]
-        },
-        {
-            "name": "Atzerri",
-            "coords": [
-                189.4,
-                -394.434
-            ]
-        },
-        {
-            "name": "Las Lagon",
-            "coords": [
-                144.551,
-                -391.474
-            ]
-        },
-        {
-            "name": "Affa",
-            "coords": [
-                153.058,
-                -391.937
-            ]
-        },
-        {
-            "name": "Kooriva",
-            "coords": [
-                158.514,
-                -424.394
-            ]
-        },
-        {
-            "name": "Heptalia",
-            "coords": [
-                180.707,
-                -452.598
-            ]
-        },
-        {
-            "name": "Borao",
-            "coords": [
-                174.512,
-                -460.088
-            ]
-        },
-        {
-            "name": "Vaklin",
-            "coords": [
-                190.232,
-                -472.387
-            ]
-        },
-        {
-            "name": "Roundtree",
-            "coords": [
-                136.136,
-                -466.653
-            ]
-        },
-        {
-            "name": "Arkam",
-            "coords": [
-                140.112,
-                -472.479
-            ]
-        },
-        {
-            "name": "Xeron",
-            "coords": [
-                133.824,
-                -479.784
-            ]
-        },
-        {
-            "name": "Beltrix III",
-            "coords": [
-                115.145,
-                -436.415
-            ]
-        },
-        {
-            "name": "Bestine",
-            "coords": [
-                105.991,
-                -410.801
-            ]
-        },
-        {
-            "name": "Myrkr",
-            "coords": [
-                270.755,
-                234.947
-            ]
-        },
-        {
-            "name": "Phateem",
-            "coords": [
-                210.203,
-                184.543
-            ]
-        },
-        {
-            "name": "Levian",
-            "coords": [
-                258.443,
-                192.77
-            ]
-        },
-        {
-            "name": "Carest",
-            "coords": [
-                293.582,
-                188.146
-            ]
-        },
-        {
-            "name": "Obroa-skai",
-            "coords": [
-                291.64,
-                175.016
-            ]
-        },
-        {
-            "name": "Asrat",
-            "coords": [
-                271.944,
-                156.706
-            ]
-        },
-        {
-            "name": "Relatta",
-            "coords": [
-                224.27,
-                113.214
-            ]
-        },
-        {
-            "name": "Colla IV",
-            "coords": [
-                242.394,
-                93.055
-            ]
-        },
-        {
-            "name": "Berri",
-            "coords": [
-                224.362,
-                66.331
-            ]
-        },
-        {
-            "name": "Kloper",
-            "coords": [
-                207.031,
-                37.029
-            ]
-        },
-        {
-            "name": "Vorsia",
-            "coords": [
-                234.868,
-                21.844
-            ]
-        },
-        {
-            "name": "Gelviddis Cluster",
-            "coords": [
-                258.818,
-                26.745
-            ]
-        },
-        {
-            "name": "Manress",
-            "coords": [
-                291.738,
-                26.375
-            ]
-        },
-        {
-            "name": "H'ratth",
-            "coords": [
-                247.324,
-                -13.901
-            ]
-        },
-        {
-            "name": "Pavo Prime",
-            "coords": [
-                265.356,
-                -15.381
-            ]
-        },
-        {
-            "name": "Telti",
-            "coords": [
-                286.902,
-                -6.966
-            ]
-        },
-        {
-            "name": "Dartessex IV",
-            "coords": [
-                258.328,
-                -45.526
-            ]
-        },
-        {
-            "name": "Mokk IX",
-            "coords": [
-                285.7,
-                -52.092
-            ]
-        },
-        {
-            "name": "Fadden",
-            "coords": [
-                296.889,
-                -131.617
-            ]
-        },
-        {
-            "name": "Antar",
-            "coords": [
-                282.833,
-                -210.402
-            ]
-        },
-        {
-            "name": "Ailon",
-            "coords": [
-                258.791,
-                -243.507
-            ]
-        },
-        {
-            "name": "Atapap I",
-            "coords": [
-                255.554,
-                -249.333
-            ]
-        },
-        {
-            "name": "Gendrah-Narvin",
-            "coords": [
-                244.088,
-                -303.891
-            ]
-        },
-        {
-            "name": "Denon",
-            "coords": [
-                227.905,
-                -316.559
-            ]
-        },
-        {
-            "name": "Perithal VI",
-            "coords": [
-                243.533,
-                -330.152
-            ]
-        },
-        {
-            "name": "Sagar",
-            "coords": [
-                230.124,
-                -335.608
-            ]
-        },
-        {
-            "name": "Spirana",
-            "coords": [
-                257.126,
-                -343.561
-            ]
-        },
-        {
-            "name": "Ronyards",
-            "coords": [
-                230.864,
-                -350.681
-            ]
-        },
-        {
-            "name": "Genon",
-            "coords": [
-                249.451,
-                -359.188
-            ]
-        },
-        {
-            "name": "Chardaan",
-            "coords": [
-                233.868,
-                -399.16
-            ]
-        },
-        {
-            "name": "Babbadod",
-            "coords": [
-                234.063,
-                -406.085
-            ]
-        },
-        {
-            "name": "Itani",
-            "coords": [
-                222.874,
-                -415.239
-            ]
-        },
-        {
-            "name": "Shibric",
-            "coords": [
-                235.173,
-                -437.248
-            ]
-        },
-        {
-            "name": "Dargulli",
-            "coords": [
-                206.044,
-                -441.964
-            ]
-        },
-        {
-            "name": "Paonid",
-            "coords": [
-                321.416,
-                166.138
-            ]
-        },
-        {
-            "name": "Gravan Seven",
-            "coords": [
-                339.54,
-                160.682
-            ]
-        },
-        {
-            "name": "Korda Six",
-            "coords": [
-                327.704,
-                145.98
-            ]
-        },
-        {
-            "name": "Pengalan",
-            "coords": [
-                332.738,
-                133.465
-            ]
-        },
-        {
-            "name": "Dalcretti",
-            "coords": [
-                313.227,
-                117.375
-            ]
-        },
-        {
-            "name": "Taanab",
-            "coords": [
-                353.359,
-                110.162
-            ]
-        },
-        {
-            "name": "Porus Vida",
-            "coords": [
-                385.484,
-                37.137
-            ]
-        },
-        {
-            "name": "Virujansi",
-            "coords": [
-                369.413,
-                -52.503
-            ]
-        },
-        {
-            "name": "Zeltros",
-            "coords": [
-                353.019,
-                -69.569
-            ]
-        },
-        {
-            "name": "Mattri",
-            "coords": [
-                347.933,
-                -90.097
-            ]
-        },
-        {
-            "name": "Rasterous",
-            "coords": [
-                306.691,
-                -90.745
-            ]
-        },
-        {
-            "name": "Manaan",
-            "coords": [
-                317.972,
-                -144.193
-            ]
-        },
-        {
-            "name": "Truuine",
-            "coords": [
-                305.026,
-                -186.175
-            ]
-        },
-        {
-            "name": "Jakku",
-            "coords": [
-                -275.511,
-                -316.755
-            ]
-        },
-        {
-            "name": "Gorse",
-            "coords": [
-                358.316,
-                -80.167
-            ]
-        },
-        {
-            "name": "Eshan",
-            "coords": [
-                237.663,
-                175.856
-            ]
-        },
-        {
-            "name": "Uphrades",
-            "coords": [
-                171.34,
-                175.131
-            ]
-        },
-        {
-            "name": "Quarzite",
-            "coords": [
-                189.691,
-                -370.86
             ]
         }
     ],
@@ -18690,20 +12362,6 @@
             ]
         },
         {
-            "name": "Qiilura",
-            "coords": [
-                1.287,
-                253.773
-            ]
-        },
-        {
-            "name": "Jarnollen",
-            "coords": [
-                3.789,
-                239.478
-            ]
-        },
-        {
             "name": "Jarnollen",
             "coords": [
                 3.789,
@@ -18715,20 +12373,6 @@
             "coords": [
                 17.488,
                 241.86
-            ]
-        },
-        {
-            "name": "Anobis",
-            "coords": [
-                17.488,
-                241.86
-            ]
-        },
-        {
-            "name": "Ord Mantell",
-            "coords": [
-                4.742,
-                254.964
             ]
         },
         {
@@ -18750,20 +12394,6 @@
             "coords": [
                 8.384,
                 228.279
-            ]
-        },
-        {
-            "name": "Balnab",
-            "coords": [
-                8.384,
-                228.279
-            ]
-        },
-        {
-            "name": "Patitite Pattuna",
-            "coords": [
-                23.876,
-                224.665
             ]
         },
         {
@@ -18934,580 +12564,6 @@
             ]
         },
         {
-            "name": "Alee",
-            "coords": [
-                684.377,
-                27.873
-            ]
-        },
-        {
-            "name": "Keldooine",
-            "coords": [
-                656.919,
-                -84.046
-            ]
-        },
-        {
-            "name": "Nar Bo Sholla",
-            "coords": [
-                685.92,
-                -93.735
-            ]
-        },
-        {
-            "name": "Ilos",
-            "coords": [
-                677.863,
-                -26.352
-            ]
-        },
-        {
-            "name": "Ilos Minor",
-            "coords": [
-                691.515,
-                -30.562
-            ]
-        },
-        {
-            "name": "Kleeva",
-            "coords": [
-                687.331,
-                -187.311
-            ]
-        },
-        {
-            "name": "Toydaria",
-            "coords": [
-                671.357,
-                -170.813
-            ]
-        },
-        {
-            "name": "Tol Amn",
-            "coords": [
-                636.659,
-                -160.469
-            ]
-        },
-        {
-            "name": "Runaway Prince",
-            "coords": [
-                647.919,
-                -139.389
-            ]
-        },
-        {
-            "name": "Jilrua",
-            "coords": [
-                651.261,
-                -211.107
-            ]
-        },
-        {
-            "name": "Ganath",
-            "coords": [
-                686.526,
-                -219.661
-            ]
-        },
-        {
-            "name": "Ques",
-            "coords": [
-                775.797,
-                103.063
-            ]
-        },
-        {
-            "name": "Terman",
-            "coords": [
-                771.673,
-                105.898
-            ]
-        },
-        {
-            "name": "Cyborrea",
-            "coords": [
-                735.978,
-                18.605
-            ]
-        },
-        {
-            "name": "Dirha",
-            "coords": [
-                755.201,
-                76.915
-            ]
-        },
-        {
-            "name": "Kafane",
-            "coords": [
-                778.9,
-                49.55
-            ]
-        },
-        {
-            "name": "Klatooine",
-            "coords": [
-                774.4,
-                96.254
-            ]
-        },
-        {
-            "name": "Nimia",
-            "coords": [
-                780.685,
-                98.0
-            ]
-        },
-        {
-            "name": "Vontor",
-            "coords": [
-                775.541,
-                96.157
-            ]
-        },
-        {
-            "name": "Nar Kreeta",
-            "coords": [
-                709.26,
-                -35.558
-            ]
-        },
-        {
-            "name": "Nimban",
-            "coords": [
-                723.207,
-                -33.631
-            ]
-        },
-        {
-            "name": "Sionia",
-            "coords": [
-                731.614,
-                -17.183
-            ]
-        },
-        {
-            "name": "Mulatan",
-            "coords": [
-                759.099,
-                -84.105
-            ]
-        },
-        {
-            "name": "Langoona",
-            "coords": [
-                780.311,
-                -96.773
-            ]
-        },
-        {
-            "name": "Zisia",
-            "coords": [
-                797.703,
-                -46.276
-            ]
-        },
-        {
-            "name": "Ulmatra",
-            "coords": [
-                796.197,
-                -17.688
-            ]
-        },
-        {
-            "name": "Sleheyron",
-            "coords": [
-                769.783,
-                -22.63
-            ]
-        },
-        {
-            "name": "Kor Nasirii",
-            "coords": [
-                741.377,
-                -57.225
-            ]
-        },
-        {
-            "name": "Kor Vosadii",
-            "coords": [
-                738.37,
-                -69.965
-            ]
-        },
-        {
-            "name": "Kor Besadii",
-            "coords": [
-                748.101,
-                -71.115
-            ]
-        },
-        {
-            "name": "Kor Hestilic",
-            "coords": [
-                747.039,
-                -80.758
-            ]
-        },
-        {
-            "name": "Kor Nijiladii",
-            "coords": [
-                755.267,
-                -74.034
-            ]
-        },
-        {
-            "name": "Nar Chunna",
-            "coords": [
-                748.543,
-                -96.416
-            ]
-        },
-        {
-            "name": "Bootana Shagplan",
-            "coords": [
-                787.292,
-                -96.77
-            ]
-        },
-        {
-            "name": "Du Hutta",
-            "coords": [
-                713.125,
-                -171.861
-            ]
-        },
-        {
-            "name": "Hosko",
-            "coords": [
-                743.633,
-                -181.681
-            ]
-        },
-        {
-            "name": "Varl",
-            "coords": [
-                770.065,
-                -155.661
-            ]
-        },
-        {
-            "name": "Sakiya",
-            "coords": [
-                772.553,
-                -128.819
-            ]
-        },
-        {
-            "name": "Gos Hutta",
-            "coords": [
-                758.543,
-                -117.428
-            ]
-        },
-        {
-            "name": "Da Soocha",
-            "coords": [
-                789.312,
-                -142.305
-            ]
-        },
-        {
-            "name": "Irith",
-            "coords": [
-                704.541,
-                -129.903
-            ]
-        },
-        {
-            "name": "Kor Utoradii",
-            "coords": [
-                739.077,
-                -111.456
-            ]
-        },
-        {
-            "name": "Kor Hunamma",
-            "coords": [
-                745.093,
-                -125.611
-            ]
-        },
-        {
-            "name": "Kor Usilic",
-            "coords": [
-                751.463,
-                -112.694
-            ]
-        },
-        {
-            "name": "Pybus",
-            "coords": [
-                749.516,
-                -137.908
-            ]
-        },
-        {
-            "name": "Kor Oktanivii",
-            "coords": [
-                752.524,
-                -125.257
-            ]
-        },
-        {
-            "name": "Kor Desilijic",
-            "coords": [
-                765.529,
-                -109.687
-            ]
-        },
-        {
-            "name": "Huloon",
-            "coords": [
-                770.395,
-                -105.263
-            ]
-        },
-        {
-            "name": "Kor Anjiliac",
-            "coords": [
-                776.676,
-                -101.901
-            ]
-        },
-        {
-            "name": "Groth",
-            "coords": [
-                771.545,
-                -118.091
-            ]
-        },
-        {
-            "name": "Kor Jiramma",
-            "coords": [
-                777.914,
-                -113.048
-            ]
-        },
-        {
-            "name": "Kor Gejalli",
-            "coords": [
-                777.914,
-                -122.957
-            ]
-        },
-        {
-            "name": "Kor Trinivii",
-            "coords": [
-                786.761,
-                -117.029
-            ]
-        },
-        {
-            "name": "Sakidopa",
-            "coords": [
-                779.772,
-                -134.634
-            ]
-        },
-        {
-            "name": "Sakiduba",
-            "coords": [
-                774.199,
-                -138.704
-            ]
-        },
-        {
-            "name": "Nal Hutta & Nar Shaddaa",
-            "coords": [
-                703.988,
-                -205.807
-            ]
-        },
-        {
-            "name": "Circumtore",
-            "coords": [
-                708.697,
-                -244.452
-            ]
-        },
-        {
-            "name": "Carnovia",
-            "coords": [
-                708.523,
-                -291.239
-            ]
-        },
-        {
-            "name": "Affavan",
-            "coords": [
-                734.011,
-                -259.116
-            ]
-        },
-        {
-            "name": "Hollastin",
-            "coords": [
-                759.325,
-                -269.766
-            ]
-        },
-        {
-            "name": "Aylayl",
-            "coords": [
-                788.951,
-                -289.467
-            ]
-        },
-        {
-            "name": "Rorak",
-            "coords": [
-                736.976,
-                -228.396
-            ]
-        },
-        {
-            "name": "Diyu",
-            "coords": [
-                785.625,
-                -217.689
-            ]
-        },
-        {
-            "name": "Nar Kaaga",
-            "coords": [
-                704.507,
-                -331.043
-            ]
-        },
-        {
-            "name": "Xolu",
-            "coords": [
-                753.913,
-                -327.377
-            ]
-        },
-        {
-            "name": "Far Pando",
-            "coords": [
-                764.039,
-                -368.403
-            ]
-        },
-        {
-            "name": "Near Pando",
-            "coords": [
-                779.45,
-                -411.86
-            ]
-        },
-        {
-            "name": "Elgit",
-            "coords": [
-                805.45,
-                -77.427
-            ]
-        },
-        {
-            "name": "Usk",
-            "coords": [
-                830.197,
-                -85.382
-            ]
-        },
-        {
-            "name": "Moralan",
-            "coords": [
-                833.143,
-                -69.277
-            ]
-        },
-        {
-            "name": "Tisht",
-            "coords": [
-                849.416,
-                -177.31
-            ]
-        },
-        {
-            "name": "Nar Haaska",
-            "coords": [
-                881.015,
-                -149.028
-            ]
-        },
-        {
-            "name": "Saqqar",
-            "coords": [
-                850.463,
-                -136.109
-            ]
-        },
-        {
-            "name": "M'Hanna",
-            "coords": [
-                815.024,
-                -162.994
-            ]
-        },
-        {
-            "name": "The Godsheart",
-            "coords": [
-                830.037,
-                -132.618
-            ]
-        },
-        {
-            "name": "Sakifwanna",
-            "coords": [
-                803.388,
-                -118.083
-            ]
-        },
-        {
-            "name": "Ylesia",
-            "coords": [
-                845.229,
-                -213.964
-            ]
-        },
-        {
-            "name": "Riileb",
-            "coords": [
-                831.548,
-                -251.234
-            ]
-        },
-        {
-            "name": "Poytta",
-            "coords": [
-                855.999,
-                -209.905
-            ]
-        },
-        {
-            "name": "Ziugen",
-            "coords": [
-                875.384,
-                -217.288
-            ]
-        },
-        {
-            "name": "Outland Transit",
-            "coords": [
-                896.072,
-                -215.586
-            ]
-        },
-        {
-            "name": "Tsyk",
-            "coords": [
-                806.583,
-                -310.067
-            ]
-        },
-        {
             "name": "Bimmisaari",
             "coords": [
                 678.593,
@@ -19519,27 +12575,6 @@
             "coords": [
                 613.486,
                 71.459
-            ]
-        },
-        {
-            "name": "Quesh",
-            "coords": [
-                781.565,
-                -55.599
-            ]
-        },
-        {
-            "name": "Orondia",
-            "coords": [
-                722.483,
-                -180.722
-            ]
-        },
-        {
-            "name": "Vodran",
-            "coords": [
-                773.218,
-                71.262
             ]
         }
     ],
@@ -20081,20 +13116,6 @@
             ]
         },
         {
-            "name": "Abraxas",
-            "coords": [
-                -46.374,
-                -750.115
-            ]
-        },
-        {
-            "name": "Dalisor",
-            "coords": [
-                -76.076,
-                -761.074
-            ]
-        },
-        {
             "name": "Dalisor",
             "coords": [
                 -76.076,
@@ -20106,20 +13127,6 @@
             "coords": [
                 -88.147,
                 -768.857
-            ]
-        },
-        {
-            "name": "Rrulinn",
-            "coords": [
-                -88.147,
-                -768.857
-            ]
-        },
-        {
-            "name": "Jiroch",
-            "coords": [
-                -73.058,
-                -780.928
             ]
         },
         {
@@ -20171,13 +13178,6 @@
             "coords": [
                 20.653,
                 -707.707
-            ]
-        },
-        {
-            "name": "Cyphar",
-            "coords": [
-                9.059,
-                -744.715
             ]
         },
         {
@@ -20484,13 +13484,6 @@
             ]
         },
         {
-            "name": "Naboo",
-            "coords": [
-                334.442,
-                -707.231
-            ]
-        },
-        {
             "name": "Sedesia",
             "coords": [
                 332.694,
@@ -20525,34 +13518,6 @@
             "coords": [
                 -207.602,
                 314.183
-            ]
-        },
-        {
-            "name": "Namadii",
-            "coords": [
-                -207.602,
-                314.183
-            ]
-        },
-        {
-            "name": "Gilatter",
-            "coords": [
-                -219.673,
-                288.77
-            ]
-        },
-        {
-            "name": "Rustibar",
-            "coords": [
-                -183.142,
-                288.453
-            ]
-        },
-        {
-            "name": "Kalaan",
-            "coords": [
-                -197.596,
-                272.569
             ]
         },
         {
@@ -20657,41 +13622,6 @@
             "coords": [
                 494.703,
                 -595.572
-            ]
-        },
-        {
-            "name": "Argus",
-            "coords": [
-                481.997,
-                -615.743
-            ]
-        },
-        {
-            "name": "Zolan",
-            "coords": [
-                471.037,
-                -627.815
-            ]
-        },
-        {
-            "name": "Rintonne",
-            "coords": [
-                455.313,
-                -637.186
-            ]
-        },
-        {
-            "name": "Ando",
-            "coords": [
-                525.835,
-                -597.637
-            ]
-        },
-        {
-            "name": "Mon Gazza",
-            "coords": [
-                516.146,
-                -614.473
             ]
         },
         {
@@ -20892,20 +13822,6 @@
             ]
         },
         {
-            "name": "Lahsbane",
-            "coords": [
-                636.7,
-                -548.557
-            ]
-        },
-        {
-            "name": "Grakouine",
-            "coords": [
-                642.576,
-                -587.63
-            ]
-        },
-        {
             "name": "Grakouine",
             "coords": [
                 642.576,
@@ -20950,20 +13866,6 @@
             ]
         },
         {
-            "name": "Zygia",
-            "coords": [
-                650.2,
-                -473.271
-            ]
-        },
-        {
-            "name": "Holess",
-            "coords": [
-                666.242,
-                -485.183
-            ]
-        },
-        {
             "name": "Holess",
             "coords": [
                 666.242,
@@ -20975,27 +13877,6 @@
             "coords": [
                 670.531,
                 -491.219
-            ]
-        },
-        {
-            "name": "Boranda",
-            "coords": [
-                670.531,
-                -491.219
-            ]
-        },
-        {
-            "name": "Manda",
-            "coords": [
-                682.126,
-                -504.243
-            ]
-        },
-        {
-            "name": "Dennaskar",
-            "coords": [
-                699.597,
-                -507.42
             ]
         },
         {
@@ -21201,20 +14082,6 @@
             ]
         },
         {
-            "name": "Orleon",
-            "coords": [
-                564.635,
-                183.405
-            ]
-        },
-        {
-            "name": "Metalorn",
-            "coords": [
-                610.061,
-                177.37
-            ]
-        },
-        {
             "name": "Salvara",
             "coords": [
                 582.106,
@@ -21284,20 +14151,6 @@
             "coords": [
                 405.119,
                 231.02
-            ]
-        },
-        {
-            "name": "Msst",
-            "coords": [
-                405.119,
-                231.02
-            ]
-        },
-        {
-            "name": "Garos",
-            "coords": [
-                447.408,
-                243.885
             ]
         },
         {
@@ -21375,20 +14228,6 @@
             ]
         },
         {
-            "name": "Sev Tok",
-            "coords": [
-                507.495,
-                -192.352
-            ]
-        },
-        {
-            "name": "Nanth'ri",
-            "coords": [
-                529.285,
-                -207.285
-            ]
-        },
-        {
             "name": "Pesmenben",
             "coords": [
                 504.159,
@@ -21423,13 +14262,6 @@
             "coords": [
                 679.743,
                 -390.837
-            ]
-        },
-        {
-            "name": "Void Station",
-            "coords": [
-                653.194,
-                -411.548
             ]
         },
         {
@@ -21565,73 +14397,10 @@
             ]
         },
         {
-            "name": "Avidich",
-            "coords": [
-                -610.083,
-                120.375
-            ]
-        },
-        {
-            "name": "Ool",
-            "coords": [
-                -620.173,
-                115.789
-            ]
-        },
-        {
-            "name": "Shihon",
-            "coords": [
-                -618.197,
-                110.92
-            ]
-        },
-        {
-            "name": "Oyokal",
-            "coords": [
-                -629.75,
-                106.769
-            ]
-        },
-        {
-            "name": "Kinoss",
-            "coords": [
-                -650.811,
-                122.433
-            ]
-        },
-        {
-            "name": "Thearterra",
-            "coords": [
-                -620.437,
-                135.662
-            ]
-        },
-        {
-            "name": "Rhigar",
-            "coords": [
-                -603.281,
-                84.604
-            ]
-        },
-        {
             "name": "Csilla",
             "coords": [
                 -592.921,
                 122.131
-            ]
-        },
-        {
-            "name": "Csilla",
-            "coords": [
-                -592.921,
-                122.131
-            ]
-        },
-        {
-            "name": "Jamiron",
-            "coords": [
-                -587.435,
-                133.639
             ]
         },
         {
@@ -21649,31 +14418,10 @@
             ]
         },
         {
-            "name": "Rentor",
-            "coords": [
-                -584.401,
-                126.654
-            ]
-        },
-        {
             "name": "Cioral",
             "coords": [
                 -589.975,
                 115.648
-            ]
-        },
-        {
-            "name": "Cioral",
-            "coords": [
-                -589.975,
-                115.648
-            ]
-        },
-        {
-            "name": "Cormit",
-            "coords": [
-                -557.731,
-                111.838
             ]
         },
         {
@@ -21691,31 +14439,10 @@
             ]
         },
         {
-            "name": "Colonial Station Cam'co",
-            "coords": [
-                -591.262,
-                174.369
-            ]
-        },
-        {
             "name": "Sposia",
             "coords": [
                 -591.897,
                 142.09
-            ]
-        },
-        {
-            "name": "Sposia",
-            "coords": [
-                -591.897,
-                142.09
-            ]
-        },
-        {
-            "name": "Ornfra",
-            "coords": [
-                -556.761,
-                152.673
             ]
         },
         {
@@ -21733,20 +14460,6 @@
             ]
         },
         {
-            "name": "Schesa",
-            "coords": [
-                -559.83,
-                166.643
-            ]
-        },
-        {
-            "name": "Noris",
-            "coords": [
-                -559.936,
-                162.41
-            ]
-        },
-        {
             "name": "Noris",
             "coords": [
                 -559.936,
@@ -21758,41 +14471,6 @@
             "coords": [
                 -550.093,
                 158.811
-            ]
-        },
-        {
-            "name": "Sharb",
-            "coords": [
-                -550.093,
-                158.811
-            ]
-        },
-        {
-            "name": "Csaus",
-            "coords": [
-                -581.479,
-                89.155
-            ]
-        },
-        {
-            "name": "Copero",
-            "coords": [
-                -571.637,
-                92.754
-            ]
-        },
-        {
-            "name": "Sarvchi",
-            "coords": [
-                -566.239,
-                98.045
-            ]
-        },
-        {
-            "name": "Colonial Station Chaf",
-            "coords": [
-                -580.104,
-                67.036
             ]
         }
     ],
@@ -21951,321 +14629,6 @@
             "coords": [
                 -410.118,
                 -1134.896
-            ]
-        },
-        {
-            "name": "Mephout",
-            "coords": [
-                -368.566,
-                -1061.236
-            ]
-        },
-        {
-            "name": "Seoul",
-            "coords": [
-                -391.231,
-                -1076.346
-            ]
-        },
-        {
-            "name": "Nirauan",
-            "coords": [
-                -219.708,
-                403.902
-            ]
-        },
-        {
-            "name": "Esfandia",
-            "coords": [
-                -280.135,
-                351.381
-            ]
-        },
-        {
-            "name": "Needan",
-            "coords": [
-                -230.762,
-                -1081.871
-            ]
-        },
-        {
-            "name": "Xerton",
-            "coords": [
-                -143.763,
-                664.844
-            ]
-        },
-        {
-            "name": "Qonto",
-            "coords": [
-                -121.053,
-                664.182
-            ]
-        },
-        {
-            "name": "Huk",
-            "coords": [
-                -185.611,
-                560.403
-            ]
-        },
-        {
-            "name": "Kalee",
-            "coords": [
-                -162.247,
-                565.841
-            ]
-        },
-        {
-            "name": "Guiteica",
-            "coords": [
-                -176.395,
-                584.146
-            ]
-        },
-        {
-            "name": "Tovarskl",
-            "coords": [
-                -165.541,
-                552.363
-            ]
-        },
-        {
-            "name": "Parshoone",
-            "coords": [
-                -180.075,
-                530.914
-            ]
-        },
-        {
-            "name": "Alashan",
-            "coords": [
-                -144.146,
-                422.049
-            ]
-        },
-        {
-            "name": "Marquarra",
-            "coords": [
-                -151.436,
-                470.275
-            ]
-        },
-        {
-            "name": "Adumar",
-            "coords": [
-                -194.013,
-                352.511
-            ]
-        },
-        {
-            "name": "Aeten",
-            "coords": [
-                -169.164,
-                386.96
-            ]
-        },
-        {
-            "name": "Anoth",
-            "coords": [
-                -173.689,
-                -1097.811
-            ]
-        },
-        {
-            "name": "Zonju",
-            "coords": [
-                -129.928,
-                -1153.055
-            ]
-        },
-        {
-            "name": "Kinooine",
-            "coords": [
-                -192.622,
-                -1144.365
-            ]
-        },
-        {
-            "name": "Zeta",
-            "coords": [
-                -75.418,
-                739.073
-            ]
-        },
-        {
-            "name": "Shiva",
-            "coords": [
-                28.098,
-                -1121.778
-            ]
-        },
-        {
-            "name": "Kesh",
-            "coords": [
-                970.992,
-                -33.29
-            ]
-        },
-        {
-            "name": "Gorsh",
-            "coords": [
-                325.24,
-                669.48
-            ]
-        },
-        {
-            "name": "Silken",
-            "coords": [
-                353.882,
-                -1008.234
-            ]
-        },
-        {
-            "name": "Gulma",
-            "coords": [
-                406.845,
-                676.257
-            ]
-        },
-        {
-            "name": "Morellia",
-            "coords": [
-                764.98,
-                650.933
-            ]
-        },
-        {
-            "name": "Mytus",
-            "coords": [
-                733.426,
-                668.722
-            ]
-        },
-        {
-            "name": "Velabri",
-            "coords": [
-                713.876,
-                -848.147
-            ]
-        },
-        {
-            "name": "Lamaredd",
-            "coords": [
-                751.119,
-                -838.836
-            ]
-        },
-        {
-            "name": "Naos",
-            "coords": [
-                770.341,
-                -809.404
-            ]
-        },
-        {
-            "name": "Parthovian Cluster",
-            "coords": [
-                830.419,
-                587.4
-            ]
-        },
-        {
-            "name": "Drongar",
-            "coords": [
-                866.209,
-                435.768
-            ]
-        },
-        {
-            "name": "Hast",
-            "coords": [
-                927.011,
-                380.504
-            ]
-        },
-        {
-            "name": "Zigoola",
-            "coords": [
-                938.776,
-                362.706
-            ]
-        },
-        {
-            "name": "Targon",
-            "coords": [
-                962.691,
-                212.014
-            ]
-        },
-        {
-            "name": "Pluthan",
-            "coords": [
-                968.585,
-                161.284
-            ]
-        },
-        {
-            "name": "Smarteel",
-            "coords": [
-                950.166,
-                -478.752
-            ]
-        },
-        {
-            "name": "Malagarr",
-            "coords": [
-                1005.095,
-                162.295
-            ]
-        },
-        {
-            "name": "Mortis",
-            "coords": [
-                -55.975,
-                733.387
-            ]
-        },
-        {
-            "name": "Lasan",
-            "coords": [
-                443.613,
-                -1028.573
-            ]
-        },
-        {
-            "name": "Dosuun",
-            "coords": [
-                -368.167,
-                -1019.857
-            ]
-        },
-        {
-            "name": "Yalara",
-            "coords": [
-                -273.049,
-                -1174.904
-            ]
-        },
-        {
-            "name": "Kadavo",
-            "coords": [
-                789.335,
-                556.938
-            ]
-        },
-        {
-            "name": "Yanibar",
-            "coords": [
-                642.725,
-                -917.056
-            ]
-        },
-        {
-            "name": "Diab",
-            "coords": [
-                -189.276,
-                384.362
             ]
         }
     ],
