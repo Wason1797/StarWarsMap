@@ -127,7 +127,7 @@ if __name__ == "__main__":
         if isinstance(grid.shape, Polygon):
             plt.plot(*grid.shape.exterior.xy, linewidth=1, color='lightgray')
 
-    path = nx.shortest_path(graph, planet_search_dict['Bonadan'], planet_search_dict['Imynusoph'])
+    path = nx.shortest_path(graph, planet_search_dict['Naboo'], planet_search_dict['Coruscant'])
     print(path)
 
     plt.axis('off')
