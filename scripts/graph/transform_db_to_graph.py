@@ -127,8 +127,11 @@ if __name__ == "__main__":
         if isinstance(grid.shape, Polygon):
             plt.plot(*grid.shape.exterior.xy, linewidth=1, color='lightgray')
 
-    path = nx.shortest_path(graph, planet_search_dict['Naboo'], planet_search_dict['Coruscant'])
-    print(path)
+    path_plot = get_planet_pair(nx.shortest_path(graph, planet_search_dict['Tatooine'], planet_search_dict['Felucia']))
+
+    for start_planet, end_planet in path_plot:
+        plt.plot([start_planet.location.x, end_planet.location.x],
+                 [start_planet.location.y, end_planet.location.y], linewidth=2, color='red')
 
     plt.axis('off')
     plt.show()
