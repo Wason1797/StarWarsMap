@@ -72,12 +72,17 @@ def get_planet_pair(planet_list: list):
     return list(zip(*[planet_list[index::1] for index in range(2)]))
 
 
-def get_closest_planet_in_group(planet: Planet, planets, planets_positions):
-    start_position = np.array([[planet.location.x, planet.location.y]])
-    distance_matrix = cdist(start_position, planets_positions)
+def get_min_distance(source_group, source_positions, target_group, target_positions):
+    distance_matrix = cdist(source_positions, target_positions)
     min_index = np.argmin(distance_matrix, axis=None)
     index = np.unravel_index(min_index, distance_matrix.shape)
-    return planets[index[1]], distance_matrix[index]
+    return source_group[index[0]], target_group[index[1]], distance_matrix[index]
+
+
+def get_closest_planet_in_group(planet: Planet, planets, planets_positions):
+    start_position = np.array([[planet.location.x, planet.location.y]])
+    _, target, distance = get_min_distance([planet], start_position, planets, planets_positions)
+    return target, distance
 
 
 def get_edges_to_hyperlane_planets(planet_list: set, planets_on_hyperlanes: set):
@@ -96,6 +101,17 @@ def get_edges_to_isolates(isolate_planet_list: set, planets: set):
     for planet in isolate_planet_list:
         closest, distance = get_closest_planet_in_group(planet, connected_planets, connected_planets_positions)
         yield (closest, planet, distance*NO_HYPERLANE_DISTANCE_FACTOR)
+
+
+def get_edges_for_graph_components(graph):
+    components = sorted(nx.connected_components(graph), key=len, reverse=True)
+    component_planets = np.asarray(list(components[0]))
+    component_planet_positions = np.asarray([[pl.location.x, pl.location.y] for pl in component_planets])
+    for component in components[1:]:
+        leftover_planets = np.asarray(list(component))
+        leftover_planets_positions = np.asarray([[pl.location.x, pl.location.y] for pl in leftover_planets])
+        source, target, distance = get_min_distance(component_planets, component_planet_positions, leftover_planets, leftover_planets_positions)
+        yield (source, target, distance*NO_HYPERLANE_DISTANCE_FACTOR)
 
 
 if __name__ == "__main__":
@@ -132,6 +148,10 @@ if __name__ == "__main__":
     graph.add_weighted_edges_from(get_edges_to_isolates(isolated_planets, set(graph.nodes)),
                                   label="Last Resort Route", color='yellow')
 
+    graph.add_weighted_edges_from(get_edges_for_graph_components(graph),
+                                  label="Component Artificial Route", color='purple')
+    components = list(nx.connected_components(graph))
+    print(len(components))
     plot_graph(graph)
 
     # for region in regions:
@@ -142,7 +162,7 @@ if __name__ == "__main__":
         if isinstance(grid.shape, Polygon):
             plt.plot(*grid.shape.exterior.xy, linewidth=1, color='lightgray')
 
-    path_plot = get_planet_pair(nx.shortest_path(graph, planet_search_dict["Kal'Shebbol"], planet_search_dict['Terminus']))
+    path_plot = get_planet_pair(nx.shortest_path(graph, planet_search_dict["Exegol"], planet_search_dict['Jakku']))
 
     for start_planet, end_planet in path_plot:
         plt.plot([start_planet.location.x, end_planet.location.x],
