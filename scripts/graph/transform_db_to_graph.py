@@ -27,6 +27,8 @@ ROUTE_COLOR = {
     "Gamor Run": 'darkcyan',
 }
 
+NO_HYPERLANE_DISTANCE_FACTOR = 100
+
 
 def plot_graph(graph, node_color=None):
     pos = {node: list(node.location.coords)[0] for node in graph.nodes()}
@@ -70,12 +72,12 @@ def get_planet_pair(planet_list: list):
     return list(zip(*[planet_list[index::1] for index in range(2)]))
 
 
-def get_closest_planet_in_hyperlane(planet: Planet, hyperlane_planets, hyperlane_positions):
+def get_closest_planet_in_group(planet: Planet, planets, planets_positions):
     start_position = np.array([[planet.location.x, planet.location.y]])
-    distance_matrix = cdist(start_position, hyperlane_positions)
+    distance_matrix = cdist(start_position, planets_positions)
     min_index = np.argmin(distance_matrix, axis=None)
     index = np.unravel_index(min_index, distance_matrix.shape)
-    return hyperlane_planets[index[1]], distance_matrix[index]
+    return planets[index[1]], distance_matrix[index]
 
 
 def get_edges_to_hyperlane_planets(planet_list: set, planets_on_hyperlanes: set):
@@ -84,8 +86,16 @@ def get_edges_to_hyperlane_planets(planet_list: set, planets_on_hyperlanes: set)
     if planets_on_hyperlanes.size != 0:
         hyperlanes_positions = np.asarray([[pl.location.x, pl.location.y] for pl in planets_on_hyperlanes])
         for planet in planet_set:
-            closest, distance = get_closest_planet_in_hyperlane(planet, planets_on_hyperlanes, hyperlanes_positions)
-            yield (closest, planet, distance)
+            closest, distance = get_closest_planet_in_group(planet, planets_on_hyperlanes, hyperlanes_positions)
+            yield (closest, planet, distance*NO_HYPERLANE_DISTANCE_FACTOR)
+
+
+def get_edges_to_isolates(isolate_planet_list: set, planets: set):
+    connected_planets = np.asarray(list(planets.difference(isolate_planet_list)))
+    connected_planets_positions = np.asarray([[pl.location.x, pl.location.y] for pl in connected_planets])
+    for planet in isolate_planet_list:
+        closest, distance = get_closest_planet_in_group(planet, connected_planets, connected_planets_positions)
+        yield (closest, planet, distance*NO_HYPERLANE_DISTANCE_FACTOR)
 
 
 if __name__ == "__main__":
@@ -101,8 +111,8 @@ if __name__ == "__main__":
 
     planet_search_dict = {planet.name: planet for planet in planet_list}
     planets_on_hyperlanes = {planet_search_dict[planet] for planet in chain.from_iterable(hyperlanes.values())}
-    print(len(planets_on_hyperlanes))
-    print(len(planet_search_dict))
+    print(f"Total Planets in map {len(planet_search_dict)}")
+    print(f"Planets on hyperlanes {len(planets_on_hyperlanes)}")
 
     graph = nx.Graph()
     graph.add_nodes_from(set(planet_list))
@@ -116,7 +126,12 @@ if __name__ == "__main__":
                                                                      planets_on_hyperlanes),
                                       label=route, color=ROUTE_COLOR[route])
 
-    print(len(list(nx.isolates(graph))))
+    isolated_planets = set(nx.isolates(graph))
+    print(f"Planets with no connections {len(isolated_planets)}")
+
+    graph.add_weighted_edges_from(get_edges_to_isolates(isolated_planets, set(graph.nodes)),
+                                  label="Last Resort Route", color='yellow')
+
     plot_graph(graph)
 
     # for region in regions:
@@ -127,7 +142,7 @@ if __name__ == "__main__":
         if isinstance(grid.shape, Polygon):
             plt.plot(*grid.shape.exterior.xy, linewidth=1, color='lightgray')
 
-    path_plot = get_planet_pair(nx.shortest_path(graph, planet_search_dict['Tatooine'], planet_search_dict['Felucia']))
+    path_plot = get_planet_pair(nx.shortest_path(graph, planet_search_dict["Kal'Shebbol"], planet_search_dict['Terminus']))
 
     for start_planet, end_planet in path_plot:
         plt.plot([start_planet.location.x, end_planet.location.x],

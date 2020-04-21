@@ -298,6 +298,8 @@
     ],
     "Guu Run": [
         "Kitel Phard",
+        "Dahrtag",
+        "Illodia",
         "Giju"
     ],
     "Shipwrights' Trace": [
@@ -724,5 +726,72 @@
         "Ranroon",
         "Syngia",
         "Lianna"
+    ],
+    "Overic Griplink": [
+        "Mon Calamari",
+        "Ruisto",
+        "Reginard",
+        "Munto Codru",
+        "Turkana",
+        "Shaylin",
+        "Pakuuni",
+        "Florn",
+        "Toola",
+        "Quermia"
+    ],
+    "Way Of Schesa": [
+        "The Redoubt",
+        "Pesfavri",
+        "Schesa",
+        "Noris",
+        "Ornfra"
+    ],
+    "Path Of The Houses": [
+        "Noris",
+        "Sharb",
+        "Ornfra",
+        "Naporar",
+        "Sposia",
+        "Csilla",
+        "Cioral",
+        "Sarvchi",
+        "Copero",
+        "Csaus",
+        "Rhigar"
+    ],
+    "Ansion Spur": [
+        "Keitum",
+        "Ansion",
+        "Gilatter",
+        "Sinton",
+        "Rago",
+        "Murgo",
+        "Utegetu Nebula"
+    ],
+    "Shwuy Exchange": [
+        "Vakkar",
+        "Palanhi",
+        "Noquivzor",
+        "Ord Antalaha",
+        "Dankayo",
+        "Uviuy Exen"
+    ],
+    "Entralla Route":[
+        "Endoraan",
+        "Entralla",
+        "Capza",
+        "Yaga Minor",
+        "Ompersan",
+        "Prefsbelt",
+        "Borosk",
+        "JanFathal",
+        "Wistril",
+        "Orinda",
+        "Lonnaw",
+        "Obredaan",
+        "Gonmore",
+        "Ord Tessebok",
+        "Yout",
+        "Qiilura"
     ]
 }
