@@ -125,7 +125,10 @@ if __name__ == "__main__":
 
     for grid in grids:
         if isinstance(grid.shape, Polygon):
-            plt.plot(*grid.shape.exterior.xy, linewidth=1, color='k')
+            plt.plot(*grid.shape.exterior.xy, linewidth=1, color='lightgray')
+
+    path = nx.shortest_path(graph, planet_search_dict['Bonadan'], planet_search_dict['Imynusoph'])
+    print(path)
 
     plt.axis('off')
     plt.show()
