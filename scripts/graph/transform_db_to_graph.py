@@ -30,14 +30,14 @@ ROUTE_COLOR = {
 NO_HYPERLANE_DISTANCE_FACTOR = 100
 
 
-def plot_graph(graph, node_color=None):
+def plot_graph(graph: nx.Graph, node_color=None):
     pos = {node: list(node.location.coords)[0] for node in graph.nodes()}
     edge_color = [edge[2] for edge in graph.edges.data('color')]
     nx.draw_networkx(graph, pos=pos, node_size=5, with_labels=False,
                      node_color=node_color, edge_color=edge_color, font_size=6)
 
 
-def get_region_db(db_path) -> List['Region']:
+def get_region_db(db_path: str) -> List['Region']:
     db = json.load(open(db_path))
     return [Region(region,
                    [Sector(sector,
@@ -47,7 +47,7 @@ def get_region_db(db_path) -> List['Region']:
             for region, sectors in db.items()]
 
 
-def get_grid_db(db_path) -> List['Grid']:
+def get_grid_db(db_path: str) -> List['Grid']:
     db = json.load(open(db_path))
     return [Grid(grid,
                  [Planet(planet['name'], planet['coords'])
@@ -55,16 +55,16 @@ def get_grid_db(db_path) -> List['Grid']:
             for grid, planets in db.items()]
 
 
-def get_hyperlanes(db_path) -> dict:
+def get_hyperlanes(db_path: str) -> dict:
     return json.load(open(db_path))
 
 
-def get_hyperlane_edges(hyperlanes: dict) -> List[tuple]:
+def get_hyperlane_edges(hyperlanes: dict, planet_dict: dict) -> List[tuple]:
     for route, planets in hyperlanes.items():
         planet_routes = get_planet_pair(planets)
-        yield ((planet_search_dict[start],
-                planet_search_dict[end],
-                planet_search_dict[start].location.distance(planet_search_dict[end].location))
+        yield ((planet_dict[start],
+                planet_dict[end],
+                planet_dict[start].location.distance(planet_dict[end].location))
                for start, end in planet_routes), route
 
 
@@ -103,7 +103,7 @@ def get_edges_to_isolates(isolate_planet_list: set, planets: set):
         yield (closest, planet, distance*NO_HYPERLANE_DISTANCE_FACTOR)
 
 
-def get_edges_for_graph_components(graph):
+def get_edges_for_graph_components(graph: nx.Graph):
     components = sorted(nx.connected_components(graph), key=len, reverse=True)
     component_planets = np.asarray(list(components[0]))
     component_planet_positions = np.asarray([[pl.location.x, pl.location.y] for pl in component_planets])
@@ -122,7 +122,7 @@ if __name__ == "__main__":
     regions = get_region_db(region_path)
     grids = get_grid_db(grid_path)
     hyperlanes = get_hyperlanes(hyperlanes_path)
-    hyperlane_edges = get_hyperlane_edges(hyperlanes)
+
     planet_list = list(chain.from_iterable(region.planets for region in regions))
 
     planet_search_dict = {planet.name: planet for planet in planet_list}
@@ -133,6 +133,7 @@ if __name__ == "__main__":
     graph = nx.Graph()
     graph.add_nodes_from(set(planet_list))
 
+    hyperlane_edges = get_hyperlane_edges(hyperlanes, planet_search_dict)
     for edges, route in hyperlane_edges:
         graph.add_weighted_edges_from(edges, label=route, color=ROUTE_COLOR.get(route, 'darkblue'))
 
