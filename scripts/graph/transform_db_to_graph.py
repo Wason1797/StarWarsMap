@@ -115,9 +115,9 @@ def get_edges_for_graph_components(graph):
 
 
 if __name__ == "__main__":
-    region_path = 'D:/wason/Documents/Trabajos Universidad/Proyectos y Soluciones/StarWarsMap/data/regions_db.json'
-    grid_path = 'D:/wason/Documents/Trabajos Universidad/Proyectos y Soluciones/StarWarsMap/data/grid_db.json'
-    hyperlanes_path = 'D:/wason/Documents/Trabajos Universidad/Proyectos y Soluciones/StarWarsMap/data/hyperlanes_db.json'
+    region_path = './data/regions_db.json'
+    grid_path = './data/grid_db.json'
+    hyperlanes_path = './data/hyperlanes_db.json'
 
     regions = get_region_db(region_path)
     grids = get_grid_db(grid_path)
@@ -150,6 +150,7 @@ if __name__ == "__main__":
 
     graph.add_weighted_edges_from(get_edges_for_graph_components(graph),
                                   label="Component Artificial Route", color='purple')
+
     components = list(nx.connected_components(graph))
     print(len(components))
     plot_graph(graph)
@@ -160,9 +161,9 @@ if __name__ == "__main__":
 
     for grid in grids:
         if isinstance(grid.shape, Polygon):
-            plt.plot(*grid.shape.exterior.xy, linewidth=1, color='lightgray')
+            plt.plot(*grid.shape.exterior.xy, linewidth=0.5, color='lightgray')
 
-    path_plot = get_planet_pair(nx.shortest_path(graph, planet_search_dict["Exegol"], planet_search_dict['Jakku']))
+    path_plot = get_planet_pair(nx.shortest_path(graph, planet_search_dict["Naboo"], planet_search_dict['Tatooine']))
 
     for start_planet, end_planet in path_plot:
         plt.plot([start_planet.location.x, end_planet.location.x],
