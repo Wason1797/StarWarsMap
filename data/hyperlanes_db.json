@@ -793,5 +793,61 @@
         "Ord Tessebok",
         "Yout",
         "Qiilura"
+    ],
+
+
+    "Pabol Hutta":[
+        "Nal Hutta & Nar Shaddaa",
+        "Hosko",
+        "Varl",
+        "Gos Hutta",
+        "Mulatan",
+        "Sleheyron",
+        "Sriluur",
+        "Boonta"
+    ],
+    "Shag Pabol":[
+        "Teth",
+        "Lirra",
+        "Outland Transit",
+        "Ziugen",
+        "Ylesia",
+        "Diyu",
+        "Rorak",
+        "Nal Hutta & Nar Shaddaa"
+    ],
+    "Ootmian Pabol": [
+        "Du Hutta",
+        "Irith",
+        "Nar Bo Sholla",
+        "Keldooine",
+        "Kwenn",
+        "Ubrikkia",
+        "Blimph",
+        "Randon"
+    ],
+
+    "Varl Run": [
+        "Varl",
+        "M'Hanna",
+        "Tisht",
+        "Saqqar",
+        "Usk",
+        "Elgit",
+        "Zisia",
+        "Ulmatra",
+        "Kafane",
+        "Nimia",
+        "Yoribuunt"
+    ],
+    "Kegan Run":[
+        "Kegan",
+        "Delacrix",
+        "Yoribuunt",
+        "Ques",
+        "Sriluur",
+        "Boonta"
     ]
+
+
 }
