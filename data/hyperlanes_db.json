@@ -776,7 +776,7 @@
         "Dankayo",
         "Uviuy Exen"
     ],
-    "Entralla Route":[
+    "Entralla Route": [
         "Endoraan",
         "Entralla",
         "Capza",
@@ -794,9 +794,7 @@
         "Yout",
         "Qiilura"
     ],
-
-
-    "Pabol Hutta":[
+    "Pabol Hutta": [
         "Nal Hutta & Nar Shaddaa",
         "Hosko",
         "Varl",
@@ -806,7 +804,7 @@
         "Sriluur",
         "Boonta"
     ],
-    "Shag Pabol":[
+    "Shag Pabol": [
         "Teth",
         "Lirra",
         "Outland Transit",
@@ -826,7 +824,6 @@
         "Blimph",
         "Randon"
     ],
-
     "Varl Run": [
         "Varl",
         "M'Hanna",
@@ -840,7 +837,7 @@
         "Nimia",
         "Yoribuunt"
     ],
-    "Kegan Run":[
+    "Kegan Run": [
         "Kegan",
         "Delacrix",
         "Yoribuunt",
@@ -848,7 +845,6 @@
         "Sriluur",
         "Boonta"
     ],
-    
     "Commenor Run": [
         "Brentaal",
         "Tepasi",
@@ -873,7 +869,7 @@
         "Kuat",
         "Commenor"
     ],
-    "Quellor Run":[
+    "Quellor Run": [
         "Commenor",
         "Damoria",
         "Chorax",
@@ -937,11 +933,9 @@
         "Deysum",
         "Randon"
     ],
-    "Terr'Skiar Pass":[
+    "Terr'Skiar Pass": [
         "Terr'Skiar",
         "Bissillirus",
         "Deysum"
     ]
-
-
 }
