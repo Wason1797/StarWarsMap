@@ -793,5 +793,98 @@
         "Ord Tessebok",
         "Yout",
         "Qiilura"
+    ],
+    "Commenor Run": [
+        "Brentaal",
+        "Tepasi",
+        "Korfo",
+        "Caamas",
+        "Alderaan",
+        "Tyed Kant",
+        "Parkis",
+        "Kattada",
+        "Uquine",
+        "Uquine",
+        "Commenor"
+    ],
+    "Trellent Trade Route": [
+        "Trellen",
+        "Humbarine",
+        "Commenor"
+    ],
+    "Fedalle Run": [
+        "Fedalle",
+        "Raxxa",
+        "Kuat",
+        "Commenor"
+    ],
+    "Quellor Run":[
+        "Commenor",
+        "Damoria",
+        "Chorax",
+        "Vladet",
+        "Cato Neimoidia",
+        "Hensara",
+        "Talasea",
+        "Lankashiir",
+        "Quellor"
+    ],
+    "Nanth'ri Route": [
+        "Exodeen",
+        "Quellor",
+        "Antar",
+        "Gyndine",
+        "Fabrin",
+        "Mimban",
+        "Zaloriis",
+        "Attahox",
+        "Nanth'ri"
+    ],
+    "Lorell Route": [
+        "Zeltros",
+        "Andalia",
+        "Sennex",
+        "Daruvvia",
+        "Ket",
+        "Lovola",
+        "Maires",
+        "Vergill"
+    ],
+    "Hapan Spine": [
+        "Taanab",
+        "Roqoo Depot",
+        "Terephon",
+        "Zalori"
+    ],
+    "Rynmar Trail": [
+        "Modus",
+        "Sargon",
+        "Febrini",
+        "Rynmar",
+        "Zalori"
+    ],
+    "Trellen Trade Route": [
+        "Commenor",
+        "Rasterous",
+        "Zeltros",
+        "Virujansi",
+        "Umbara",
+        "Quas Killam",
+        "Torn Station",
+        "Kashyyyk"
+    ],
+    "Trax Tube": [
+        "Daalang",
+        "Nixor",
+        "Nanth'ri",
+        "Uogo'cor",
+        "Lexrul",
+        "Deysum",
+        "Randon"
+    ],
+    "Terr'Skiar Pass":[
+        "Terr'Skiar",
+        "Bissillirus",
+        "Deysum"
     ]
 }
