@@ -17,6 +17,13 @@ class Planet:
     def __repr__(self):
         return self.name
 
+    def to_dict(self):
+        return {
+            'name': self.name,
+            'location': [self.location.x, self.location.y],
+            'is_canon': self.is_canon
+        }
+
 
 class Grid:
     def __init__(self, name: str, planets: List['Planet']):

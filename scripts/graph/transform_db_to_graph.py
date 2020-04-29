@@ -2,7 +2,7 @@ from typing import List
 from itertools import chain
 from shapely.geometry import Polygon
 from scipy.spatial.distance import cdist
-from models.universe_components import Planet, Grid, Sector, Region
+from models.universe_components import Planet, Grid, Sector, Region, GRID_SIDE
 
 import json
 import numpy as np
@@ -16,18 +16,17 @@ ROUTE_COLOR = {
     'Corellinan Run': 'maroon',
     'Corellian Trade Spine': 'violet',
     'Hydian Way': 'indigo',
-    'No Hyperspace Lane': 'gray',
     "Elgit-M'Hanna Corridor": 'blue',
     "Reena Trade Route": "purple",
     "Bothan Run": 'green',
-    "Guu Run": 'red',
+    "Guu Run": 'orange',
     "Shipwrights' Trace": 'lightgreen',
     "Harrin Trade Corridor": 'darkblue',
-    "Enarc Run": 'darkgray',
+    "Enarc Run": 'k',
     "Gamor Run": 'darkcyan',
 }
 
-NO_HYPERLANE_DISTANCE_FACTOR = 100
+NO_HYPERLANE_DISTANCE_FACTOR = 1000
 
 
 def plot_graph(graph: nx.Graph, node_color=None):
@@ -87,12 +86,13 @@ def get_closest_planet_in_group(planet: Planet, planets, planets_positions):
 
 def get_edges_to_hyperlane_planets(planet_list: set, planets_on_hyperlanes: set):
     planet_set = planet_list.difference(planets_on_hyperlanes)
-    planets_on_hyperlanes = np.asarray(list(planets_on_hyperlanes.intersection(planet_list)))
+    planets_on_hyperlanes = np.asarray(list(planets_on_hyperlanes))
     if planets_on_hyperlanes.size != 0:
         hyperlanes_positions = np.asarray([[pl.location.x, pl.location.y] for pl in planets_on_hyperlanes])
         for planet in planet_set:
             closest, distance = get_closest_planet_in_group(planet, planets_on_hyperlanes, hyperlanes_positions)
-            yield (closest, planet, distance*NO_HYPERLANE_DISTANCE_FACTOR)
+            if distance <= GRID_SIDE:
+                yield (closest, planet, distance*NO_HYPERLANE_DISTANCE_FACTOR)
 
 
 def get_edges_to_isolates(isolate_planet_list: set, planets: set):
@@ -137,11 +137,9 @@ if __name__ == "__main__":
     for edges, route in hyperlane_edges:
         graph.add_weighted_edges_from(edges, label=route, color=ROUTE_COLOR.get(route, 'darkblue'))
 
-    for grid in grids:
-        route = 'No Hyperspace Lane'
-        graph.add_weighted_edges_from(get_edges_to_hyperlane_planets({planet_search_dict[pl.name] for pl in grid.planets},
-                                                                     planets_on_hyperlanes),
-                                      label=route, color=ROUTE_COLOR[route])
+    graph.add_weighted_edges_from(get_edges_to_hyperlane_planets(set(planet_list),
+                                                                 planets_on_hyperlanes),
+                                  label='No Hyperspace Lane', color='lightgray')
 
     isolated_planets = set(nx.isolates(graph))
     print(f"Planets with no connections {len(isolated_planets)}")
@@ -162,9 +160,9 @@ if __name__ == "__main__":
 
     for grid in grids:
         if isinstance(grid.shape, Polygon):
-            plt.plot(*grid.shape.exterior.xy, linewidth=0.5, color='lightgray')
+            plt.plot(*grid.shape.exterior.xy, linewidth=0.5, color='gray')
 
-    path_plot = get_planet_pair(nx.shortest_path(graph, planet_search_dict["Naboo"], planet_search_dict['Tatooine']))
+    path_plot = get_planet_pair(nx.shortest_path(graph, planet_search_dict["Bonadan"], planet_search_dict['Imynusoph'], weight='weight'))
 
     for start_planet, end_planet in path_plot:
         plt.plot([start_planet.location.x, end_planet.location.x],
