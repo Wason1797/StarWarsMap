@@ -1,5 +1,5 @@
-from typing import List
 from itertools import chain
+from typing import List, Tuple
 from shapely.geometry import Polygon
 from scipy.spatial.distance import cdist
 from models.universe_components import Planet, Grid, Sector, Region, GRID_SIDE
@@ -58,6 +58,10 @@ def get_hyperlanes(db_path: str) -> dict:
     return json.load(open(db_path))
 
 
+def get_planets(regions: List[Region]) -> List[Planet]:
+    return list(chain.from_iterable(region.planets for region in regions))
+
+
 def get_hyperlane_edges(hyperlanes: dict, planet_dict: dict) -> List[tuple]:
     for route, planets in hyperlanes.items():
         planet_routes = get_planet_pair(planets)
@@ -114,16 +118,27 @@ def get_edges_for_graph_components(graph: nx.Graph):
         yield (source, target, distance*NO_HYPERLANE_DISTANCE_FACTOR)
 
 
-if __name__ == "__main__":
-    region_path = './data/regions_db.json'
-    grid_path = './data/grid_db.json'
-    hyperlanes_path = './data/hyperlanes_db.json'
+def plot_map(graph: nx.Graph, grids=None, regions=None):
+    plot_graph(graph)
 
-    regions = get_region_db(region_path)
-    grids = get_grid_db(grid_path)
-    hyperlanes = get_hyperlanes(hyperlanes_path)
+    if regions:
+        for region in regions:
+            if isinstance(region.shape, Polygon):
+                plt.plot(*region.shape.exterior.xy, linewidth=0.5)
 
-    planet_list = list(chain.from_iterable(region.planets for region in regions))
+    if grids:
+        for grid in grids:
+            if isinstance(grid.shape, Polygon):
+                plt.plot(*grid.shape.exterior.xy, linewidth=0.5, color='gray')
+
+
+def plot_path(path: list):
+    for start_planet, end_planet in path:
+        plt.plot([start_planet.location.x, end_planet.location.x],
+                 [start_planet.location.y, end_planet.location.y], linewidth=2, color='red')
+
+
+def generate_connected_graph(planet_list: List[Planet], hyperlanes: dict) -> Tuple[nx.Graph, dict]:
 
     planet_search_dict = {planet.name: planet for planet in planet_list}
     planets_on_hyperlanes = {planet_search_dict[planet] for planet in chain.from_iterable(hyperlanes.values())}
@@ -150,23 +165,32 @@ if __name__ == "__main__":
     graph.add_weighted_edges_from(get_edges_for_graph_components(graph),
                                   label="Component Artificial Route", color='purple')
 
-    components = list(nx.connected_components(graph))
-    print(len(components))
-    plot_graph(graph)
+    return graph, planet_search_dict
 
-    # for region in regions:
-    #     if isinstance(region.shape, Polygon):
-    #         plt.plot(*region.shape.exterior.xy, linewidth=0.5)
 
-    for grid in grids:
-        if isinstance(grid.shape, Polygon):
-            plt.plot(*grid.shape.exterior.xy, linewidth=0.5, color='gray')
+def get_shortest_path(graph: nx.Graph, start: Planet, end: Planet, pairs=False):
+    path = nx.shortest_path(graph, start, end, weight='weight')
+    return get_planet_pair(path) if pairs else path
 
-    path_plot = get_planet_pair(nx.shortest_path(graph, planet_search_dict["Bonadan"], planet_search_dict['Imynusoph'], weight='weight'))
 
-    for start_planet, end_planet in path_plot:
-        plt.plot([start_planet.location.x, end_planet.location.x],
-                 [start_planet.location.y, end_planet.location.y], linewidth=2, color='red')
+if __name__ == "__main__":
+    region_path = './data/regions_db.json'
+    grid_path = './data/grid_db.json'
+    hyperlanes_path = './data/hyperlanes_db.json'
+
+    regions = get_region_db(region_path)
+    grids = get_grid_db(grid_path)
+    hyperlanes = get_hyperlanes(hyperlanes_path)
+
+    planet_list = get_planets(regions)
+    graph, planet_search_dict = generate_connected_graph(planet_list, hyperlanes)
+
+    print(len(list(nx.connected_components(graph))))
+    plot_map(graph, grids)
+
+    path_plot = get_shortest_path(graph, planet_search_dict["Coruscant"], planet_search_dict["Jakku"])
+
+    plot_path(path_plot)
 
     plt.axis('off')
     plt.show()
