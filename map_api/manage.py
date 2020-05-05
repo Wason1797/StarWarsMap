@@ -28,6 +28,5 @@ def plotgraph():
     plot_map(graph, path=path_plot, grids=grids)
 
 
-
 if __name__ == '__main__':
     manager.run()
