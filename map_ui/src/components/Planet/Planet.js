@@ -1,19 +1,23 @@
-import React, { useRef, useState } from "react";
-import { useThree, extend } from "react-three-fiber";
-import { TextMesh } from "troika-3d-text/dist/textmesh-standalone.umd.js";
-
+import {Vector3} from "three"
+import Text from "../Text/Text";
 import PropTypes from "prop-types";
+import { useThree } from "react-three-fiber";
+import React, { useRef, useState } from "react";
 
-extend({ TextMesh });
 
 const Planet = (props) => {
   const mesh = useRef();
 
+  const {camera} = useThree();
+
   const [hovered, setHover] = useState(false);
 
-  const { camera } = useThree();
-
   const [x, y] = props.position;
+
+  const handleClick = () => {
+    props.handleExternalClick(props.name, [x, y, 100])
+    camera.lookAt(new Vector3(x, y, 10))
+  }
 
   return (
     <>
@@ -23,7 +27,7 @@ const Planet = (props) => {
         scale={[0.65, 0.65, 0.65]}
         onPointerOver={(e) => setHover(true)}
         onPointerOut={(e) => setHover(false)}
-        onClick={(e) => props.handleClick(props.name)}
+        onClick={(e) => handleClick()}
       >
         <sphereBufferGeometry
           attach="geometry"
@@ -35,22 +39,7 @@ const Planet = (props) => {
           color={hovered ? props.specialColor : props.normalColor}
         ></meshStandardMaterial>
       </mesh>
-      {hovered ? (
-        <textMesh
-          rotation={camera.rotation}
-          position={[x, y, 3.5]}
-          text={props.name}
-          font="http://localhost:3000/fonts/STARWARS.ttf"
-          fontSize={1.5}
-          anchorX={0.5}
-          anchorY={0.5}
-        >
-          <meshPhongMaterial
-            attach="material"
-            color="white"
-          ></meshPhongMaterial>
-        </textMesh>
-      ) : null}
+      {hovered ? <Text text={props.name} position={[x, y, 3.5]} /> : null}
     </>
   );
 };
@@ -64,7 +53,7 @@ Planet.propTypes = {
 };
 
 Planet.defaultProps = {
-  handleClick: (e) => {},
+  handleExternalClick: (e) => {},
   position: [0, 0, 0],
   normalColor: "orange",
   specialColor: "hotpink",

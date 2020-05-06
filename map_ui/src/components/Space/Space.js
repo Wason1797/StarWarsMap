@@ -1,15 +1,12 @@
-import React, { useEffect, useState } from "react";
 import Planet from "../Planet/Planet";
 import Hyperlane from "../Hyperlane/Hyperlane";
 import CustomLine from "../CustomLine/CustomLine";
+import React, { useEffect, useState } from "react";
+import { onPlanetClick } from "../../functions/eventHandler";
 
-import {
-  getPlanets,
-  getHyperlanes,
-  getPathBetweenPlanets,
-} from "../../functions/apiHandler";
+import { getPlanets, getHyperlanes } from "../../functions/apiHandler";
 
-const Space = () => {
+const Space = (props) => {
   const [planets, setPlanets] = useState([]);
   const [hyperlanes, setHyperlanes] = useState([]);
   const [path, setPath] = useState([]);
@@ -27,55 +24,41 @@ const Space = () => {
       .catch((ex) => setHyperlanes([]));
   }, []);
 
-  const handlePlanetClick = (planetName) => {
-
-    if (planets.length > 0) {
-      if (startPlanet === "") {
-        setStartPlanet(planetName);
-      } else if (planetName !== startPlanet) {
-        getPathBetweenPlanets(startPlanet, planetName)
-          .then((response) => response.json())
-          .then((path) => {
-            setPath([]);
-            setPath(path.map((point) => [...point, 0]));
-            setStartPlanet("");
-          })
-          .catch((ex) => {
-            setPath([]);
-            setStartPlanet("");
-          });
-      }
-    }
+  const handlePlanetClick = (planetName, planetPosition) => {
+    onPlanetClick(planets, startPlanet, planetName, setStartPlanet, setPath);
+    props.controls.current.updateCamera(planetPosition);
   };
 
   return (
     <>
       <ambientLight />
       <pointLight position={[window.innerWidth, window.innerHeight, 10]} />
-
-      {hyperlanes.map((lane) => (
-        <Hyperlane
-          key={lane.name}
-          points={lane.points}
-          name={lane.name}
-          color="lightblue"
-        ></Hyperlane>
-      ))}
+      <group>
+        {hyperlanes.map((lane) => (
+          <Hyperlane
+            key={lane.name}
+            points={lane.points}
+            name={lane.name}
+            color="lightblue"
+          ></Hyperlane>
+        ))}
+      </group>
       {path.length > 0 ? (
-        <CustomLine points={path} color="red"></CustomLine>
+        <CustomLine points={path} color="red" maxSamples={250}></CustomLine>
       ) : null}
-
-      {planets.map((planet, index) => {
-        const [x, y] = planet.location;
-        return (
-          <Planet
-            key={index}
-            position={[x, y, 0]}
-            name={planet.name}
-            handleClick={handlePlanetClick}
-          ></Planet>
-        );
-      })}
+      <group>
+        {planets.map((planet, index) => {
+          const [x, y] = planet.location;
+          return (
+            <Planet
+              key={index}
+              position={[x, y, 0]}
+              name={planet.name}
+              handleExternalClick={handlePlanetClick}
+            ></Planet>
+          );
+        })}
+      </group>
     </>
   );
 };
