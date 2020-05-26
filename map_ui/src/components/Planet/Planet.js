@@ -1,30 +1,24 @@
-import {Vector3} from "three"
 import Text from "../Text/Text";
 import PropTypes from "prop-types";
-import { useThree } from "react-three-fiber";
 import React, { useRef, useState } from "react";
-
 
 const Planet = (props) => {
   const mesh = useRef();
-
-  const {camera} = useThree();
 
   const [hovered, setHover] = useState(false);
 
   const [x, y] = props.position;
 
   const handleClick = () => {
-    props.handleExternalClick(props.name, [x, y, 100])
-    camera.lookAt(new Vector3(x, y, 10))
-  }
+    props.handleExternalClick(props.name, [x, y, 100]);
+  };
 
   return (
     <>
       <mesh
         position={props.position}
         ref={mesh}
-        scale={[0.65, 0.65, 0.65]}
+        scale={[0.5, 0.5, 0.5]}
         onPointerOver={(e) => setHover(true)}
         onPointerOut={(e) => setHover(false)}
         onClick={(e) => handleClick()}
