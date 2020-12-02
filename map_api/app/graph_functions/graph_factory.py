@@ -11,6 +11,15 @@ import networkx as nx
 
 
 def generate_connected_graph(planet_list: List[Planet], hyperlanes: dict) -> Tuple[nx.Graph, dict]:
+    """A function that generates the full graph from a list of planets and hyperlane info
+
+    Args:
+        planet_list (List[Planet]): The list of planet objects to be mapped
+        hyperlanes (dict): The hyperlane dictionary that holds which planets belong to them
+
+    Returns:
+        Tuple[nx.Graph, dict]: The generated graph and a search dictionary for planets.
+    """
 
     planet_search_dict = {planet.name: planet for planet in planet_list}
     planets_on_hyperlanes = {planet_search_dict[planet] for planet in chain.from_iterable(hyperlanes.values())}
@@ -41,6 +50,17 @@ def generate_connected_graph(planet_list: List[Planet], hyperlanes: dict) -> Tup
 
 
 def get_shortest_path(graph: nx.Graph, start: Planet, end: Planet, pairs=False):
+    """A fuinction to get the shortest path between planets in the graph
+
+    Args:
+        graph (nx.Graph): The grap representation of the map
+        start (Planet): The starting planet's name
+        end (Planet): The ending planet's name
+        pairs (bool, optional): Use this attribute to get the path as a pair representation. Defaults to False.
+
+    Returns:
+        [type]: [description]
+    """
     path = nx.shortest_path(graph, start, end, weight='weight')
     return get_planet_pair(path) if pairs else path
 
