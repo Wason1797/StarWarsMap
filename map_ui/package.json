@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "react-three-fiber": "^4.1.4",
-    "three": "^0.125.0",
+    "three": "^0.137.0",
     "threejs-meshline": "^2.0.10",
     "troika-3d-text": "^0.24.1"
   },
