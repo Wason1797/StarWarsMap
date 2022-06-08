@@ -1,6 +1,5 @@
 import React, { useRef } from "react";
-import { useThree } from "react-three-fiber";
-
+import { useThree } from "@react-three/fiber";
 import Controls from "../Controls/Controls";
 import Space from "../Space/Space";
 

@@ -1,4 +1,4 @@
-import Text from "../Text/Text";
+import CustomText from "../Text/Text";
 import PropTypes from "prop-types";
 import React, { useRef, useState } from "react";
 
@@ -33,7 +33,7 @@ const Planet = (props) => {
           color={hovered ? props.specialColor : props.normalColor}
         ></meshStandardMaterial>
       </mesh>
-      {hovered ? <Text text={props.name} position={[x, y, 3.5]} /> : null}
+      {hovered ? <CustomText text={props.name} position={[x, y, 3.5]} /> : null}
     </>
   );
 };

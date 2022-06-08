@@ -1,6 +1,6 @@
-import Text from "../Text/Text";
-import PropTypes from "prop-types";
 import React, { useState, useRef } from "react";
+import CustomText from "../Text/Text";
+import PropTypes from "prop-types";
 import CustomLine from "../CustomLine/CustomLine";
 
 const Hyperlane = ({ points, name, color }) => {
@@ -25,7 +25,7 @@ const Hyperlane = ({ points, name, color }) => {
         points={points.map((point) => [...point, 0])}
         color={color}
       ></CustomLine>
-      {hovered ? <Text text={name} position={textPosition} /> : null}
+      {hovered ? <CustomText text={name} position={textPosition} /> : null}
     </group>
   );
 };

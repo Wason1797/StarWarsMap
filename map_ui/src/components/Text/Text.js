@@ -1,15 +1,15 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { useThree, extend } from "react-three-fiber";
-import { TextMesh } from "troika-3d-text/dist/textmesh-standalone.umd.js";
+import { useThree, extend } from "@react-three/fiber";
+import { Text } from "troika-three-text";
 
-extend({ TextMesh });
+extend({ Text });
 
-const Text = ({ text, position, color }) => {
+const CustomText = ({ text, position, color }) => {
   const { camera } = useThree();
 
   return (
-    <textMesh
+    <text
       rotation={camera.rotation}
       position={position}
       text={text}
@@ -19,20 +19,20 @@ const Text = ({ text, position, color }) => {
       anchorY={0.5}
     >
       <meshPhongMaterial attach="material" color={color}></meshPhongMaterial>
-    </textMesh>
+    </text>
   );
 };
 
-Text.propTypes = {
+CustomText.propTypes = {
   position: PropTypes.arrayOf(PropTypes.number),
   text: PropTypes.string,
   color: PropTypes.string,
 };
 
-Text.defaultProps = {
+CustomText.defaultProps = {
   position: [0, 0, 0],
   text: "",
   color: "white",
 };
 
-export default Text;
+export default CustomText;

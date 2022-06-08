@@ -1,5 +1,5 @@
 import React, { useRef, useImperativeHandle, forwardRef } from "react";
-import { extend, useThree, useFrame } from "react-three-fiber";
+import { extend, useThree, useFrame } from "@react-three/fiber";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 
 extend({ OrbitControls });
@@ -31,7 +31,7 @@ const Controls = forwardRef(({}, ref) => {
       enableDamping
       dampingFactor={0.1}
       maxDistance={250}
-      minDistance={5}
+      minDistance={1}
       minPolarAngle={Math.PI / 6}
       maxPolarAngle={Math.PI / 2}
     ></orbitControls>
